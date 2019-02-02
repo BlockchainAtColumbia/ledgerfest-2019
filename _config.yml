@@ -79,34 +79,33 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+eventLocationName: "Columbia University, Uris Hall"
+eventLocationLink: "www8.gsb.columbia.edu"
+eventStreetAddress: "3022 Broadway"
+eventAddressLocality: "New York"
+eventAddressLocalityRegion: "New York"
+eventPostalCode: "10027"
+eventAddressCountry: "U.S"
+eventStartTime: "2019-02-15T09:30"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "2019-02-15T20:30"
+eventPlaceCoordinates: "40.8086429, -73.9614591"
+mapCenterCoordinates: "40.8086429, -73.9614591"
+mapMobileCenterCoordinates: "40.8086429, -73.9614591"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueBigImage: "venue_5.jpg"
+venueSmallImage1: "venue_7.jpg"
+venueSmallImage2: "venue_8.jpg"
+venueSmallImage3: "venue_9.jpg"
+venueTitle: "Uris Hall"
+venueFeatures: ["Columbia Business School", "3rd floor", "3022 Broadway, New York, NY 10027"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "ledgerfest19"
 
 # Partners Block
 organizersTitle: "Organizers"
