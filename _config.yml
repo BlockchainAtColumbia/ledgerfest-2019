@@ -86,9 +86,9 @@ eventAddressLocality: "New York"
 eventAddressLocalityRegion: "New York"
 eventPostalCode: "10027"
 eventAddressCountry: "U.S"
-eventStartTime: "2019-02-15T00:00"
+eventStartTime: "2019-02-15T09:30"
 eventDoorTime: "09:00"
-eventEndTime: "2019-02-16T00:00"
+eventEndTime: "2019-02-15T20:30"
 eventPlaceCoordinates: "40.8086429, -73.9614591"
 mapCenterCoordinates: "40.8086429, -73.9614591"
 mapMobileCenterCoordinates: "40.8086429, -73.9614591"
@@ -105,8 +105,7 @@ venueFeatures: ["Columbia Business School", "3rd floor", "3022 Broadway, New Yor
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "ledgerfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "ledgerfest19"
 
 # Partners Block
 organizersTitle: "Organizers"
