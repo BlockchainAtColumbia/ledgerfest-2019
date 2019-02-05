@@ -42,34 +42,30 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://www.eventbrite.com/e/ledgerfest-student-blockchain-summit-tickets-53368271938", text: "Register"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://www.eventbrite.com/e/ledgerfest-student-blockchain-summit-tickets-53368271938", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "LedgerFest <typeout>"
-eventDate: "February 15-16, 2019"
+eventDate: "February 15, 2019"
 typeoutTextValues: '"", "2019"'
 typeoutFallback: "2019"
 heroButtons:
- - {link: "http://eventbrite.com", text: "Register"}
+ - {link: "https://www.eventbrite.com/e/ledgerfest-student-blockchain-summit-tickets-53368271938", text: "Register"}
 # About Block
 aboutTitle: "About LedgerFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "LedgerFest is Columbia University’s first blockchain and crypto conference. Through this event, we aim to expose students to companies and industry leaders doing phenomenal work in the distributed ledger environment." }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "kadena.jpg", text: "LedgerFest is Columbia University’s first blockchain and crypto conference. Through this conference, B@C aims to introduce students to companies and individuals doing phenomenal work in the distributed ledger environment." }
+ - {title: "Topics", image: "hackathon.jpg", text: "Decentralized finance, industry applications of distributed ledgers, humanitarian and political impact of blockchains and more." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "12", specialCharacter: "", info: "hours", detail: ""}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: ""}
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -138,9 +134,6 @@ footerBlocks:
 # Speakers List Block
 showSessions: true
 
-# Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Hackathon
 hackathonTitle: "Hackathon"
