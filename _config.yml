@@ -50,7 +50,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "LedgerFest <typeout>"
-eventDate: "February 15-16, 2019"
+eventDate: "February 15, 2019"
 typeoutTextValues: '"", "2019"'
 typeoutFallback: "2019"
 heroButtons:
