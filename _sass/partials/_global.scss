@@ -163,75 +163,75 @@ time {
 @keyframes base {
     0% {
         transform: rotate(0deg);
-        background-color: #21aa29;
+        background-color: #3D5165; // Green 21aa29 -> Dark Grey 3D5165
     }
     25% {
         transform: rotate(90deg);
-        background-color: #2159d6;
+        background-color: #AFDDED; // Blue 2159d6 -> light blue AFDDED
     }
     50% {
         transform: rotate(180deg);
-        background-color: #d62408;
+        background-color: #DAE1EA; // Red d62408 -> light grey DAE1EA
     }
     75% {
         transform: rotate(270deg);
-        background-color: #ffcf00;
+        background-color: #8FC8DB; // Yellow ffcf00 -> Diff light blue 8FC8DB
     }
     100% {
         transform: rotate(360deg);
-        background-color: #21aa29;
+        background-color: #3D5165; // Green Again 21aa29 -> Dark Grey 3D5165
     }
 }
 @keyframes reveal {
     0% {
-        background-color: #2159d6;
+        background-color: #AFDDED; // Blue 2159d6 -> light blue AFDDED
         transform: rotate(0deg);
     }
     25% {
-        background-color: #d62408;
+        background-color: #DAE1EA; // Red d62408 -> light grey DAE1EA
         transform: rotate(180deg);
     }
     50% {
-        background-color: #ffcf00;
+        background-color: #8FC8DB; // Yellow ffcf00 -> Diff light blue 8FC8DB
         transform: rotate(0deg);
     }
     75% {
-        background-color: #21aa29;
+        background-color: #3D5165; //Green 21aa29 -> Dark Grey 3D5165
         transform: rotate(180deg);
     }
     100% {
-        background-color: #2159d6;
+        background-color: #AFDDED; // Blue 2159d6 -> light blue AFDDED
         transform: rotate(0deg);
     }
 }
 @keyframes flip {
     0% {
-        background-color: #21aa29;
+        background-color: #3D5165; //Green 21aa29 -> Dark Grey 3D5165
         transform: rotateY(0deg);
     }
     12.5%, 87.56% {
-        background-color: #105514;
+        background-color: #213F57; // Olive 105514 -> Dark 213F57
     }
     12.51%, 37.5% {
-        background-color: #102c6b;
+        background-color: #91e3ff; // Navy 102c6b -> darker light blue 91e3ff
     }
     25% {
-        background-color: #2159d6;
+        background-color: #AFDDED; // Blue 2159d6 -> light blue AFDDED
     }
     37.51%, 62.5% {
-        background-color: #6b1204;
+        background-color: #e1e9f4; // Maroon 6b1204 -> soft grey e1e9f4
     }
     50% {
-        background-color: #d62408;
+        background-color: #DAE1EA; // Red d62408 -> light grey DAE1EA
     }
     62.51%, 87.5% {
-        background-color: #7f6700;
+        background-color: #6FA3B5; // Gold 7f6700 -> Real weird blue 6FA3B5
     }
     75%, 78% {
-        background-color: #ffcf00;
+        background-color: #8FC8DB; // Yellow ffcf00 -> Diff light blue 8FC8DB
     }
     100% {
-        background-color: #21aa29;
+        background-color: #3D5165; //Green 21aa29 -> Dark Grey 3D5165
         transform: rotateY(-720deg);
     }
 }
