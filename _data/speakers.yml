@@ -1,32 +1,41 @@
 -
   id: 1
+  name: "Tom"
+  surname: "Trowbridge"
+  company: "Gemini"
+  title: "Business"
+  bio: "Tom was part of the founding team of Hedera with broad responsibility across the business, and is the President of Hedera. He has been advising and investing in technology companies since 1996 when started his career as an investment banker in the telecom group of Bear, Stearns & Co. He began investing in early stage companies in 1998 when he joined the private equity firm Alta Communications and over three and a half years executed ten deals in technology, telecom, and media and served on multiple boards. After Alta Communications, he spent almost four years at Goldman Sachs before holding various positions at Lombard Odier and Atticus Capital. Before joining Hedera, he started and ran the New York office for UK-based Odey Asset Management. Tom has a BA from Yale University and an MBA from Columbia University with honors (Beta Gamma Sigma)."
+  thumbnailUrl: ttrowbridge.png
+  rockstar: false
+-
+  id: 2
   name: "Alessandra"
   surname: "Shultz"
   company: "Gemini"
   title: "Business"
   bio: "No bio available"
-  thumbnailUrl: blank-profile.png
-  rockstar: false
--
-  id: 2
-  name: "Jamie"
-  surname: "Chapman"
-  company: "Gemini"
-  title: "No title available"
-  bio: "No bio available"
-  thumbnailUrl: blank-profile.png
+  thumbnailUrl: ashultz.jpg
   rockstar: false
 -
   id: 3
+  name: "Eran"
+  surname: "Tromer"
+  company: "ZCash"
+  title: "Founding Scientist"
+  bio: "Associate professor of Computer Science, Tel Aviv University; research scientist, Columbia University; founding scientist, Zcash"
+  thumbnailUrl: etromer.png
+  rockstar: true
+-
+  id: 4
   name: "Santiago"
   surname: "Siri"
   company: "Democratic Earth"
   title: "Founder"
   bio: "No bio available"
-  thumbnailUrl: blank-profile.png
+  thumbnailUrl: ssiri.png
   rockstar: true
 -
-  id: 4
+  id: 5
   name: "Sam"
   surname: "Trautwein"
   company: "Carbon-12 Labs, MakerDAO"
@@ -34,10 +43,10 @@
   bio: "Sam Trautwein is the CEO & Co-Founder of Carbon, a FinTech company that aims to make the global economy both more inclusive and efficient through the use of distributed ledger technology and artificial intelligence. Carbon’s investors include General Catalyst, Firstmark, Plug and Play,  Digital Currency Group, and The Fund.
 
   Sam grew up in the Dominican Republic and attended Stanford University, where he studied Computer Science with a concentration in AI. He has focused mainly on distributed systems, market design, and encryption. Prior to Carbon, he was a founding member of the Computer Science team at Plenty, an AI hydroponics company backed by Softbank."
-  thumbnailUrl: blank-profile.png
+  thumbnailUrl: strautwein.png
   rockstar: false
 -
-  id: 5
+  id: 6
   name: "Omid"
   surname: "Malekan"
   company: "Citi Ventures"
@@ -47,7 +56,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/malekanoms"}
 -
-  id: 6
+  id: 7
   name: "Ariana"
   surname: "Fowler"
   company: "Frontiers"
@@ -55,7 +64,7 @@
   thumbnailUrl: afowler.jpg
   rockstar: false
 -
-  id: 7
+  id: 8
   name: "Joyce"
   surname: "Yang"
   company: "Global Coin Research"
@@ -67,7 +76,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/JoyceInNYC"}
 -
-  id: 8
+  id: 9
   name: "Tarun"
   surname: "Chitra"
   company: "Gauntlet Networks"
@@ -78,7 +87,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/tarunchitra"}
 -
-  id: 9
+  id: 10
   name: "Monica"
   surname: "Quaintance"
   company: "Kadena"
@@ -86,15 +95,6 @@
   bio: "Monica Quaintance is head of Research and Networks at Kadena. She is a former tech lead and Senior Data Engineer at Rent the Runway and a former Qualitative Analytics Engineer at the SEC. Prior to that, as an Investment Banking Associate Monica securitized and restructured commercial real estate assets at Cushman and Wakefield. Monica has degrees in Statistics and Probability as well as Economics from Columbia University. Monica is also a co-founder of Universal Consensus, a blockchain-focused pro-diversity organization."
   thumbnailUrl: mquaintance.jpg
   rockstar: true
--
-  id: 10
-  name: "Tom"
-  surname: "Trowbridge"
-  company: "Hedera"
-  title: "President"
-  bio: "Tom was part of the founding team of Hedera with broad responsibility across the business, and is the President of Hedera. He has been advising and investing in technology companies since 1996 when started his career as an investment banker in the telecom group of Bear, Stearns & Co. He began investing in early stage companies in 1998 when he joined the private equity firm Alta Communications and over three and a half years executed ten deals in technology, telecom, and media and served on multiple boards. After Alta Communications, he spent almost four years at Goldman Sachs before holding various positions at Lombard Odier and Atticus Capital. Before joining Hedera, he started and ran the New York office for UK-based Odey Asset Management. Tom has a BA from Yale University and an MBA from Columbia University with honors (Beta Gamma Sigma)."
-  thumbnailUrl: blank-profile.png
-  rockstar: false
 -
   id: 11
   name: "Petr"
@@ -120,7 +120,7 @@
   company: "ConsenSys"
   title: "Fund Foundry & ConsenSys Capital Asset Management"
   bio: "No bio available"
-  thumbnailUrl: blank-profile.png
+  thumbnailUrl: aajanaku.png
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/adeajanaku"}
@@ -175,13 +175,13 @@
   rockstar: false
 -
   id: 19
-  name: "Eran"
-  surname: "Tromer"
-  company: "ZCash"
-  title: "Founding Scientist"
-  bio: "Associate professor of Computer Science, Tel Aviv University; research scientist, Columbia University; founding scientist, Zcash"
-  thumbnailUrl: blank-profile.png
-  rockstar: true
+  name: "Jamie"
+  surname: "Chapman"
+  company: "Gemini"
+  title: "No title available"
+  bio: "No bio available"
+  thumbnailUrl: jchapman.png
+  rockstar: false
 -
   id: 20
   name: "Vishakh"

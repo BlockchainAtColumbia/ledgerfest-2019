@@ -48,7 +48,7 @@ rightNavigationButtons:
  - {link: "https://www.eventbrite.com/e/ledgerfest-student-blockchain-summit-tickets-53368271938", text: "Register"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "cuview.jpg"
 heroTitle: "LedgerFest <typeout>"
 eventDate: "February 15, 2019"
 typeoutTextValues: '"", "2019"'
