@@ -24,25 +24,25 @@
   title: "Gemini Digital Assets Trading Platform Launch"
   description: "Launch of Gemini mobile app and digital asset trading platform."
   subtype: keynote
-  speakers: [1, 2]
+  speakers: [19, 2]
 -
   id: 002
   title: "Voting and blockchain"
   description: "Voting and blockchain."
   subtype: keynote
-  speakers: [3]
+  speakers: [4]
 -
   id: 003
   title: "Stablecoin Panel"
   description: ""
   subtype: panel
-  speakers: [4, 5]
+  speakers: [5, 6]
 -
   id: 004
   title: "International Development and Humanitarian Work Blockchain Use Cases"
   description: "Blockchain use cases in international development and humanitarian work."
   subtype: keynote
-  speakers: [6,7]
+  speakers: [8,7]
 -
   id: 005
   title: "Simulating Cryptoeconomic Stability"
@@ -66,7 +66,7 @@
   title: "Hedera Hashgraph Protocol"
   description: "Overview of Hedera Hashgraph's protocol."
   subtype: keynote
-  speakers: [10]
+  speakers: [1]
 -
   id: 009
   title: "cmorq Data Structure for Blockchain Data"
@@ -108,4 +108,4 @@
   title: "ZCash Overview"
   description: "Technical overview of ZCash."
   subtype: keynote
-  speakers: [19]
+  speakers: [3]
