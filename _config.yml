@@ -44,9 +44,9 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://www.eventbrite.com/e/ledgerfest-student-blockchain-summit-tickets-53368271938", text: "Register"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://www.eventbrite.com/e/ledgerfest-student-blockchain-summit-tickets-53368271938", text: "Register"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -55,7 +55,7 @@ eventDate: "February 15-16, 2019"
 typeoutTextValues: '"", "2019"'
 typeoutFallback: "2019"
 heroButtons:
- - {link: "http://eventbrite.com", text: "Register"}
+ - {link: "https://www.eventbrite.com/e/ledgerfest-student-blockchain-summit-tickets-53368271938", text: "Register"}
 # About Block
 aboutTitle: "About LedgerFest"
 aboutBlock:
