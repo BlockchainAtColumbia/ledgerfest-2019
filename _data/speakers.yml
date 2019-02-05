@@ -1,53 +1,220 @@
 -
+  id: 1
+  name: "Alessandra"
+  surname: "Shultz"
+  company: "Gemini"
+  title: "Business"
+  bio: "No bio available"
+  thumbnailUrl: blank-profile.png
+  rockstar: false
+-
+  id: 2
+  name: "Jamie"
+  surname: "Chapman"
+  company: "Gemini"
+  title: "No title available"
+  bio: "No bio available"
+  thumbnailUrl: blank-profile.png
+  rockstar: false
+-
   id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+  name: "Santiago"
+  surname: "Siri"
+  company: "Democratic Earth"
+  title: "Founder"
+  bio: "No bio available"
+  thumbnailUrl: blank-profile.png
   rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 -
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+  name: "Sam"
+  surname: "Trautwein"
+  company: "Carbon-12 Labs, MakerDAO"
+  title: "Founder & CEO"
+  bio: "Sam Trautwein is the CEO & Co-Founder of Carbon, a FinTech company that aims to make the global economy both more inclusive and efficient through the use of distributed ledger technology and artificial intelligence. Carbon’s investors include General Catalyst, Firstmark, Plug and Play,  Digital Currency Group, and The Fund.
+
+  Sam grew up in the Dominican Republic and attended Stanford University, where he studied Computer Science with a concentration in AI. He has focused mainly on distributed systems, market design, and encryption. Prior to Carbon, he was a founding member of the Computer Science team at Plenty, an AI hydroponics company backed by Softbank."
+  thumbnailUrl: blank-profile.png
+  rockstar: false
 -
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  name: "Omid"
+  surname: "Malekan"
+  company: "Citi Ventures"
+  title: "Blockchain Innovation Expert"
+  bio: "Omid Malekan is the Explainer-in-Chief of blockchain technology. He's the author of \"The Story of the Blockchain, A Beginner's Guide to the Technology That Nobody Understands\" (CreateSpace) as well as a myriad of essays on the many applications of the technology. He works as a blockchain innovation expert at Citi Ventures and conducts executive training through Conversance\""
+  thumbnailUrl: omalekan.jpg
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "twitter", link: "https://twitter.com/malekanoms"}
 -
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  name: "Ariana"
+  surname: "Fowler"
+  company: "Frontiers"
+  title: "Ariana Fowler is passionate about the role of emerging technology in emerging markets as a long-term solution to international development issues. Her academic research specialized in refugee-related interventions, as well as the economic implications of the refugee crisis. She has conducted field work in Ghana & Honduras and was awarded the Critical Language Scholarship to study Urdu in northern India. Most recently at ConsenSys, she sat on the Social Impact team, consulting on client-facing projects in the public, private and not-for-profit sectors, as well as developing use-cases and research studies focusing on the application of blockchain technology as it relates to development and humanitarian aid."
+  thumbnailUrl: afowler.jpg
+  rockstar: false
+-
+  id: 7
+  name: "Joyce"
+  surname: "Yang"
+  company: "Global Coin Research"
+  title: "Founder"
+  bio: "Joyce Yang is the founder of Global Coin Research, a subscription-based newsletter that provides insights and analysis on the Cryptocurrency and Blockchain happenings in Asia. In the crypto landscape, Asia is headquarters to the top exchanges that make up over 50% of cryptocurrency trading volume, and houses the largest mining companies with over 60% of hash power. No matter how you look at it, not knowing what's going on in Asia means that you only see half of the picture.
+  Joyce formerly worked as a research analyst at Merrill Lynch and CICC (the largest Chinese investment bank) writing about Technology companies. She received her BA from Harvard University. "
+  thumbnailUrl: jyang.png
+  rockstar: false
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "twitter", link: "https://twitter.com/JoyceInNYC"}
+-
+  id: 8
+  name: "Tarun"
+  surname: "Chitra"
+  company: "Gauntlet Networks"
+  title: "Founder & CEO"
+  bio: "Tarun Chitra is an alumni of D. E. Shaw Research (DESRES), Vatic Labs, a high-frequency trading firm, and Cornell. He fell into the blockchain world in 2011, when he was working on ASICs at DESRES and observed Bitcoin ASIC mining rigs substantially delay DESRES’s ASIC production. He has spent the last seven years working on simulation-based R&D at the intersection of high-performance computing and AI and is applying this knowledge to the blockchain ecosystem."
+  thumbnailUrl: tchitra.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/tarunchitra"}
+-
+  id: 9
+  name: "Monica"
+  surname: "Quaintance"
+  company: "Kadena"
+  title: "Head of Research and Networks"
+  bio: "Monica Quaintance is head of Research and Networks at Kadena. She is a former tech lead and Senior Data Engineer at Rent the Runway and a former Qualitative Analytics Engineer at the SEC. Prior to that, as an Investment Banking Associate Monica securitized and restructured commercial real estate assets at Cushman and Wakefield. Monica has degrees in Statistics and Probability as well as Economics from Columbia University. Monica is also a co-founder of Universal Consensus, a blockchain-focused pro-diversity organization."
+  thumbnailUrl: mquaintance.jpg
+  rockstar: true
+-
+  id: 10
+  name: "Tom"
+  surname: "Trowbridge"
+  company: "Hedera"
+  title: "President"
+  bio: "Tom was part of the founding team of Hedera with broad responsibility across the business, and is the President of Hedera. He has been advising and investing in technology companies since 1996 when started his career as an investment banker in the telecom group of Bear, Stearns & Co. He began investing in early stage companies in 1998 when he joined the private equity firm Alta Communications and over three and a half years executed ten deals in technology, telecom, and media and served on multiple boards. After Alta Communications, he spent almost four years at Goldman Sachs before holding various positions at Lombard Odier and Atticus Capital. Before joining Hedera, he started and ran the New York office for UK-based Odey Asset Management. Tom has a BA from Yale University and an MBA from Columbia University with honors (Beta Gamma Sigma)."
+  thumbnailUrl: blank-profile.png
+  rockstar: false
+-
+  id: 11
+  name: "Petr"
+  surname: "Novotny"
+  company: "IBM T.J. Watson Research Center"
+  title: "Research Staff"
+  bio: "Petr Novotny is a Research Staff Member at IBM T.J. Watson Research Center in NY, where he works on innovations of Blockchain technologies, contributes to the Hyperledger Fabric project, leads the development of Blockchain based analytical, audit and compliance methods and tools, and leads the development of seminal Blockchain based industry use cases in areas including finance, trading, media, and others. He has more than 15 years of experience in engineering and research of distributed software systems. He received the M.Sc. degree from University College London and the Ph.D. degree from Imperial College London, where he was also a post-doctoral Research Associate, as well as visiting scientist at the U.S. Army Research Laboratory. He is a co-author of a series of publications on blockchain topics, a co-inventor of a number of patent applications on blockchain technologies, as well as a co-author of the book: Hands-On Blockchain with Hyperledger: Building decentralized applications with Hyperledger Fabric and Composer."
+  thumbnailUrl: pnovotny.png
+  rockstar: false
+-
+  id: 12
+  name: "Chi-Ru"
+  surname: "Jou"
+  company: "CKR Law LLP"
+  title: "Partner"
+  bio: "Chi-Ru Jou is a Partner in the Blockchain Technology & Digital Currency Group of CKR Law LLP, a global law firm with approximately fifty offices worldwide and more than forty attorneys contributing to the blockchain group.  Ms. Jou began her career practicing securities litigation at the prominent international law firm Paul, Weiss, Rifkind, Wharton & Garrison LLP and was most recently a Partner in the Blockchain & Digital Currency Group at Emergent LLP.  She received her J.D. from Columbia Law School as a James Kent Scholar and her A.B. magna cum laude, Phi Beta Kappa from Harvard University."
+  thumbnailUrl: cjou.jpg
+  rockstar: false
+-
+  id: 13
+  name: "Ade"
+  surname: "Ajanaku"
+  company: "ConsenSys"
+  title: "Fund Foundry & ConsenSys Capital Asset Management"
+  bio: "No bio available"
+  thumbnailUrl: blank-profile.png
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/adeajanaku"}
+-
+  id: 14
+  name: "Faisal"
+  surname: "Kahn"
+  company: "ConsenSys"
+  title: "Strategy & Business Development"
+  bio: "Faisal leads strategy and business development for PegaSys, the Enterprise Ethereum arm of ConsenSys. Prior to his work in blockchain, Faisal worked in management consulting on projects in technology, financial services, and government. He has a BA in Economics and Arabic from Williams College and an MBA from Columbia Business School."
+  thumbnailUrl: fkhan.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/fkhan11"}
+-
+  id: 15
+  name: "Hossein"
+  surname: "Azari"
+  company: "cmorq"
+  title: "Co-Founder & CEO"
+  bio: "No bio available"
+  thumbnailUrl: blank-profile.png
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/Soufiani"}
+-
+  id: 16
+  name: "Matthew"
+  surname: "Austin"
+  company: "JP Morgan"
+  title: "Blockchain Strategy"
+  bio: "Matt Austin works within the Blockchain Center of Excellence for the Corporate & Investment Bank (CIB) at J.P. Morgan. He is tasked with developing a comprehensive blockchain strategy across business lines, implementing cutting edge technology solutions, conducting in-depth industry research and analysis, and performing client outreach. Previously, Matt was the business manager for the CIB’s Channels, Analytics and Innovation organization. In that role, Matt advanced a comprehensive innovation strategy across Treasury Services and led the global team’s operations and finance functions. Prior to joining J.P. Morgan, he worked in venture capital at Khosla Ventures in San Francisco where he managed a pipeline of over 150 active early and late stage portfolio companies representing over $4.5B in total value. Prior to that role, Matt worked at Conversion Capital, a FinTech focused venture capital firm based in New York. Matt started his career in KPMG’s Banking & Capital Markets practice before attending Columbia Business School, where he received his MBA focused on entrepreneurial finance. Matt is also a licensed CPA in New York State and an alumnus of Le Moyne College in Syracuse."
+  thumbnailUrl: maustin.jpg
+  rockstar: false
+-
+  id: 17
+  name: "Emily"
+  surname: "Yu"
+  company: "Axioni"
+  title: "Lead Technical Product Manager"
+  bio: "Emily Yu is the lead Technical Product Manager at Axoni. She designs features for Axoni’s platform products, in addition to leading  production-grade client engagements with major financial institutions. Outside of work, she is an avid snowboarder, traveler and doesn’t get social media."
+  thumbnailUrl: eyu.jpg
+  rockstar: false
+-
+  id: 18
+  name: "Josh"
+  surname: "Dillon"
+  company: "Axoni"
+  title: "Technical Product Manager"
+  bio: "Josh Dillon is a Technical Product Manager at Axoni and focuses on designing infrastructure products for deploying blockchains. Josh graduated Columbia University in 2016, where he studied Computer Science-Statistics. He is a self-certified Master Hiker, drinks Red Bull for the taste and once melted a mattress with an Arduino."
+  thumbnailUrl: jdillon.jpg
+  rockstar: false
+-
+  id: 19
+  name: "Eran"
+  surname: "Tromer"
+  company: "ZCash"
+  title: "Founding Scientist"
+  bio: "Associate professor of Computer Science, Tel Aviv University; research scientist, Columbia University; founding scientist, Zcash"
+  thumbnailUrl: blank-profile.png
+  rockstar: true
+-
+  id: 20
+  name: "Vishakh"
+  surname: "Null"
+  company: "Cryptonomic"
+  title: "Co-Founder"
+  bio: "No bio available"
+  thumbnailUrl: blank-profile.png
+  rockstar: false
+-
+  id: 21
+  name: "George"
+  surname: "Calle"
+  company: "R3"
+  title: "Research Member"
+  bio: "George Calle is a member of the research team at R3, an enterprise software company that supports the blockchain platform, Corda. At R3, George focuses on blockchain applications and features deployed within enterprises. George graduated from the University of Pennsylvania, where he studied Politics, Philosophy and Economics. "
+  thumbnailUrl: gcalle.png
+  rockstar: false
+-
+  id: 22
+  name: "Tom"
+  surname: "Borgers"
+  company: "ConsenSys"
+  title: "No title available"
+  bio: "No bio available"
+  thumbnailUrl: blank-profile.png
+  rockstar: false
+-
+  id: 23
+  name: "Eilon"
+  surname: "Shalev"
+  company: "Elphi"
+  title: "No title available"
+  bio: "No bio available"
+  thumbnailUrl: blank-profile.png
+  rockstar: false

@@ -1,59 +1,111 @@
 -
   id: 307
-  title: "Coffee Break"
-  place: "Hall"
+  title: "Lunch Break and Networking"
+  place: "Uris 3rd Floor"
   service: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
+  id: 306
+  title: "Opening Statement"
+  place: "Uris 3rd Floor"
+  service: false
+-
+  id: 308
+  title: "Closing Remarks"
+  place: "Uris 3rd Floor"
+  service: false
+-
+  id: 309
+  title: ""
+  place: ""
+  service: false
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Gemini Digital Assets Trading Platform Launch"
+  description: "Launch of Gemini mobile app and digital asset trading platform."
+  subtype: keynote
+  speakers: [1, 2]
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Voting and blockchain"
+  description: "Voting and blockchain."
+  subtype: keynote
+  speakers: [3]
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  title: "Stablecoin Panel"
+  description: ""
+  subtype: panel
+  speakers: [4, 5]
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "International Development and Humanitarian Work Blockchain Use Cases"
+  description: "Blockchain use cases in international development and humanitarian work."
   subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [6,7]
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "Simulating Cryptoeconomic Stability"
+  description: "Gauntlet Networks and the role of simulation in optimizing cryptoeconomic stability."
   subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [8]
+-
+  id: 006
+  title: "Trustworthy Smart Contracts"
+  description: "Kadena is a next generation blockchain ecosystem that is bringing trustworthy smart contracts to everyone."
+  subtype: keynote
+  speakers: [9]
+-
+  id: 007
+  title: "Legal Regulation in Crypto"
+  description: "Regulatory developments in the crypto space; current regulatory landscape for token offerings."
+  subtype: keynote
+  speakers: [12]
+-
+  id: 008
+  title: "Hedera Hashgraph Protocol"
+  description: "Overview of Hedera Hashgraph's protocol."
+  subtype: keynote
+  speakers: [10]
+-
+  id: 009
+  title: "cmorq Data Structure for Blockchain Data"
+  description: "Overview of cmorq, a platform which organizes blockchain data."
+  subtype: keynote
+  speakers: [15]
+-
+  id: 010
+  title: "ConsenSys operations"
+  description: "ConsenSys operations"
+  subtype: keynote
+  speakers: [13,14, 22]
+-
+  id: 011
+  title: "Axoni Programming Language for Secure Smart Contracts"
+  description: "Enterprise production implementations of blockchain, and/or AxLang, a new programming language Axoni is developing and will soon release open source to enable safer, more secure smart contracts on Ethereum."
+  subtype: keynote
+  speakers: [17,18]
+-
+  id: 012
+  title: "Permissioned Ledgers Panel"
+  description: "Permissioned Ledgers (moderated by Jared Madfes, Advisor to Omega One and Founder of Blockswan)"
+  subtype: panel
+  speakers: [11, 21, 23]
+-
+  id: 013
+  title: "Blockchain and Investment Banking Panel"
+  description: "Blockchain and Investment Banking. (moderated by Alex Price, Founding Partner at Qu Capital)"
+  subtype: panel
+  speakers: [16]
+-
+  id: 014
+  title: "Beyond Blockchain: Developing Technology for Decentralization"
+  description: "Technologies, aside from blockchains, necessary for decentralization, applicability of blockchains in the finance industry and the user experience challenges with building blockchain applications."
+  subtype: keynote
+  speakers: [20]
+-
+  id: 015
+  title: "ZCash Overview"
+  description: "Technical overview of ZCash."
+  subtype: keynote
+  speakers: [19]
