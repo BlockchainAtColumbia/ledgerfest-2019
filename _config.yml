@@ -59,9 +59,8 @@ heroButtons:
 # About Block
 aboutTitle: "About LedgerFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "LedgerFest is Columbia University’s first blockchain and crypto conference. Through this event, we aim to expose students to companies and industry leaders doing phenomenal work in the distributed ledger environment." }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "kadena.jpg", text: "LedgerFest is Columbia University’s first blockchain and crypto conference. Through this conference, B@C aims to introduce students to companies and individuals doing phenomenal work in the distributed ledger environment." }
+ - {title: "Topics", image: "hackathon.jpg", text: "Decentralized finance, industry applications of distributed ledgers, humanitarian and political impact of blockchains and more." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
