@@ -2,8 +2,8 @@
   id: 1
   name: "Tom"
   surname: "Trowbridge"
-  company: "Gemini"
-  title: "Business"
+  company: "Hedera Hashgraph"
+  title: "President"
   bio: "Tom was part of the founding team of Hedera with broad responsibility across the business, and is the President of Hedera. He has been advising and investing in technology companies since 1996 when started his career as an investment banker in the telecom group of Bear, Stearns & Co. He began investing in early stage companies in 1998 when he joined the private equity firm Alta Communications and over three and a half years executed ten deals in technology, telecom, and media and served on multiple boards. After Alta Communications, he spent almost four years at Goldman Sachs before holding various positions at Lombard Odier and Atticus Capital. Before joining Hedera, he started and ran the New York office for UK-based Odey Asset Management. Tom has a BA from Yale University and an MBA from Columbia University with honors (Beta Gamma Sigma)."
   thumbnailUrl: ttrowbridge.png
   rockstar: false
