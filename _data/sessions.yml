@@ -8,8 +8,8 @@
   id: 306
   title: "Opening Statement"
   place: "Uris 3rd Floor"
-  subtitle: "Nir Kabessa, Blockchain at Columbia"
   service: false
+  speakers: [24]
 -
   id: 308
   title: "Closing Remarks"

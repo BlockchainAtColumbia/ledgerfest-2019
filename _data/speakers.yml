@@ -218,3 +218,12 @@
   bio: "No bio available"
   thumbnailUrl: eshalev.jpg
   rockstar: false
+-
+  id: 24
+  name: "Nir"
+  surname: "Kabessa"
+  company: "Blockchain at Columbia"
+  title: "No title available"
+  bio: "No bio available"
+  thumbnailUrl: eshalev.jpg
+  rockstar: false
