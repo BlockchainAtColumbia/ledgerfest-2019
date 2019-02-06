@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Frequently Asked Questions
-permalink: /cod/
+permalink: /faq/
 isStaticPost: true
 ---
 #### What is LedgerFest?

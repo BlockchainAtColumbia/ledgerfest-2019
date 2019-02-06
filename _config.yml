@@ -42,7 +42,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/cod/", text: "FAQ"}
+ - {permalink: "/faq/", text: "FAQ"}
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com/e/ledgerfest-student-blockchain-summit-tickets-53368271938", text: "Register"}
 rightNavigationButtons:
@@ -130,7 +130,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Frequently Asked Questions"}
+   - {permalink: "/faq/", text: "Frequently Asked Questions"}
 
 # Speakers List Block
 showSessions: true
