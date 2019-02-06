@@ -1,20 +1,29 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: Frequently Asked Questions
 permalink: /cod/
 isStaticPost: true
 ---
+#### What is LedgerFest?
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+LedgerFest is Columbia University’s first blockchain and crypto conference. Through this event, we aim to expose students to companies and industry leaders doing phenomenal work in the distributed ledger environment.
 
+#### Where will LedgerFest be held?
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+LedgerFest will be held in the Columbia Business School on the 3rd floor of Uris Hall.
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
+#### Who can attend?
 
+Anyone is welcome to attend! We welcome attendees from Columbia University including: Barnard, CC, SEAS, General Studies as well as any of the graduate schools as well as students and DLT enthusiasts from the community at large. Simply provide evidence of your ticket purchase at the registration table on the 3rd floor of Uris Hall.
 
-######Contacts:
+#### What is the cost to attend?
 
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
+LedgerFest is free for students with valid ID. General admission is $40. LedgerFest is not-for-profit and all revenue will go towards the summit.
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+#### Do I need to attend the entire day?
+
+No, we have plenty of events spread throughout the day. Feel free to attend any and all events that are of interest to you.
+
+#### Will there be food?
+
+Yes lunch and snacks will be provided throughout the day, thanks to our generous sponsors.
