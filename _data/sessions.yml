@@ -7,8 +7,8 @@
 -
   id: 306
   title: "Opening Statement"
-  place: "Uris 3rd Floor"
-  service: false
+  description: "President of Blockchain at Columbia gives the Opening Statement"
+  speakers: [24]
 -
   id: 308
   title: "Closing Remarks"

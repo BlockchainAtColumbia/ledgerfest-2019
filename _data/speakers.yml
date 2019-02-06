@@ -38,7 +38,7 @@
   id: 5
   name: "Sam"
   surname: "Trautwein"
-  company: "Carbon-12 Labs, MakerDAO"
+  company: "Carbon-12 Labs"
   title: "Founder & CEO"
   bio: "Sam Trautwein is the CEO & Co-Founder of Carbon, a FinTech company that aims to make the global economy both more inclusive and efficient through the use of distributed ledger technology and artificial intelligence. Carbon’s investors include General Catalyst, Firstmark, Plug and Play,  Digital Currency Group, and The Fund.
 
@@ -217,4 +217,13 @@
   title: "No title available"
   bio: "No bio available"
   thumbnailUrl: eshalev.jpg
+  rockstar: false
+-
+  id: 24
+  name: "Nir"
+  surname: "Kabessa"
+  company: "Blockchain at Columbia"
+  title: "No title available"
+  bio: "No bio available"
+  thumbnailUrl: nkabessa.jpg
   rockstar: false
