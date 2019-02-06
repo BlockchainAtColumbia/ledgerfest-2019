@@ -31,7 +31,7 @@
   surname: "Siri"
   company: "Democracy Earth"
   title: "Founder"
-  bio: "No bio available"
+  bio: "Founder of Democracy Earth Foundation, a Y Combinator backed non-profit building incorruptible digital governance technology; and Partido de la Red (Peers Party), first digital political party that ran for elections with candidates committed to people's will online. Partner of Bitex.la, leading bitcoin exchange in South America. Member of the World Economic Forum since 2012. Author of Hacktivismo, published in 2015 by Random House."
   thumbnailUrl: ssiri.jpg
   rockstar: true
 -
@@ -40,9 +40,7 @@
   surname: "Trautwein"
   company: "Carbon-12 Labs"
   title: "Founder & CEO"
-  bio: "Sam Trautwein is the CEO & Co-Founder of Carbon, a FinTech company that aims to make the global economy both more inclusive and efficient through the use of distributed ledger technology and artificial intelligence. Carbon’s investors include General Catalyst, Firstmark, Plug and Play,  Digital Currency Group, and The Fund.
-
-  Sam grew up in the Dominican Republic and attended Stanford University, where he studied Computer Science with a concentration in AI. He has focused mainly on distributed systems, market design, and encryption. Prior to Carbon, he was a founding member of the Computer Science team at Plenty, an AI hydroponics company backed by Softbank."
+  bio: "Sam studied Computer Science with a concentration in AI at Stanford University. In 2014 Sam started mining Bitcoin in his dorm room. Sam was on the founding CS team of Plenty, a Softbank-backed AI hydroponics company and it was while he was there that he started working on Carbon in June of 2017." 
   thumbnailUrl: strautwein.jpg
   rockstar: false
 -
