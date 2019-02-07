@@ -81,8 +81,8 @@
   speakers: [13,14, 22]
 -
   id: 011
-  title: "Axoni Programming Language for Secure Smart Contracts"
-  description: "Enterprise production implementations of blockchain, and/or AxLang, a new programming language Axoni is developing and will soon release open source to enable safer, more secure smart contracts on Ethereum."
+  title: "Building Blockchains for Capital Markets"
+  description: "Building Blockchains for Capital Markets: A discussion with Axoni technologists about the future of distributed ledger applications in financial institutions."
   subtype: keynote
   speakers: [17,18]
 -
