@@ -15,6 +15,7 @@
   description: "Head of Operations gives the Closing Statement"
   place: "Uris 3rd Floor"
   service: false
+  speakers: [25]
 -
   id: 309
   title: ""
