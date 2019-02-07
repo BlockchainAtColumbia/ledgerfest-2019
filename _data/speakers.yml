@@ -140,7 +140,7 @@
   company: "cmorq"
   title: "Co-Founder & CEO"
   bio: "No bio available"
-  thumbnailUrl: blank-profile.png
+  thumbnailUrl: hazari.jpeg
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/Soufiani"}
@@ -221,7 +221,16 @@
   name: "Nir"
   surname: "Kabessa"
   company: "Blockchain at Columbia"
-  title: "No title available"
+  title: "President"
   bio: "No bio available"
   thumbnailUrl: nkabessa.jpg
+  rockstar: false
+-
+  id: 25
+  name: "Taylor"
+  surname: "Murrell"
+  company: "Blockchain at Columbia"
+  title: "Head of Operations"
+  bio: "No bio available"
+  thumbnailUrl: tmurrell.jpg
   rockstar: false
