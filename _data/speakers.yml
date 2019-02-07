@@ -6,7 +6,7 @@
   title: "President"
   bio: "Tom was part of the founding team of Hedera with broad responsibility across the business, and is the President of Hedera. He has been advising and investing in technology companies since 1996 when started his career as an investment banker in the telecom group of Bear, Stearns & Co. He began investing in early stage companies in 1998 when he joined the private equity firm Alta Communications and over three and a half years executed ten deals in technology, telecom, and media and served on multiple boards. After Alta Communications, he spent almost four years at Goldman Sachs before holding various positions at Lombard Odier and Atticus Capital. Before joining Hedera, he started and ran the New York office for UK-based Odey Asset Management. Tom has a BA from Yale University and an MBA from Columbia University with honors (Beta Gamma Sigma)."
   thumbnailUrl: ttrowbridge.png
-  rockstar: false
+  rockstar: true
 -
   id: 2
   name: "Alessandra"
@@ -81,7 +81,7 @@
   title: "Founder & CEO"
   bio: "Tarun Chitra is an alumni of D. E. Shaw Research (DESRES), Vatic Labs, a high-frequency trading firm, and Cornell. He fell into the blockchain world in 2011, when he was working on ASICs at DESRES and observed Bitcoin ASIC mining rigs substantially delay DESRES’s ASIC production. He has spent the last seven years working on simulation-based R&D at the intersection of high-performance computing and AI and is applying this knowledge to the blockchain ecosystem."
   thumbnailUrl: tchitra.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/tarunchitra"}
 -
