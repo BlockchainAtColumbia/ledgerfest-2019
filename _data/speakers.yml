@@ -9,12 +9,12 @@
   rockstar: true
 -
   id: 2
-  name: "Alessandra"
-  surname: "Shultz"
+  name: "Brian"
+  surname: "KimJohnson"
   company: "Gemini"
   title: "Business"
   bio: "No bio available"
-  thumbnailUrl: ashultz.jpg
+  thumbnailUrl: blank-profile.png
   rockstar: false
 -
   id: 3
