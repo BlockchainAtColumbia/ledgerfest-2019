@@ -37,7 +37,7 @@
   title: "Stablecoin Panel"
   description: ""
   subtype: panel
-  speakers: [5, 6]
+  speakers: [5, 6, 26]
 -
   id: 004
   title: "International Development and Humanitarian Work Blockchain Use Cases"
@@ -79,7 +79,7 @@
   title: "ConsenSys operations"
   description: "ConsenSys operations"
   subtype: keynote
-  speakers: [13,14, 22]
+  speakers: [13,14]
 -
   id: 011
   title: "Building Blockchains for Capital Markets"

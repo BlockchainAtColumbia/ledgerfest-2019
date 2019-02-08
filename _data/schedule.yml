@@ -2,8 +2,8 @@
   date: "2019-02-15"
   dateReadable: "February 15th"
   tracks:
-    - {title: "Main Stage (Uris 301)", color: "#90be4e"}
-    - {title: "Second Stage (Uris 333)", color: "#03a9f4"}
+    - {title: "Uris 301", color: "#90be4e"}
+    - {title: "Uris 333", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "09:30",
