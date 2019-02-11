@@ -17,9 +17,9 @@
   speakers: [25]
 -
   id: 309
-  title: "Columbia-IBM Center for Blockchain and Data Transparency"
-  place: "Uris 3rd Floor"
-  speakers: [28]
+  title: ""
+  place: ""
+  service: false
 -
   id: 001
   title: "Gemini Digital Assets Trading Platform Launch"
@@ -110,3 +110,8 @@
   description: "Technical overview of ZCash."
   subtype: keynote
   speakers: [3]
+-
+  id: 016
+  title: "Columbia-IBM Center for Blockchain and Data Transparency"
+  place: "Uris 3rd Floor"
+  speakers: [28]
