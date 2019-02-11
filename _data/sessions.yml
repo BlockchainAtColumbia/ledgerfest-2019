@@ -17,9 +17,9 @@
   speakers: [25]
 -
   id: 309
-  title: ""
-  place: ""
-  service: false
+  title: "Columbia-IBM Center for Blockchain and Data Transparency"
+  place: "Uris 3rd Floor"
+  service: [28]
 -
   id: 001
   title: "Gemini Digital Assets Trading Platform Launch"
