@@ -1,8 +1,26 @@
 <!-- Begin Map Section -->
-<section class="image-section parallax" style="min-height:100%; background-image: url({{ site.baseurl }}/img/sections-background/map.png);">
+<section id="location-map" class="location-map" style="min-height:90%; background-image: url({{ site.baseurl }}/img/sections-background/map.png); background-repeat: no-repeat;
+    background-position: center center !important;
+    background-size: cover !important;">
+    <div class="overlay solid-overlay" style = "background: rgba(37,32,31,0.3);"></div>
     <div class="content-wrapper">
-        <div class="col-md-8 col-md-offset-2">
-            <h3 style="color:lightskyblue;"><strong>Location</strong></h3>
+        <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
+            <div class="row">
+                <div class="pull-left">
+                    <h3>{{ site.locationBlockTitle }}</h3>
+                    <ul>
+                        {% if site.eventLocationName %}<li>{{ site.eventLocationName }}</li>{% endif %}
+                        <li>{{ site.eventStreetAddress }}, {{ site.eventAddressLocality }}</li>
+                        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                        <li>
+                            {% assign startTime = site.eventStartTime | split: "T" %}
+                            <time>{{ startTime[1] }}</time> -
+                            {% assign endTime = site.eventEndTime | split: "T" %}
+                            <time>{{ endTime[1] }}</time>
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </div>
 </section>
