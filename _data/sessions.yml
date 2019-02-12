@@ -122,3 +122,9 @@
   description: "The emergence of enterprise tokens: Understanding it and its use cases."
   subtype: keynote
   speakers: [30]
+-
+  id: 018
+  title: "Blockchain-based Distributed Shared Computing"
+  description: "For high performance computing jobs, cloud is the most popular choice as it benefits enterprises by reducing costs and enabling a focus on core business competence rather than IT and infrastructure issues.  However, several key disadvantages should be noticed:  Firstly, using cloud service means all data, even sensitive information, has to be shared with the cloud service provider; second, pay-as-you-go cloud service always has an overall price tag that ends up being higher than expected.  Blockchain can offer solutions to both those issues.  Specifically, we can leverage the power of tens of millions of idle computers across the world by using a blockchain network, and then distribute the task’s workload among these computers at a very low cost. In a nutshell, we build “Uber in computing”. In this talk, we will introduce the architecture and technical components of the blockchain-based distributed shared computing platform and also discuss the challenges and opportunities down the road."
+  subtype: keynote
+  speakers: [29]

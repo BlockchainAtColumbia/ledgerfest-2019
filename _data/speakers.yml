@@ -265,8 +265,8 @@
   id: 29
   name: "Chong"
   surname: "Li"
-  company: ""
-  title: ""
+  company: "Nakamoto & Turing Labs, Columbia University, Canonchain Networks"
+  title: "Co-founder of Nakamoto & Turing Labs, Inc, and an adjunct professor at Columbia University. He is also chief architect and head of research at Canonchain Networks."
   bio: "Chong Li is a co-founder of Nakamoto & Turing Labs, Inc, and an adjunct professor at Columbia University. He is also chief architect and head of research at Canonchain Networks. Dr. Li received a Ph.D degree from Iowa State University and a B.E degree from Harbin Institute of Technology, both in Electrical Engineering.  He is a holder of 200+ international and U.S. patents (granted and pending). Dr. Li has published many high influential papers on top-ranking journals, including Proceedings of the IEEE, IEEE Trans. on Information Theory, IEEE Communications Magazine, Automatica, etc. He has also served as reviewer and technical program committee for most prestigious journals and conferences in communications and control society. He is the author of the book "Reinforcement Learning for Cyber-physical Systems" (Taylor & Francis CRC press). Chong Li has broad research interests including information theory, machine learning, blockchain, networked control and communication, PYH/MAC system design for advance telecommunication technologies (5G and beyond)."
   thumbnailUrl: cli.jpg
   rockstar: false
