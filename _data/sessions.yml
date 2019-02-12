@@ -113,5 +113,13 @@
 -
   id: 016
   title: "Columbia-IBM Center for Blockchain and Data Transparency"
-  place: "Uris 3rd Floor"
+  description: "Columbia-IBM Center for Blockchain and Data Transparency"
+  subtype: keynote
   speakers: [28]
+-
+  id: 017
+  title: "The emergence of enterprise tokens: Understanding it and its use cases."
+  description: "The emergence of enterprise tokens: Understanding it and its use cases."
+  subtype: keynote
+  speakers: [30]
+  
