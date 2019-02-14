@@ -12,7 +12,7 @@
   name: "Brian"
   surname: "KimJohnson"
   company: "Gemini"
-  title: "Business"
+  title: "Software Engineer"
   bio: "Brian KimJohnson is a software engineer at Gemini and leads the wallet software team. His team builds the software to securely store and manage digital assets on behalf of customers. Prior to Gemini, Brian served as the Director of Infrastructure at Novus Partners, where he worked to build and deliver an online portfolio analysis platform and software for institutional and private clients. He also worked as a software engineer at Audible.com with a focus on content discovery. Brian graduated from Virginia Tech with a Bachelor in Computer Science."
   thumbnailUrl: bkimjohnson.jpeg
   rockstar: false
@@ -176,7 +176,7 @@
   name: "Jamie"
   surname: "Chapman"
   company: "Gemini"
-  title: "No title available"
+  title: "Project Manager"
   bio: "Ms. Chapman is a Project Manager at Gemini Trust Company, LLC. Prior to joining Gemini, Ms. Chapman competed as a professional athlete for the U.S. National Rowing team and various elite teams. She also worked as a Fixed Income Research Associate in the Capital Markets division of Janney Montgomery Scott, an asset management firm with $3.46B AUM. Ms. Chapman graduated from Dartmouth College with a Bachelor of Arts in Environmental Studies. "
   thumbnailUrl: jchapman.jpg
   rockstar: false
