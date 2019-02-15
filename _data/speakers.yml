@@ -94,15 +94,6 @@
   thumbnailUrl: mquaintance.jpg
   rockstar: true
 -
-  id: 11
-  name: "Petr"
-  surname: "Novotny"
-  company: "IBM T.J. Watson Research Center"
-  title: "Research Staff"
-  bio: "Petr Novotny is a Research Staff Member at IBM T.J. Watson Research Center in NY, where he works on innovations of Blockchain technologies, contributes to the Hyperledger Fabric project, leads the development of Blockchain based analytical, audit and compliance methods and tools, and leads the development of seminal Blockchain based industry use cases in areas including finance, trading, media, and others. He has more than 15 years of experience in engineering and research of distributed software systems. He received the M.Sc. degree from University College London and the Ph.D. degree from Imperial College London, where he was also a post-doctoral Research Associate, as well as visiting scientist at the U.S. Army Research Laboratory. He is a co-author of a series of publications on blockchain topics, a co-inventor of a number of patent applications on blockchain technologies, as well as a co-author of the book: Hands-On Blockchain with Hyperledger: Building decentralized applications with Hyperledger Fabric and Composer."
-  thumbnailUrl: pnovotny.png
-  rockstar: false
--
   id: 12
   name: "Chi-Ru"
   surname: "Jou"
@@ -199,15 +190,6 @@
   thumbnailUrl: gcalle.png
   rockstar: false
 -
-  id: 22
-  name: "Tom"
-  surname: "Borgers"
-  company: "ConsenSys"
-  title: "No title available"
-  bio: "No bio available"
-  thumbnailUrl: blank-profile.png
-  rockstar: false
--
   id: 23
   name: "Eilon"
   surname: "Shalev"
@@ -279,4 +261,4 @@
   bio: "Jamiel is CEO of Chainhaus, an advisory, software development, application studio and education company focused on blockchain, artificial intelligence and machine learning. Jamiel has over 15 years of experience in technology, capital markets, real estate and management working for organizations like Lehman Brothers, JPMorgan, Bank of America, Sun Microsystems, SONY and Citigroup. Jamiel is an adjunct professor at Columbia Business School, NYU and CUNY teaching graduate-level blockchain, AI and data science subjects. He is currently authoring a book on Corda with O’Reilly and runs one of the largest blockchain, AI and data science Meetups in NYC. Jamiel is a licensed real estate agent in New York and New Jersey with Douglas Elliman. Jamiel holds an MBA from Columbia University and BBA from Baruch College and is completing his second Masters in Artificial Intelligence from Georgia Institute of Technology.Jamiel enjoys coding in over 8 languages, travel and the elegant nuances of MMA."
   thumbnailUrl: jsheikh.jpg
   rockstar: false
--
+=
