@@ -40,9 +40,9 @@
   speakers: [5, 6, 26]
 -
   id: 004
-  title: "International Development and Humanitarian Work Blockchain Use Cases"
-  description: "Blockchain use cases in international development and humanitarian work."
-  subtype: keynote
+  title: "International Applications of Blockchain"
+  description: "Panel with Ariana Fowler on blockchain use cases in social impact. Panel with Joyce Yang on Global Coin Research."
+  subtype: panel
   speakers: [8,7]
 -
   id: 005
