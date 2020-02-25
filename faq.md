@@ -6,7 +6,7 @@ isStaticPost: true
 ---
 #### What is LedgerFest?
 
-LedgerFest is Columbia University’s first blockchain and crypto conference. Through this event, we aim to expose students to companies and industry leaders doing phenomenal work in the distributed ledger environment.
+LedgerFest is Columbia University’s second blockchain and crypto conference. Through this event, we aim to expose students to companies and industry leaders doing phenomenal work in the distributed ledger environment.
 
 #### Where will LedgerFest be held?
 

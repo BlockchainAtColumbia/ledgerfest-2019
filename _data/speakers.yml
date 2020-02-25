@@ -1,263 +1,263 @@
 -
   id: 1
-  name: "Tom"
-  surname: "Trowbridge"
-  company: "Hedera Hashgraph"
-  title: "President"
-  bio: "Tom was part of the founding team of Hedera with broad responsibility across the business, and is the President of Hedera. He has been advising and investing in technology companies since 1996 when started his career as an investment banker in the telecom group of Bear, Stearns & Co. He began investing in early stage companies in 1998 when he joined the private equity firm Alta Communications and over three and a half years executed ten deals in technology, telecom, and media and served on multiple boards. After Alta Communications, he spent almost four years at Goldman Sachs before holding various positions at Lombard Odier and Atticus Capital. Before joining Hedera, he started and ran the New York office for UK-based Odey Asset Management. Tom has a BA from Yale University and an MBA from Columbia University with honors (Beta Gamma Sigma)."
-  thumbnailUrl: ttrowbridge.png
-  rockstar: true
--
-  id: 2
-  name: "Brian"
-  surname: "KimJohnson"
-  company: "Gemini"
-  title: "Software Engineer"
-  bio: "Brian KimJohnson is a software engineer at Gemini and leads the wallet software team. His team builds the software to securely store and manage digital assets on behalf of customers. Prior to Gemini, Brian served as the Director of Infrastructure at Novus Partners, where he worked to build and deliver an online portfolio analysis platform and software for institutional and private clients. He also worked as a software engineer at Audible.com with a focus on content discovery. Brian graduated from Virginia Tech with a Bachelor in Computer Science."
-  thumbnailUrl: bkimjohnson.jpeg
-  rockstar: false
--
-  id: 3
-  name: "Eran"
-  surname: "Tromer"
-  company: "ZCash"
-  title: "Founding Scientist"
-  bio: "Associate professor of Computer Science, Tel Aviv University; research scientist, Columbia University; founding scientist, Zcash"
-  thumbnailUrl: etromer.png
-  rockstar: true
--
-  id: 4
-  name: "Santiago"
-  surname: "Siri"
-  company: "Democracy Earth"
-  title: "Founder"
-  bio: "Founder of Democracy Earth Foundation, a Y Combinator backed non-profit building incorruptible digital governance technology; and Partido de la Red (Peers Party), first digital political party that ran for elections with candidates committed to people's will online. Partner of Bitex.la, leading bitcoin exchange in South America. Member of the World Economic Forum since 2012. Author of Hacktivismo, published in 2015 by Random House."
-  thumbnailUrl: ssiri.jpg
-  rockstar: true
--
-  id: 5
-  name: "Sam"
-  surname: "Trautwein"
-  company: "Carbon-12 Labs"
-  title: "Founder & CEO"
-  bio: "Sam studied Computer Science with a concentration in AI at Stanford University. In 2014 Sam started mining Bitcoin in his dorm room. Sam was on the founding CS team of Plenty, a Softbank-backed AI hydroponics company and it was while he was there that he started working on Carbon in June of 2017."
-  thumbnailUrl: strautwein.jpg
-  rockstar: false
--
-  id: 6
-  name: "Omid"
-  surname: "Malekan"
-  company: "Citi Ventures"
-  title: "Blockchain Innovation Expert"
-  bio: "Omid Malekan is the Explainer-in-Chief of blockchain technology. He's the author of \"The Story of the Blockchain, A Beginner's Guide to the Technology That Nobody Understands\" (CreateSpace) as well as a myriad of essays on the many applications of the technology. He works as a blockchain innovation expert at Citi Ventures and conducts executive training through Conversance\""
-  thumbnailUrl: omalekan.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/malekanoms"}
--
-  id: 7
-  name: "Ariana"
-  surname: "Fowler"
-  company: "Frontiers"
-  title: "Ariana Fowler is passionate about the role of emerging technology in emerging markets as a long-term solution to international development issues. Her academic research specialized in refugee-related interventions, as well as the economic implications of the refugee crisis. She has conducted field work in Ghana & Honduras and was awarded the Critical Language Scholarship to study Urdu in northern India. Most recently at ConsenSys, she sat on the Social Impact team, consulting on client-facing projects in the public, private and not-for-profit sectors, as well as developing use-cases and research studies focusing on the application of blockchain technology as it relates to development and humanitarian aid."
-  thumbnailUrl: afowler.jpg
-  rockstar: false
--
-  id: 8
-  name: "Joyce"
-  surname: "Yang"
-  company: "Global Coin Research"
-  title: "Founder"
-  bio: "Joyce Yang is the founder of Global Coin Research, a subscription-based newsletter that provides insights and analysis on the Cryptocurrency and Blockchain happenings in Asia. In the crypto landscape, Asia is headquarters to the top exchanges that make up over 50% of cryptocurrency trading volume, and houses the largest mining companies with over 60% of hash power. No matter how you look at it, not knowing what's going on in Asia means that you only see half of the picture.
-  Joyce formerly worked as a research analyst at Merrill Lynch and CICC (the largest Chinese investment bank) writing about Technology companies. She received her BA from Harvard University. "
-  thumbnailUrl: jyang.png
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/JoyceInNYC"}
--
-  id: 9
-  name: "Tarun"
-  surname: "Chitra"
-  company: "Gauntlet Networks"
-  title: "Founder & CEO"
-  bio: "Tarun Chitra is an alumni of D. E. Shaw Research (DESRES), Vatic Labs, a high-frequency trading firm, and Cornell. He fell into the blockchain world in 2011, when he was working on ASICs at DESRES and observed Bitcoin ASIC mining rigs substantially delay DESRES’s ASIC production. He has spent the last seven years working on simulation-based R&D at the intersection of high-performance computing and AI and is applying this knowledge to the blockchain ecosystem."
-  thumbnailUrl: tchitra.jpg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/tarunchitra"}
--
-  id: 10
-  name: "Monica"
-  surname: "Quaintance"
-  company: "Kadena"
-  title: "Head of Research and Networks"
-  bio: "Monica Quaintance is head of Research and Networks at Kadena. She is a former tech lead and Senior Data Engineer at Rent the Runway and a former Qualitative Analytics Engineer at the SEC. Prior to that, as an Investment Banking Associate Monica securitized and restructured commercial real estate assets at Cushman and Wakefield. Monica has degrees in Statistics and Probability as well as Economics from Columbia University. Monica is also a co-founder of Universal Consensus, a blockchain-focused pro-diversity organization."
-  thumbnailUrl: mquaintance.jpg
-  rockstar: true
--
-  id: 12
-  name: "Chi-Ru"
-  surname: "Jou"
-  company: "CKR Law LLP"
-  title: "Partner"
-  bio: "Chi-Ru Jou is a Partner in the Blockchain Technology & Digital Currency Group of CKR Law LLP, a global law firm with approximately fifty offices worldwide and more than forty attorneys contributing to the blockchain group.  Ms. Jou began her career practicing securities litigation at the prominent international law firm Paul, Weiss, Rifkind, Wharton & Garrison LLP and was most recently a Partner in the Blockchain & Digital Currency Group at Emergent LLP.  She received her J.D. from Columbia Law School as a James Kent Scholar and her A.B. magna cum laude, Phi Beta Kappa from Harvard University."
-  thumbnailUrl: cjou.jpg
-  rockstar: false
--
-  id: 13
-  name: "Ade"
-  surname: "Ajanaku"
-  company: "ConsenSys"
-  title: "Fund Foundry & ConsenSys Capital Asset Management"
-  bio: "Ade is the Product, Strategy & Operations Lead at Fund Foundry and initiative within Consensys Capital that aims to provide Risk Management Solutions for Digital Asset Managers. Ade joined Consensys in 2017 after graduating from Barnard College, Columbia University where she Co-Founded The Columbia Blockchain Lab."
-  thumbnailUrl: aajanaku.jpg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/adeajanaku"}
--
-  id: 14
-  name: "Faisal"
-  surname: "Kahn"
-  company: "ConsenSys"
-  title: "Strategy & Business Development"
-  bio: "Faisal leads strategy and business development for PegaSys, the Enterprise Ethereum arm of ConsenSys. Prior to his work in blockchain, Faisal worked in management consulting on projects in technology, financial services, and government. He has a BA in Economics and Arabic from Williams College and an MBA from Columbia Business School."
-  thumbnailUrl: fkhan.jpg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/fkhan11"}
--
-  id: 15
-  name: "Hossein"
-  surname: "Azari"
-  company: "cmorq"
-  title: "Co-Founder & CEO"
-  bio: "No bio available"
-  thumbnailUrl: hazari.jpeg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "https://twitter.com/Soufiani"}
--
-  id: 16
-  name: "Matthew"
-  surname: "Austin"
-  company: "JP Morgan"
-  title: "Blockchain Strategy"
-  bio: "Matt Austin works within the Blockchain Center of Excellence for the Corporate & Investment Bank (CIB) at J.P. Morgan. He is tasked with developing a comprehensive blockchain strategy across business lines, implementing cutting edge technology solutions, conducting in-depth industry research and analysis, and performing client outreach. Previously, Matt was the business manager for the CIB’s Channels, Analytics and Innovation organization. In that role, Matt advanced a comprehensive innovation strategy across Treasury Services and led the global team’s operations and finance functions. Prior to joining J.P. Morgan, he worked in venture capital at Khosla Ventures in San Francisco where he managed a pipeline of over 150 active early and late stage portfolio companies representing over $4.5B in total value. Prior to that role, Matt worked at Conversion Capital, a FinTech focused venture capital firm based in New York. Matt started his career in KPMG’s Banking & Capital Markets practice before attending Columbia Business School, where he received his MBA focused on entrepreneurial finance. Matt is also a licensed CPA in New York State and an alumnus of Le Moyne College in Syracuse."
-  thumbnailUrl: maustin.jpg
-  rockstar: false
--
-  id: 17
-  name: "Emily"
-  surname: "Yu"
-  company: "Axioni"
-  title: "Lead Technical Product Manager"
-  bio: "Emily Yu is the lead Technical Product Manager at Axoni. She designs features for Axoni’s platform products, in addition to leading  production-grade client engagements with major financial institutions. Outside of work, she is an avid snowboarder, traveler and doesn’t get social media."
-  thumbnailUrl: eyu.jpg
-  rockstar: false
--
-  id: 18
-  name: "Josh"
-  surname: "Dillon"
-  company: "Axoni"
-  title: "Technical Product Manager"
-  bio: "Josh Dillon is a Technical Product Manager at Axoni and focuses on designing infrastructure products for deploying blockchains. Josh graduated Columbia University in 2016, where he studied Computer Science-Statistics. He is a self-certified Master Hiker, drinks Red Bull for the taste and once melted a mattress with an Arduino."
-  thumbnailUrl: jdillon.jpg
-  rockstar: false
--
-  id: 19
-  name: "Jamie"
-  surname: "Chapman"
-  company: "Gemini"
-  title: "Project Manager"
-  bio: "Ms. Chapman is a Project Manager at Gemini Trust Company, LLC. Prior to joining Gemini, Ms. Chapman competed as a professional athlete for the U.S. National Rowing team and various elite teams. She also worked as a Fixed Income Research Associate in the Capital Markets division of Janney Montgomery Scott, an asset management firm with $3.46B AUM. Ms. Chapman graduated from Dartmouth College with a Bachelor of Arts in Environmental Studies. "
-  thumbnailUrl: jchapman.jpg
-  rockstar: false
--
-  id: 20
-  name: "Vishakh"
-  surname: ""
-  company: "Cryptonomic"
-  title: "Co-Founder"
-  bio: "No bio available"
-  thumbnailUrl: vnull.jpg
-  rockstar: false
--
-  id: 21
-  name: "George"
-  surname: "Calle"
-  company: "R3"
-  title: "Research Member"
-  bio: "George Calle is a member of the research team at R3, an enterprise software company that supports the blockchain platform, Corda. At R3, George focuses on blockchain applications and features deployed within enterprises. George graduated from the University of Pennsylvania, where he studied Politics, Philosophy and Economics. "
-  thumbnailUrl: gcalle.png
-  rockstar: false
--
-  id: 23
-  name: "Eilon"
-  surname: "Shalev"
-  company: "Elphi"
-  title: "No title available"
-  bio: "No bio available"
-  thumbnailUrl: eshalev.jpg
-  rockstar: false
--
-  id: 24
   name: "Nir"
   surname: "Kabessa"
-  company: "Blockchain at Columbia"
-  title: "President"
-  bio: "No bio available"
-  thumbnailUrl: nkabessa.jpg
-  rockstar: false
--
-  id: 25
-  name: "Taylor"
-  surname: "Murrell"
-  company: "Blockchain at Columbia"
-  title: "Head of Operations"
-  bio: "No bio available"
-  thumbnailUrl: tmurrell.jpg
-  rockstar: false
--
-  id: 26
-  name: "Claudio"
-  surname: "Guazzoni dei Zanett"
-  company: "Stably"
-  title: "Co-Founder & Chief Strategy Officer"
-  bio: "Prior to co-founding Stably, Claudio built and sold a 357-person firm to KPMG. Zanett, Inc was an Oracle consulting company he co-founded in 1999. Prior to that, he co-founded Planet Zanett, an Internet Incubator which listed on NASDAQ. From 1995 to 1999, he was portfolio manager in a Technology Hedge Fund. He joined Salomon Brothers in 1985 and worked on the Fixed Income Trading Floor, focusing on fixed income arbitrage. Claudio received a BA in Economics, cum laude, from Yale University."
-  thumbnailUrl: cguazzoni.jpg
-  rockstar: false
--
-  id: 27
-  name: "Levente"
-  surname: "Barczy"
-  company: "Digital Asset"
-  title: "Client Engineer"
-  bio: "Levente (Leve) is a Client Engineer at Digital Asset in New York. In his role, Leve uses his technical and financial subject-matter expertise to understand and solve a client’s business challenges. He has 15 years of experience working in software development, product and program management at financial institutions and financial technology vendors. Before Digital Asset, Leve worked for risk analytics vendor Murex where he was a risk and collateral subject-matter expert who served as a conduit between the sales team and the company’s quants and engineers who developed and programmed risk models and software solutions. Leve earned a Master of Science in Computational Neuroscience from the University of Edinburgh and a Bachelor of Science in Mathematics and Computer Science from Stanford University. "
-  thumbnailUrl: lbarczy.jpg
-  rockstar: false
--
-  id: 28
-  name: "Juliette"
-  surname: "Fisbein"
-  company: "Columbia-IBM Center for Blockchain and Data Transparency"
-  title: "Director, Strategy and Operations"
-  bio: "Juliette Fisbein, Director, Strategy and Operations for the Columbia-IBM Center for Blockchain and Data Transparency, combined 12 years of experience as a lawyer and compliance strategist.  With a background in intellectual property law and brand strategy, she represented companies in various industries (including pharmaceutical, retail and digital advertising) to protect their assets from intellectual property theft, fraud or piracy.  She developed and executed strategies to manage brand protection.  Most recently, she participated in the creation and implementation of certification programs and tools designed to combat malware and fraudulent activities, fostering greater business transparency for ad networks, advertisers and publishers. She received a Juris Doctor from Columbia University School of Law and a Master in international law from Université Paris I la Sorbonne. Based in New York City, Juliette is a passionate advocate for transparency and safety for brands, transactions and for the people enabling them.  In her spare time, Juliette enjoys swimming and caring for her growing family."
-  thumbnailUrl: jfisbein.png
-  rockstar: false
--
-  id: 29
-  name: "Chong"
-  surname: "Li"
-  company: "Nakamoto & Turing Labs, Columbia University, Canonchain Networks"
-  title: "Nakamoto & Turing Labs, Inc; Columbia University, Canonchain Networks"
-  bio: "Chong Li is a co-founder of Nakamoto & Turing Labs, Inc, and an adjunct professor at Columbia University. He is also chief architect and head of research at Canonchain Networks. Dr. Li received a Ph.D degree from Iowa State University and a B.E degree from Harbin Institute of Technology, both in Electrical Engineering. He is a holder of 200+ international and U.S. patents (granted and pending). Dr. Li has published many high influential papers on top-ranking journals, including Proceedings of the IEEE, IEEE Trans. on Information Theory, IEEE Communications Magazine, Automatica, etc. He has also served as reviewer and technical program committee for most prestigious journals and conferences in communications and control society. He is the author of the book Reinforcement Learning for Cyber-physical Systems (Taylor & Francis CRC press). Chong Li has broad research interests including information theory, machine learning, blockchain, networked control and communication, PYH/MAC system design for advance telecommunication technologies (5G and beyond)."
-  thumbnailUrl: cli.jpg
-  rockstar: false
--
-  id: 30
-  name: "Jamiel"
-  surname: "Sheikh"
-  company: "Chainhaus"
+  company: "Yup"
   title: "CEO"
-  bio: "Jamiel is CEO of Chainhaus, an advisory, software development, application studio and education company focused on blockchain, artificial intelligence and machine learning. Jamiel has over 15 years of experience in technology, capital markets, real estate and management working for organizations like Lehman Brothers, JPMorgan, Bank of America, Sun Microsystems, SONY and Citigroup. Jamiel is an adjunct professor at Columbia Business School, NYU and CUNY teaching graduate-level blockchain, AI and data science subjects. He is currently authoring a book on Corda with O’Reilly and runs one of the largest blockchain, AI and data science Meetups in NYC. Jamiel is a licensed real estate agent in New York and New Jersey with Douglas Elliman. Jamiel holds an MBA from Columbia University and BBA from Baruch College and is completing his second Masters in Artificial Intelligence from Georgia Institute of Technology.Jamiel enjoys coding in over 8 languages, travel and the elegant nuances of MMA."
-  thumbnailUrl: jsheikh.jpg
-  rockstar: false
+  bio: "Co-founder and CEO of Yup"
+  thumbnailUrl: nkabessa.jpg
+  rockstar: true
+# -
+#   id: 2
+#   name: "Brian"
+#   surname: "KimJohnson"
+#   company: "Gemini"
+#   title: "Software Engineer"
+#   bio: "Brian KimJohnson is a software engineer at Gemini and leads the wallet software team. His team builds the software to securely store and manage digital assets on behalf of customers. Prior to Gemini, Brian served as the Director of Infrastructure at Novus Partners, where he worked to build and deliver an online portfolio analysis platform and software for institutional and private clients. He also worked as a software engineer at Audible.com with a focus on content discovery. Brian graduated from Virginia Tech with a Bachelor in Computer Science."
+#   thumbnailUrl: bkimjohnson.jpeg
+#   rockstar: false
+# -
+#   id: 3
+#   name: "Eran"
+#   surname: "Tromer"
+#   company: "ZCash"
+#   title: "Founding Scientist"
+#   bio: "Associate professor of Computer Science, Tel Aviv University; research scientist, Columbia University; founding scientist, Zcash"
+#   thumbnailUrl: etromer.png
+#   rockstar: true
+# -
+#   id: 4
+#   name: "Santiago"
+#   surname: "Siri"
+#   company: "Democracy Earth"
+#   title: "Founder"
+#   bio: "Founder of Democracy Earth Foundation, a Y Combinator backed non-profit building incorruptible digital governance technology; and Partido de la Red (Peers Party), first digital political party that ran for elections with candidates committed to people's will online. Partner of Bitex.la, leading bitcoin exchange in South America. Member of the World Economic Forum since 2012. Author of Hacktivismo, published in 2015 by Random House."
+#   thumbnailUrl: ssiri.jpg
+#   rockstar: true
+# -
+#   id: 5
+#   name: "Sam"
+#   surname: "Trautwein"
+#   company: "Carbon-12 Labs"
+#   title: "Founder & CEO"
+#   bio: "Sam studied Computer Science with a concentration in AI at Stanford University. In 2014 Sam started mining Bitcoin in his dorm room. Sam was on the founding CS team of Plenty, a Softbank-backed AI hydroponics company and it was while he was there that he started working on Carbon in June of 2017."
+#   thumbnailUrl: strautwein.jpg
+#   rockstar: false
+# -
+#   id: 6
+#   name: "Omid"
+#   surname: "Malekan"
+#   company: "Citi Ventures"
+#   title: "Blockchain Innovation Expert"
+#   bio: "Omid Malekan is the Explainer-in-Chief of blockchain technology. He's the author of \"The Story of the Blockchain, A Beginner's Guide to the Technology That Nobody Understands\" (CreateSpace) as well as a myriad of essays on the many applications of the technology. He works as a blockchain innovation expert at Citi Ventures and conducts executive training through Conversance\""
+#   thumbnailUrl: omalekan.jpg
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/malekanoms"}
+# -
+#   id: 7
+#   name: "Ariana"
+#   surname: "Fowler"
+#   company: "Frontiers"
+#   title: "Ariana Fowler is passionate about the role of emerging technology in emerging markets as a long-term solution to international development issues. Her academic research specialized in refugee-related interventions, as well as the economic implications of the refugee crisis. She has conducted field work in Ghana & Honduras and was awarded the Critical Language Scholarship to study Urdu in northern India. Most recently at ConsenSys, she sat on the Social Impact team, consulting on client-facing projects in the public, private and not-for-profit sectors, as well as developing use-cases and research studies focusing on the application of blockchain technology as it relates to development and humanitarian aid."
+#   thumbnailUrl: afowler.jpg
+#   rockstar: false
+# -
+#   id: 8
+#   name: "Joyce"
+#   surname: "Yang"
+#   company: "Global Coin Research"
+#   title: "Founder"
+#   bio: "Joyce Yang is the founder of Global Coin Research, a subscription-based newsletter that provides insights and analysis on the Cryptocurrency and Blockchain happenings in Asia. In the crypto landscape, Asia is headquarters to the top exchanges that make up over 50% of cryptocurrency trading volume, and houses the largest mining companies with over 60% of hash power. No matter how you look at it, not knowing what's going on in Asia means that you only see half of the picture.
+#   Joyce formerly worked as a research analyst at Merrill Lynch and CICC (the largest Chinese investment bank) writing about Technology companies. She received her BA from Harvard University. "
+#   thumbnailUrl: jyang.png
+#   rockstar: false
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/JoyceInNYC"}
+# -
+#   id: 9
+#   name: "Tarun"
+#   surname: "Chitra"
+#   company: "Gauntlet Networks"
+#   title: "Founder & CEO"
+#   bio: "Tarun Chitra is an alumni of D. E. Shaw Research (DESRES), Vatic Labs, a high-frequency trading firm, and Cornell. He fell into the blockchain world in 2011, when he was working on ASICs at DESRES and observed Bitcoin ASIC mining rigs substantially delay DESRES’s ASIC production. He has spent the last seven years working on simulation-based R&D at the intersection of high-performance computing and AI and is applying this knowledge to the blockchain ecosystem."
+#   thumbnailUrl: tchitra.jpg
+#   rockstar: false
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/tarunchitra"}
+# -
+#   id: 10
+#   name: "Monica"
+#   surname: "Quaintance"
+#   company: "Kadena"
+#   title: "Head of Research and Networks"
+#   bio: "Monica Quaintance is head of Research and Networks at Kadena. She is a former tech lead and Senior Data Engineer at Rent the Runway and a former Qualitative Analytics Engineer at the SEC. Prior to that, as an Investment Banking Associate Monica securitized and restructured commercial real estate assets at Cushman and Wakefield. Monica has degrees in Statistics and Probability as well as Economics from Columbia University. Monica is also a co-founder of Universal Consensus, a blockchain-focused pro-diversity organization."
+#   thumbnailUrl: mquaintance.jpg
+#   rockstar: true
+# -
+#   id: 12
+#   name: "Chi-Ru"
+#   surname: "Jou"
+#   company: "CKR Law LLP"
+#   title: "Partner"
+#   bio: "Chi-Ru Jou is a Partner in the Blockchain Technology & Digital Currency Group of CKR Law LLP, a global law firm with approximately fifty offices worldwide and more than forty attorneys contributing to the blockchain group.  Ms. Jou began her career practicing securities litigation at the prominent international law firm Paul, Weiss, Rifkind, Wharton & Garrison LLP and was most recently a Partner in the Blockchain & Digital Currency Group at Emergent LLP.  She received her J.D. from Columbia Law School as a James Kent Scholar and her A.B. magna cum laude, Phi Beta Kappa from Harvard University."
+#   thumbnailUrl: cjou.jpg
+#   rockstar: false
+# -
+#   id: 13
+#   name: "Ade"
+#   surname: "Ajanaku"
+#   company: "ConsenSys"
+#   title: "Fund Foundry & ConsenSys Capital Asset Management"
+#   bio: "Ade is the Product, Strategy & Operations Lead at Fund Foundry and initiative within Consensys Capital that aims to provide Risk Management Solutions for Digital Asset Managers. Ade joined Consensys in 2017 after graduating from Barnard College, Columbia University where she Co-Founded The Columbia Blockchain Lab."
+#   thumbnailUrl: aajanaku.jpg
+#   rockstar: false
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/adeajanaku"}
+# -
+#   id: 14
+#   name: "Faisal"
+#   surname: "Kahn"
+#   company: "ConsenSys"
+#   title: "Strategy & Business Development"
+#   bio: "Faisal leads strategy and business development for PegaSys, the Enterprise Ethereum arm of ConsenSys. Prior to his work in blockchain, Faisal worked in management consulting on projects in technology, financial services, and government. He has a BA in Economics and Arabic from Williams College and an MBA from Columbia Business School."
+#   thumbnailUrl: fkhan.jpg
+#   rockstar: false
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/fkhan11"}
+# -
+#   id: 15
+#   name: "Hossein"
+#   surname: "Azari"
+#   company: "cmorq"
+#   title: "Co-Founder & CEO"
+#   bio: "No bio available"
+#   thumbnailUrl: hazari.jpeg
+#   rockstar: false
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/Soufiani"}
+# -
+#   id: 16
+#   name: "Matthew"
+#   surname: "Austin"
+#   company: "JP Morgan"
+#   title: "Blockchain Strategy"
+#   bio: "Matt Austin works within the Blockchain Center of Excellence for the Corporate & Investment Bank (CIB) at J.P. Morgan. He is tasked with developing a comprehensive blockchain strategy across business lines, implementing cutting edge technology solutions, conducting in-depth industry research and analysis, and performing client outreach. Previously, Matt was the business manager for the CIB’s Channels, Analytics and Innovation organization. In that role, Matt advanced a comprehensive innovation strategy across Treasury Services and led the global team’s operations and finance functions. Prior to joining J.P. Morgan, he worked in venture capital at Khosla Ventures in San Francisco where he managed a pipeline of over 150 active early and late stage portfolio companies representing over $4.5B in total value. Prior to that role, Matt worked at Conversion Capital, a FinTech focused venture capital firm based in New York. Matt started his career in KPMG’s Banking & Capital Markets practice before attending Columbia Business School, where he received his MBA focused on entrepreneurial finance. Matt is also a licensed CPA in New York State and an alumnus of Le Moyne College in Syracuse."
+#   thumbnailUrl: maustin.jpg
+#   rockstar: false
+# -
+#   id: 17
+#   name: "Emily"
+#   surname: "Yu"
+#   company: "Axioni"
+#   title: "Lead Technical Product Manager"
+#   bio: "Emily Yu is the lead Technical Product Manager at Axoni. She designs features for Axoni’s platform products, in addition to leading  production-grade client engagements with major financial institutions. Outside of work, she is an avid snowboarder, traveler and doesn’t get social media."
+#   thumbnailUrl: eyu.jpg
+#   rockstar: false
+# -
+#   id: 18
+#   name: "Josh"
+#   surname: "Dillon"
+#   company: "Axoni"
+#   title: "Technical Product Manager"
+#   bio: "Josh Dillon is a Technical Product Manager at Axoni and focuses on designing infrastructure products for deploying blockchains. Josh graduated Columbia University in 2016, where he studied Computer Science-Statistics. He is a self-certified Master Hiker, drinks Red Bull for the taste and once melted a mattress with an Arduino."
+#   thumbnailUrl: jdillon.jpg
+#   rockstar: false
+# -
+#   id: 19
+#   name: "Jamie"
+#   surname: "Chapman"
+#   company: "Gemini"
+#   title: "Project Manager"
+#   bio: "Ms. Chapman is a Project Manager at Gemini Trust Company, LLC. Prior to joining Gemini, Ms. Chapman competed as a professional athlete for the U.S. National Rowing team and various elite teams. She also worked as a Fixed Income Research Associate in the Capital Markets division of Janney Montgomery Scott, an asset management firm with $3.46B AUM. Ms. Chapman graduated from Dartmouth College with a Bachelor of Arts in Environmental Studies. "
+#   thumbnailUrl: jchapman.jpg
+#   rockstar: false
+# -
+#   id: 20
+#   name: "Vishakh"
+#   surname: ""
+#   company: "Cryptonomic"
+#   title: "Co-Founder"
+#   bio: "No bio available"
+#   thumbnailUrl: vnull.jpg
+#   rockstar: false
+# -
+#   id: 21
+#   name: "George"
+#   surname: "Calle"
+#   company: "R3"
+#   title: "Research Member"
+#   bio: "George Calle is a member of the research team at R3, an enterprise software company that supports the blockchain platform, Corda. At R3, George focuses on blockchain applications and features deployed within enterprises. George graduated from the University of Pennsylvania, where he studied Politics, Philosophy and Economics. "
+#   thumbnailUrl: gcalle.png
+#   rockstar: false
+# -
+#   id: 23
+#   name: "Eilon"
+#   surname: "Shalev"
+#   company: "Elphi"
+#   title: "No title available"
+#   bio: "No bio available"
+#   thumbnailUrl: eshalev.jpg
+#   rockstar: false
+# -
+#   id: 24
+#   name: "Nir"
+#   surname: "Kabessa"
+#   company: "Blockchain at Columbia"
+#   title: "President"
+#   bio: "No bio available"
+#   thumbnailUrl: nkabessa.jpg
+#   rockstar: false
+# -
+#   id: 25
+#   name: "Taylor"
+#   surname: "Murrell"
+#   company: "Blockchain at Columbia"
+#   title: "Head of Operations"
+#   bio: "No bio available"
+#   thumbnailUrl: tmurrell.jpg
+#   rockstar: false
+# -
+#   id: 26
+#   name: "Claudio"
+#   surname: "Guazzoni dei Zanett"
+#   company: "Stably"
+#   title: "Co-Founder & Chief Strategy Officer"
+#   bio: "Prior to co-founding Stably, Claudio built and sold a 357-person firm to KPMG. Zanett, Inc was an Oracle consulting company he co-founded in 1999. Prior to that, he co-founded Planet Zanett, an Internet Incubator which listed on NASDAQ. From 1995 to 1999, he was portfolio manager in a Technology Hedge Fund. He joined Salomon Brothers in 1985 and worked on the Fixed Income Trading Floor, focusing on fixed income arbitrage. Claudio received a BA in Economics, cum laude, from Yale University."
+#   thumbnailUrl: cguazzoni.jpg
+#   rockstar: false
+# -
+#   id: 27
+#   name: "Levente"
+#   surname: "Barczy"
+#   company: "Digital Asset"
+#   title: "Client Engineer"
+#   bio: "Levente (Leve) is a Client Engineer at Digital Asset in New York. In his role, Leve uses his technical and financial subject-matter expertise to understand and solve a client’s business challenges. He has 15 years of experience working in software development, product and program management at financial institutions and financial technology vendors. Before Digital Asset, Leve worked for risk analytics vendor Murex where he was a risk and collateral subject-matter expert who served as a conduit between the sales team and the company’s quants and engineers who developed and programmed risk models and software solutions. Leve earned a Master of Science in Computational Neuroscience from the University of Edinburgh and a Bachelor of Science in Mathematics and Computer Science from Stanford University. "
+#   thumbnailUrl: lbarczy.jpg
+#   rockstar: false
+# -
+#   id: 28
+#   name: "Juliette"
+#   surname: "Fisbein"
+#   company: "Columbia-IBM Center for Blockchain and Data Transparency"
+#   title: "Director, Strategy and Operations"
+#   bio: "Juliette Fisbein, Director, Strategy and Operations for the Columbia-IBM Center for Blockchain and Data Transparency, combined 12 years of experience as a lawyer and compliance strategist.  With a background in intellectual property law and brand strategy, she represented companies in various industries (including pharmaceutical, retail and digital advertising) to protect their assets from intellectual property theft, fraud or piracy.  She developed and executed strategies to manage brand protection.  Most recently, she participated in the creation and implementation of certification programs and tools designed to combat malware and fraudulent activities, fostering greater business transparency for ad networks, advertisers and publishers. She received a Juris Doctor from Columbia University School of Law and a Master in international law from Université Paris I la Sorbonne. Based in New York City, Juliette is a passionate advocate for transparency and safety for brands, transactions and for the people enabling them.  In her spare time, Juliette enjoys swimming and caring for her growing family."
+#   thumbnailUrl: jfisbein.png
+#   rockstar: false
+# -
+#   id: 29
+#   name: "Chong"
+#   surname: "Li"
+#   company: "Nakamoto & Turing Labs, Columbia University, Canonchain Networks"
+#   title: "Nakamoto & Turing Labs, Inc; Columbia University, Canonchain Networks"
+#   bio: "Chong Li is a co-founder of Nakamoto & Turing Labs, Inc, and an adjunct professor at Columbia University. He is also chief architect and head of research at Canonchain Networks. Dr. Li received a Ph.D degree from Iowa State University and a B.E degree from Harbin Institute of Technology, both in Electrical Engineering. He is a holder of 200+ international and U.S. patents (granted and pending). Dr. Li has published many high influential papers on top-ranking journals, including Proceedings of the IEEE, IEEE Trans. on Information Theory, IEEE Communications Magazine, Automatica, etc. He has also served as reviewer and technical program committee for most prestigious journals and conferences in communications and control society. He is the author of the book Reinforcement Learning for Cyber-physical Systems (Taylor & Francis CRC press). Chong Li has broad research interests including information theory, machine learning, blockchain, networked control and communication, PYH/MAC system design for advance telecommunication technologies (5G and beyond)."
+#   thumbnailUrl: cli.jpg
+#   rockstar: false
+# -
+#   id: 30
+#   name: "Jamiel"
+#   surname: "Sheikh"
+#   company: "Chainhaus"
+#   title: "CEO"
+#   bio: "Jamiel is CEO of Chainhaus, an advisory, software development, application studio and education company focused on blockchain, artificial intelligence and machine learning. Jamiel has over 15 years of experience in technology, capital markets, real estate and management working for organizations like Lehman Brothers, JPMorgan, Bank of America, Sun Microsystems, SONY and Citigroup. Jamiel is an adjunct professor at Columbia Business School, NYU and CUNY teaching graduate-level blockchain, AI and data science subjects. He is currently authoring a book on Corda with O’Reilly and runs one of the largest blockchain, AI and data science Meetups in NYC. Jamiel is a licensed real estate agent in New York and New Jersey with Douglas Elliman. Jamiel holds an MBA from Columbia University and BBA from Baruch College and is completing his second Masters in Artificial Intelligence from Georgia Institute of Technology.Jamiel enjoys coding in over 8 languages, travel and the elegant nuances of MMA."
+#   thumbnailUrl: jsheikh.jpg
+#   rockstar: false
