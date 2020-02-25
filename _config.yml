@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "LedgerFest 2019"
+title: "LedgerFest 2020"
 email: "blockchain@columbia.edu"
-description: "LedgerFest is Columbia University’s first blockchain and crypto conference"
+description: "LedgerFest is Columbia University’s second blockchain and crypto conference"
 baseurl: ""
 url: "https://ledgerfest.info"
 permalink: "/blog/:title"
@@ -51,9 +51,9 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "cuview.jpg"
 heroTitle: "LedgerFest <typeout>"
-eventDate: "February 15, 2019"
-typeoutTextValues: '"", "2019"'
-typeoutFallback: "2019"
+eventDate: "March 27, 2020"
+typeoutTextValues: '"", "2020"'
+typeoutFallback: "2020"
 heroButtons:
  - {link: "https://www.eventbrite.com/e/ledgerfest-student-blockchain-summit-tickets-53368271938", text: "Register"}
 # About Block
@@ -83,9 +83,9 @@ eventAddressLocality: "New York"
 eventAddressLocalityRegion: "New York"
 eventPostalCode: "10027"
 eventAddressCountry: "U.S"
-eventStartTime: "2019-02-15T09:30"
+eventStartTime: "2020-03-27T09:30"
 eventDoorTime: "09:00"
-eventEndTime: "2019-02-15T20:30"
+eventEndTime: "2020-03-27T20:30"
 eventPlaceCoordinates: "40.8086429, -73.9614591"
 mapCenterCoordinates: "40.8086429, -73.9614591"
 mapMobileCenterCoordinates: "40.8086429, -73.9614591"

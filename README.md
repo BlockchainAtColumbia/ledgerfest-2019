@@ -1,5 +1,5 @@
-# LedgerFest 2019
-LedgerFest is Columbia University’s first blockchain and crypto conference. Through this event, we aim to expose students to companies and industry leaders doing phenomenal work in the distributed ledger environment.
+# LedgerFest 2020
+LedgerFest is Columbia University’s second blockchain and crypto conference. Through this event, we aim to expose students to companies and industry leaders doing phenomenal work in the distributed ledger environment.
 
 # Local development
 1. Clone repo
