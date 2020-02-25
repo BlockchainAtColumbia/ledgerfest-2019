@@ -1,130 +1,130 @@
-# -
-#   id: 307
-#   title: "Lunch Break and Networking"
-#   place: "Uris 3rd Floor"
-#   service: true
-#   description: "The best time to talk with speakers and attendees"
-# -
-#   id: 306
-#   title: "Opening Statement"
-#   description: "President of Blockchain at Columbia gives the Opening Statement"
-#   speakers: [24]
-# -
-#   id: 308
-#   title: "Closing Remarks"
-#   description: "Head of Operations gives the Closing Statement"
-#   place: "Uris 3rd Floor"
-#   speakers: [25]
-# -
-#   id: 309
-#   title: ""
-#   place: ""
-#   service: false
-# -
-#   id: 001
-#   title: "Understanding Cryptocurrency, Exchanges and Custody Solutions"
-#   description: "Launch of Gemini mobile app and digital asset trading platform."
-#   subtype: keynote
-#   speakers: [19, 2]
-# -
-#   id: 002
-#   title: "Voting and blockchain"
-#   description: "Voting and blockchain."
-#   subtype: keynote
-#   speakers: [4]
-# -
-#   id: 003
-#   title: "Stablecoin Panel"
-#   description: "Stablecoin Panel (moderated by Pranay Shetty, CBS'19, President of Columbia FinTech & Blockchain)"
-#   subtype: panel
-#   speakers: [5, 6, 26]
-# -
-#   id: 004
-#   title: "International Applications of Blockchain"
-#   description: "Panel with Ariana Fowler on blockchain use cases in social impact. Panel with Joyce Yang on Global Coin Research."
-#   subtype: panel
-#   speakers: [8,7]
-# -
-#   id: 005
-#   title: "Simulating Cryptoeconomic Stability"
-#   description: "Gauntlet Networks and the role of simulation in optimizing cryptoeconomic stability."
-#   subtype: keynote
-#   speakers: [9]
-# -
-#   id: 006
-#   title: "Trustworthy Smart Contracts"
-#   description: "Kadena is a next generation blockchain ecosystem that is bringing trustworthy smart contracts to everyone."
-#   subtype: keynote
-#   speakers: [10]
-# -
-#   id: 007
-#   title: "Legal Regulation in Crypto"
-#   description: "Regulatory developments in the crypto space; current regulatory landscape for token offerings."
-#   subtype: keynote
-#   speakers: [12]
-# -
-#   id: 008
-#   title: "Hedera Hashgraph Protocol"
-#   description: "Overview of Hedera Hashgraph's protocol."
-#   subtype: keynote
-#   speakers: [1]
-# -
-#   id: 009
-#   title: "cmorq Data Structure for Blockchain Data"
-#   description: "Overview of cmorq, a platform which organizes blockchain data."
-#   subtype: keynote
-#   speakers: [15]
-# -
-#   id: 010
-#   title: "ConsenSys operations"
-#   description: "ConsenSys operations"
-#   subtype: keynote
-#   speakers: [13,14]
-# -
-#   id: 011
-#   title: "Building Blockchains for Capital Markets"
-#   description: "Building Blockchains for Capital Markets: A discussion with Axoni technologists about the future of distributed ledger applications in financial institutions."
-#   subtype: keynote
-#   speakers: [17,18]
-# -
-#   id: 012
-#   title: "Permissioned Ledgers Panel"
-#   description: "Permissioned Ledgers (moderated by Jared Madfes Founder of Blockswan)"
-#   subtype: panel
-#   speakers: [1, 21, 23, 27]
-# -
-#   id: 013
-#   title: "Blockchain and Investment Banking Panel"
-#   description: "Blockchain and Investment Banking. (moderated by Alex Price, Founding Partner at Qu Capital)"
-#   subtype: panel
-#   speakers: [16]
-# -
-#   id: 014
-#   title: "Beyond Blockchain: Developing Technology for Decentralization"
-#   description: "Technologies, aside from blockchains, necessary for decentralization, applicability of blockchains in the finance industry and the user experience challenges with building blockchain applications."
-#   subtype: keynote
-#   speakers: [20]
-# -
-#   id: 015
-#   title: "ZCash Overview"
-#   description: "Technical overview of ZCash."
-#   subtype: keynote
-#   speakers: [3]
-# -
-#   id: 016
-#   title: "Columbia-IBM Center for Blockchain and Data Transparency"
-#   description: "Columbia-IBM Center for Blockchain and Data Transparency"
-#   subtype: keynote
-#   speakers: [28]
-# -
-#   id: 017
-#   title: "The emergence of enterprise tokens: Understanding it and its use cases."
-#   description: "The emergence of enterprise tokens: Understanding it and its use cases."
-#   subtype: keynote
-#   speakers: [30]
-# -
-#   id: 018
-#   title: "Blockchain-based Distributed Shared Computing"
-#   description: "For high performance computing jobs, cloud is the most popular choice as it benefits enterprises by reducing costs and enabling a focus on core business competence rather than IT and infrastructure issues.  However, several key disadvantages should be noticed:  Firstly, using cloud service means all data, even sensitive information, has to be shared with the cloud service provider; second, pay-as-you-go cloud service always has an overall price tag that ends up being higher than expected.  Blockchain can offer solutions to both those issues.  Specifically, we can leverage the power of tens of millions of idle computers across the world by using a blockchain network, and then distribute the task’s workload among these computers at a very low cost. In a nutshell, we build “Uber in computing”. In this talk, we will introduce the architecture and technical components of the blockchain-based distributed shared computing platform and also discuss the challenges and opportunities down the road."
-#   subtype: keynote
-#   speakers: [29]
+-
+  id: 307
+  title: "Lunch Break and Networking"
+  place: "Uris 3rd Floor"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 306
+  title: "Opening Statement"
+  description: "President of Blockchain at Columbia gives the Opening Statement"
+  speakers: [24]
+-
+  id: 308
+  title: "Closing Remarks"
+  description: "Head of Operations gives the Closing Statement"
+  place: "Uris 3rd Floor"
+  speakers: [25]
+-
+  id: 309
+  title: ""
+  place: ""
+  service: false
+-
+  id: 001
+  title: "Understanding Cryptocurrency, Exchanges and Custody Solutions"
+  description: "Launch of Gemini mobile app and digital asset trading platform."
+  subtype: keynote
+  speakers: [19, 2]
+-
+  id: 002
+  title: "Voting and blockchain"
+  description: "Voting and blockchain."
+  subtype: keynote
+  speakers: [4]
+-
+  id: 003
+  title: "Stablecoin Panel"
+  description: "Stablecoin Panel (moderated by Pranay Shetty, CBS'19, President of Columbia FinTech & Blockchain)"
+  subtype: panel
+  speakers: [5, 6, 26]
+-
+  id: 004
+  title: "International Applications of Blockchain"
+  description: "Panel with Ariana Fowler on blockchain use cases in social impact. Panel with Joyce Yang on Global Coin Research."
+  subtype: panel
+  speakers: [8,7]
+-
+  id: 005
+  title: "Simulating Cryptoeconomic Stability"
+  description: "Gauntlet Networks and the role of simulation in optimizing cryptoeconomic stability."
+  subtype: keynote
+  speakers: [9]
+-
+  id: 006
+  title: "Trustworthy Smart Contracts"
+  description: "Kadena is a next generation blockchain ecosystem that is bringing trustworthy smart contracts to everyone."
+  subtype: keynote
+  speakers: [10]
+-
+  id: 007
+  title: "Legal Regulation in Crypto"
+  description: "Regulatory developments in the crypto space; current regulatory landscape for token offerings."
+  subtype: keynote
+  speakers: [12]
+-
+  id: 008
+  title: "Yup" #TEMPORARY FIX
+  description: ""
+  subtype: keynote
+  speakers: [1]
+-
+  id: 009
+  title: "cmorq Data Structure for Blockchain Data"
+  description: "Overview of cmorq, a platform which organizes blockchain data."
+  subtype: keynote
+  speakers: [15]
+-
+  id: 010
+  title: "ConsenSys operations"
+  description: "ConsenSys operations"
+  subtype: keynote
+  speakers: [13,14]
+-
+  id: 011
+  title: "Building Blockchains for Capital Markets"
+  description: "Building Blockchains for Capital Markets: A discussion with Axoni technologists about the future of distributed ledger applications in financial institutions."
+  subtype: keynote
+  speakers: [17,18]
+-
+  id: 012
+  title: "Permissioned Ledgers Panel"
+  description: "Permissioned Ledgers (moderated by Jared Madfes Founder of Blockswan)"
+  subtype: panel
+  speakers: [1, 21, 23, 27]
+-
+  id: 013
+  title: "Blockchain and Investment Banking Panel"
+  description: "Blockchain and Investment Banking. (moderated by Alex Price, Founding Partner at Qu Capital)"
+  subtype: panel
+  speakers: [16]
+-
+  id: 014
+  title: "Beyond Blockchain: Developing Technology for Decentralization"
+  description: "Technologies, aside from blockchains, necessary for decentralization, applicability of blockchains in the finance industry and the user experience challenges with building blockchain applications."
+  subtype: keynote
+  speakers: [20]
+-
+  id: 015
+  title: "ZCash Overview"
+  description: "Technical overview of ZCash."
+  subtype: keynote
+  speakers: [3]
+-
+  id: 016
+  title: "Columbia-IBM Center for Blockchain and Data Transparency"
+  description: "Columbia-IBM Center for Blockchain and Data Transparency"
+  subtype: keynote
+  speakers: [28]
+-
+  id: 017
+  title: "The emergence of enterprise tokens: Understanding it and its use cases."
+  description: "The emergence of enterprise tokens: Understanding it and its use cases."
+  subtype: keynote
+  speakers: [30]
+-
+  id: 018
+  title: "Blockchain-based Distributed Shared Computing"
+  description: "For high performance computing jobs, cloud is the most popular choice as it benefits enterprises by reducing costs and enabling a focus on core business competence rather than IT and infrastructure issues.  However, several key disadvantages should be noticed:  Firstly, using cloud service means all data, even sensitive information, has to be shared with the cloud service provider; second, pay-as-you-go cloud service always has an overall price tag that ends up being higher than expected.  Blockchain can offer solutions to both those issues.  Specifically, we can leverage the power of tens of millions of idle computers across the world by using a blockchain network, and then distribute the task’s workload among these computers at a very low cost. In a nutshell, we build “Uber in computing”. In this talk, we will introduce the architecture and technical components of the blockchain-based distributed shared computing platform and also discuss the challenges and opportunities down the road."
+  subtype: keynote
+  speakers: [29]

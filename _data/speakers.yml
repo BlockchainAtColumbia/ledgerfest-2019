@@ -7,16 +7,16 @@
   bio: "Co-founder and CEO of Yup"
   thumbnailUrl: nkabessa.jpg
   rockstar: false
-# -
-#   id: 2
-#   name: "Brian"
-#   surname: "KimJohnson"
-#   company: "Gemini"
-#   title: "Software Engineer"
-#   bio: "Brian KimJohnson is a software engineer at Gemini and leads the wallet software team. His team builds the software to securely store and manage digital assets on behalf of customers. Prior to Gemini, Brian served as the Director of Infrastructure at Novus Partners, where he worked to build and deliver an online portfolio analysis platform and software for institutional and private clients. He also worked as a software engineer at Audible.com with a focus on content discovery. Brian graduated from Virginia Tech with a Bachelor in Computer Science."
-#   thumbnailUrl: bkimjohnson.jpeg
-#   rockstar: false
-# -
+-
+  id: 2
+  name: "FULL SPEAKER LIST"
+  surname: "COMING SOON"
+  company: ""
+  title: ""
+  bio: "More to Come"
+  thumbnailUrl: temp.jpeg
+  rockstar: false
+-
 #   id: 3
 #   name: "Eran"
 #   surname: "Tromer"
