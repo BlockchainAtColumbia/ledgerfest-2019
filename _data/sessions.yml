@@ -20,12 +20,13 @@
   title: ""
   place: ""
   service: false
+  speakers: [2] #temporary fix 
 -
   id: 001
   title: "Understanding Cryptocurrency, Exchanges and Custody Solutions"
   description: "Launch of Gemini mobile app and digital asset trading platform."
   subtype: keynote
-  speakers: [19, 2]
+  speakers: [19]
 -
   id: 002
   title: "Voting and blockchain"
