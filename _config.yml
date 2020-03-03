@@ -68,11 +68,11 @@ statisticBlock:
  - {count: "10", specialCharacter: "", info: "hours", detail: ""}
  - {count: "10", specialCharacter: "+", info: "speakers", detail: ""}
 
-# # Rockstar Speakers Block
-# rockstarSpeakersImage: "rockstar-speakers.jpg"
-# rockstarSpeakersCount: 4
-# rockstarSpeakersTitle: "Rockstar speakers"
-# rockstarSpeakersButtonText: "See all speakers"
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
