@@ -2,66 +2,65 @@
   date: "2020-03-20"
   dateReadable: "March 27th"
   tracks:
-    - {title: "Uris 301", color: "#AFDDED"}
-    - {title: "Uris 333", color: "#DAE1EA"}
+    - {title: "Pupin Hall (Room TBD)", color: "#AFDDED"}
   timeslots:
     - {
-    	startTime: "09:30",
-    	endTime: "09:45",
-    	sessionIds: [306]
+    	startTime: "08:15",
+    	endTime: "08:45",
+    	sessionIds: [297]
+    }
+    - {
+    	startTime: "08:45",
+    	endTime: "09:00",
+    	sessionIds: [101]
+    }
+    - {
+        startTime: "9:00",
+        endTime: "09:50",
+        sessionIds: [10001]
     }
     - {
         startTime: "10:00",
-        endTime: "10:45",
-        sessionIds: [002, 001]
+        endTime: "10:50",
+        sessionIds: [10001]
     }
     - {
         startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 004]
+        endTime: "11:50",
+        sessionIds: [10001]
     }
     - {
     	startTime: "12:00",
     	endTime: "12:50",
-    	sessionIds: [307]
+    	sessionIds: [298]
     }
     - {
     	startTime: "01:00",
-    	endTime: "01:45",
-    	sessionIds: [005, 016]
+    	endTime: "01:50",
+    	sessionIds: [10001]
     }
     - {
     	startTime: "02:00",
-    	endTime: "02:45",
-    	sessionIds: [006, 007]
+    	endTime: "02:50",
+    	sessionIds: [10001]
     }
     - {
     	startTime: "03:00",
-    	endTime: "03:45",
-    	sessionIds: [008, 009]
+    	endTime: "03:50",
+    	sessionIds: [10001]
     }
     - {
     	startTime: "04:00",
-    	endTime: "04:45",
-    	sessionIds: [010, 011]
+    	endTime: "04:50",
+    	sessionIds: [10001]
     }
     - {
-    	startTime: "05:00",
-    	endTime: "05:45",
-    	sessionIds: [012, 017]
+    	startTime: "04:55",
+    	endTime: "05:10",
+    	sessionIds: [299]
     }
     - {
-    	startTime: "06:00",
-    	endTime: "06:45",
-    	sessionIds: [013, 014]
-    }
-    - {
-    	startTime: "07:00",
-    	endTime: "07:45",
-    	sessionIds: [015, 018]
-    }
-    - {
-    	startTime: "08:00",
-    	endTime: "08:15",
-    	sessionIds: [308]
+    	startTime: "05:30",
+    	endTime: "06:30",
+    	sessionIds: [296]
     }

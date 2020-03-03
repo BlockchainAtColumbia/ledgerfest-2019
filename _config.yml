@@ -33,7 +33,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://www.eventbrite.com/e/ledgerfest-student-blockchain-summit-tickets-53368271938"
+c4pUrl: "https://www.eventbrite.com/e/ledgerfest2020-student-blockchain-summit-tickets-97888845171"
 c4sponsorsUrl: ""
 
 
@@ -65,44 +65,44 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "12", specialCharacter: "", info: "hours", detail: ""}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: ""}
+ - {count: "10", specialCharacter: "", info: "hours", detail: ""}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: ""}
 
-# Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+# # Rockstar Speakers Block
+# rockstarSpeakersImage: "rockstar-speakers.jpg"
+# rockstarSpeakersCount: 4
+# rockstarSpeakersTitle: "Rockstar speakers"
+# rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Columbia University, Uris Hall"
-eventLocationLink: "www8.gsb.columbia.edu"
-eventStreetAddress: "3022 Broadway"
+eventLocationName: "Columbia University, Pupin Hall"
+eventLocationLink: "http://www.columbia.edu/cu/computinghistory/pupin.html"
+eventStreetAddress: "538 W 120th St"
 eventAddressLocality: "New York"
 eventAddressLocalityRegion: "New York"
 eventPostalCode: "10027"
 eventAddressCountry: "U.S"
-eventStartTime: "2020-03-27T09:30"
-eventDoorTime: "09:00"
-eventEndTime: "2020-03-27T20:30"
-eventPlaceCoordinates: "40.8086429, -73.9614591"
-mapCenterCoordinates: "40.8086429, -73.9614591"
-mapMobileCenterCoordinates: "40.8086429, -73.9614591"
+eventStartTime: "2020-03-27T08:15"
+eventDoorTime: "08:45"
+eventEndTime: "2020-03-27T18:30"
+eventPlaceCoordinates: "40.809984, -73.961386"
+mapCenterCoordinates: "40.809984, -73.961386"
+mapMobileCenterCoordinates: "40.809984, -73.961386"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_5.jpg"
-venueSmallImage1: "venue_7.jpg"
-venueSmallImage2: "venue_8.jpg"
-venueSmallImage3: "venue_9.jpg"
-venueTitle: "Uris Hall"
-venueFeatures: ["Columbia Business School", "3rd floor", "3022 Broadway, New York, NY 10027"]
+venueBigImage: "venue_20.jpg"
+venueSmallImage1: "venue_21.jpg"
+venueSmallImage2: "venue_21.jpg"
+venueSmallImage3: "venue_21.jpg"
+venueTitle: "Pupin Hall"
+venueFeatures: ["Pupin Hall", "Rooms TBA", "538 W 120th St, New York, NY 10027"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "ledgerfest19"
+twitterHashTag: "ledgerfest20"
 
 # Partners Block
 organizersTitle: "Organizers"

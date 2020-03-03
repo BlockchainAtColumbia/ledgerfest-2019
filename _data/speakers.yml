@@ -7,8 +7,17 @@
   bio: "Co-founder and CEO of Yup"
   thumbnailUrl: nkabessa.jpg
   rockstar: false
+# -
+#   id: 2
+#   name: ""
+#   surname: "COMING SOON"
+#   company: ""
+#   title: ""
+#   bio: "More to Come"
+#   thumbnailUrl: temp.jpg
+#   rockstar: false
 -
-  id: 2
+  id: 1001
   name: "FULL SPEAKER LIST"
   surname: "COMING SOON"
   company: ""
@@ -17,6 +26,33 @@
   thumbnailUrl: temp.jpg
   rockstar: false
 -
+  id: 101
+  name: "Alex"
+  surname: "Toberoff"
+  company: "Blockchain at Columbia"
+  title: "President of Blockchain at Columbia"
+  bio: "Student at Columbia University"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+-
+  id: 102
+  name: "Andrew"
+  surname: "Tang"
+  company: "Blockchain at Columbia"
+  title: "VP of Blockchain at Columbia"
+  bio: "Student at Columbia University"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+
+# -
+#   id: 2
+#   name: ""
+#   surname: "COMING SOON"
+#   company: ""
+#   title: ""
+#   bio: "More to Come"
+#   thumbnailUrl: temp.jpg
+#   rockstar: false
 #   id: 3
 #   name: "Eran"
 #   surname: "Tromer"
