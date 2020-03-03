@@ -44,9 +44,9 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/faq/", text: "FAQ"}
 bottomNavigationLinks:
- - {link: "https://www.eventbrite.com/e/ledgerfest-student-blockchain-summit-tickets-53368271938", text: "Register"}
+ - {link: "https://www.eventbrite.com/e/ledgerfest2020-student-blockchain-summit-tickets-97888845171", text: "Register"}
 rightNavigationButtons:
- - {link: "https://www.eventbrite.com/e/ledgerfest-student-blockchain-summit-tickets-53368271938", text: "Register"}
+ - {link: "https://www.eventbrite.com/e/ledgerfest2020-student-blockchain-summit-tickets-97888845171", text: "Register"}
 
 # Hero Block
 heroImage: "cuview.jpg"
@@ -55,7 +55,7 @@ eventDate: "March 27, 2020"
 typeoutTextValues: '"", "2020"'
 typeoutFallback: "2020"
 heroButtons:
- - {link: "https://www.eventbrite.com/e/ledgerfest-student-blockchain-summit-tickets-53368271938", text: "Register"}
+ - {link: "https://www.eventbrite.com/e/ledgerfest2020-student-blockchain-summit-tickets-97888845171", text: "Register"}
 # About Block
 aboutTitle: "About LedgerFest"
 aboutBlock:
@@ -114,13 +114,13 @@ socialLinks:
  - {link: "https://www.instagram.com/blockchaincolumbia/", icon: "linkedin"}
  - {link: "https://twitter.com/blockchainatcu?lang=en", icon: "twitter"}
  - {link: "https://www.facebook.com/BlockchainatColumbia/?ref=bookmarks", icon: "facebook"}
- - {link: "https://www.eventbrite.com/e/ledgerfest-student-blockchain-summit-tickets-53368271938", icon: "rss"}
+ - {link: "https://www.eventbrite.com/e/ledgerfest2020-student-blockchain-summit-tickets-97888845171", icon: "rss"}
  - {link: "https://blockchainatcolumbia.com/", icon: "site"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://www.eventbrite.com/e/ledgerfest-student-blockchain-summit-tickets-53368271938", text: "Evenbrite - LedgerFest Tickets"}
+   - {link: "https://www.eventbrite.com/e/ledgerfest2020-student-blockchain-summit-tickets-97888845171", text: "Evenbrite - LedgerFest Tickets"}
    - {link: "https://blockchainatcolumbia.com/", text: "Blockchain at Columbia"}
    - {link: "http://www.columbia.edu/files/columbia/content/morningsidemap_2013july.pdf", text: "Map"}
  -

@@ -5,14 +5,14 @@
     - {title: "Pupin Hall (Room TBD)", color: "#AFDDED"}
   timeslots:
     - {
-    	startTime: "08:15",
-    	endTime: "08:45",
-    	sessionIds: [297]
+    	  startTime: "08:15",
+    	  endTime: "08:45",
+    	  sessionIds: [297]
     }
     - {
-    	startTime: "08:45",
-    	endTime: "09:00",
-    	sessionIds: [101]
+    	  startTime: "08:45",
+    	  endTime: "09:00",
+    	  sessionIds: [101]
     }
     - {
         startTime: "9:00",
