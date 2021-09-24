@@ -2,17 +2,17 @@
   id: 1
   title: "Paraswap's Mounir Benchemled"
   description: "White Star Capital's Thomas Klocanas interviews Mounir Benchemled, Founder of Paraswap"
-  speakers: [1]
+  speakers: [1,6]
  -
   id: 2
   title: "Audius's Roneil Rumburg"
   description: "Multicoin Capital's Mable Jiang interviews Roneil Rumburg, Co-Founder of Audius"
-  speakers: [2]
+  speakers: [2,8]
  -
   id: 3
   title: "Livepeer's Doug Petkanics"
-  description: "Northzone Venture's Wendy Xiao Schadeck interviews Doug Petkanics, Founder of Livepeer"
-  speakers: [3]
+  description: "Northzone Ventures' Wendy Xiao Schadeck interviews Doug Petkanics, Founder of Livepeer"
+  speakers: [3,7]
  -
   id: 4
   title: "Lightspeed's Amy Wu"

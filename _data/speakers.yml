@@ -44,6 +44,33 @@
   thumbnailUrl: temp.jpg
   rockstar: false
 -
+  id: 6
+  name: "Thomas"
+  surname: "Klocanas"
+  company: "White Star Capital"
+  title: "Principal"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+-
+  id: 7
+  name: "Wendy"
+  surname: "Xiao Schadeck"
+  company: "Northzone Ventures"
+  title: "Partner"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+-
+  id: 8
+  name: "Mable"
+  surname: "Jiang"
+  company: "Multicoin Capital"
+  title: "Partner"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+
 #   id: 1001
 #   name: "FULL SPEAKER LIST"
 #   surname: "COMING SOON"

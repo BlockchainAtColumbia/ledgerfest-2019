@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "LedgerFest 2021"
 email: "blockchain@columbia.edu"
-description: "LedgerFest is Columbia University’s second blockchain and crypto conference"
+description: "LedgerFest is Blockchain@Columbia's annual crypto conference."
 baseurl: ""
 url: "https://ledgerfest.info"
 permalink: "/blog/:title"
@@ -23,7 +23,7 @@ organizerAlternateName: "Blockchain at Columbia"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "blockchain@columbia.edu"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://blockchainatcolumbia.com/"
+organizerLink: "https://blockchainatcolumbia.org/"
 
 # Head
 metaKeywords: "blockchain, conference"
@@ -59,13 +59,13 @@ heroButtons:
 # About Block
 aboutTitle: "About LedgerFest"
 aboutBlock:
- - {title: "Conference", image: "kadena.jpg", text: "LedgerFest is Columbia University’s second blockchain and crypto conference. Through this conference, B@C aims to introduce students to companies and individuals doing phenomenal work in the distributed ledger environment." }
- - {title: "Topics", image: "hackathon2.jpg", text: "Decentralized finance, industry applications of distributed ledgers, humanitarian and political impact of blockchains and more." }
+ - {title: "Conference", image: "conf.jpg", text: "LedgerFest is Blockchain@Columbia's annual crypto conference. We aim to educate and inspire students and the broader community through fireside chats, talks, and tutorials from founders and operators of the leading protocols and investors in the space." }
+ - {title: "Topics", image: "hackathon2.jpg", text: "DeFi, web3, layer 1/layer2 research and protocols, NFTs, crypto gaming, humanitarian and political impact of blockchains, and more." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "10", specialCharacter: "", info: "hours", detail: ""}
+ - {count: "2", specialCharacter: "", info: "days", detail: ""}
  - {count: "10", specialCharacter: "+", info: "speakers", detail: ""}
 
 # Rockstar Speakers Block
@@ -76,33 +76,33 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Columbia University, Pupin Hall"
+eventLocationName: "Gather"
 eventLocationLink: "http://www.columbia.edu/cu/computinghistory/pupin.html"
-eventStreetAddress: "538 W 120th St"
-eventAddressLocality: "New York"
-eventAddressLocalityRegion: "New York"
+# eventStreetAddress: ""
+# eventAddressLocality: ""
+# eventAddressLocalityRegion: ""
 eventPostalCode: "10027"
 eventAddressCountry: "U.S"
-eventStartTime: "2020-03-27T08:15"
+eventStartTime: "2021-10-22T10:00"
 eventDoorTime: "08:45"
-eventEndTime: "2020-03-27T18:30"
+eventEndTime: "2021-10-23T19:45"
 eventPlaceCoordinates: "40.809984, -73.961386"
 mapCenterCoordinates: "40.809984, -73.961386"
 mapMobileCenterCoordinates: "40.809984, -73.961386"
 
 # Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "venue_20.jpg"
-venueSmallImage1: "venue_21.jpg"
-venueSmallImage2: "venue_21.jpg"
-venueSmallImage3: "venue_21.jpg"
-venueTitle: "Pupin Hall"
-venueFeatures: ["Pupin Hall", "Rooms TBA", "538 W 120th St, New York, NY 10027"]
+# venueBlockTitle: "Venue"
+# venueBigImage: "venue_20.jpg"
+# venueSmallImage1: "venue_21.jpg"
+# venueSmallImage2: "venue_21.jpg"
+# venueSmallImage3: "venue_21.jpg"
+# venueTitle: "Pupin Hall"
+# venueFeatures: ["Pupin Hall", "Rooms TBA", "538 W 120th St, New York, NY 10027"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "ledgerfest20"
+twitterHashTag: "ledgerfest21"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -115,13 +115,13 @@ socialLinks:
  - {link: "https://twitter.com/blockchainatcu?lang=en", icon: "twitter"}
  - {link: "https://www.facebook.com/BlockchainatColumbia/?ref=bookmarks", icon: "facebook"}
  - {link: "https://www.eventbrite.com/e/ledgerfest2020-student-blockchain-summit-tickets-97888845171", icon: "rss"}
- - {link: "https://blockchainatcolumbia.com/", icon: "site"}
+ - {link: "https://blockchainatcolumbia.org/", icon: "site"}
 footerBlocks:
  -
   title: "Links"
   links:
    - {link: "https://www.eventbrite.com/e/ledgerfest2020-student-blockchain-summit-tickets-97888845171", text: "Evenbrite - LedgerFest Tickets"}
-   - {link: "https://blockchainatcolumbia.com/", text: "Blockchain at Columbia"}
+   - {link: "https://blockchainatcolumbia.org/", text: "Blockchain@Columbia"}
    - {link: "http://www.columbia.edu/files/columbia/content/morningsidemap_2013july.pdf", text: "Map"}
  -
   title: "Contacts"
