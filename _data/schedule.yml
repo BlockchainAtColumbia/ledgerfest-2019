@@ -1,66 +1,44 @@
 -
-  date: "2020-03-20"
-  dateReadable: "March 27th"
+  date: "2021-10-22"
+  dateReadable: "October 22th"
   tracks:
-    - {title: "Pupin Hall (Room TBD)", color: "#AFDDED"}
+    - {title: "Gather", color: "#AFDDED"}
   timeslots:
     - {
-    	  startTime: "08:15",
-    	  endTime: "08:45",
-    	  sessionIds: [297]
+    	  startTime: "10:00",
+    	  endTime: "10:45",
+    	  sessionIds: [1]
     }
+
     - {
-    	  startTime: "08:45",
-    	  endTime: "09:00",
-    	  sessionIds: [101]
+    	  startTime: "11:00",
+    	  endTime: "11:45",
+    	  sessionIds: [3]
     }
+
+
     - {
-        startTime: "9:00",
-        endTime: "09:50",
-        sessionIds: [10001]
+    	  startTime: "19:00",
+    	  endTime: "19:45",
+    	  sessionIds: [2]
     }
+-
+  date: "2021-10-23"
+  dateReadable: "October 23th"
+  tracks:
+    - {title: "Gather", color: "#AFDDED"}
+  timeslots:
     - {
-        startTime: "10:00",
-        endTime: "10:50",
-        sessionIds: [10001]
-    }
+          startTime: "14:00",
+          endTime: "14:45",
+          sessionIds: [5]
+      }
+
     - {
-        startTime: "11:00",
-        endTime: "11:50",
-        sessionIds: [10001]
+    	  startTime: "15:00",
+    	  endTime: "15:45",
+    	  sessionIds: [4]
     }
-    - {
-    	startTime: "12:00",
-    	endTime: "12:50",
-    	sessionIds: [298]
-    }
-    - {
-    	startTime: "01:00",
-    	endTime: "01:50",
-    	sessionIds: [10001]
-    }
-    - {
-    	startTime: "02:00",
-    	endTime: "02:50",
-    	sessionIds: [10001]
-    }
-    - {
-    	startTime: "03:00",
-    	endTime: "03:50",
-    	sessionIds: [10001]
-    }
-    - {
-    	startTime: "04:00",
-    	endTime: "04:50",
-    	sessionIds: [10001]
-    }
-    - {
-    	startTime: "04:55",
-    	endTime: "05:10",
-    	sessionIds: [299]
-    }
-    - {
-    	startTime: "05:30",
-    	endTime: "06:30",
-    	sessionIds: [296]
-    }
+
+    
+    

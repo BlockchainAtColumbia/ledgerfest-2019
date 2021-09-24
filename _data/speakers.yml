@@ -1,48 +1,75 @@
 -
   id: 1
-  name: "Nir"
-  surname: "Kabessa"
-  company: "Yup"
-  title: "CEO"
-  bio: "Co-founder and CEO of Yup"
-  thumbnailUrl: nkabessa.jpg
+  name: "Mounir"
+  surname: "Benchemled"
+  company: "Paraswap"
+  title: "Founder/CEO"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
   rockstar: false
-# -
-#   id: 2
-#   name: ""
+-
+  id: 2
+  name: "Roneil"
+  surname: "Rumburg"
+  company: "Audius"
+  title: "Co-Founder/CEO"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+-
+  id: 3
+  name: "Doug"
+  surname: "Petkanics"
+  company: "Livepeer"
+  title: "Founder/CEO"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+-
+  id: 4
+  name: "Amy"
+  surname: "Wu"
+  company: "Lightspeed Venture Partners"
+  title: "Partner"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+-
+  id: 5
+  name: "Graeme"
+  surname: "Boy"
+  company: "Mirror.xyz"
+  title: "CTO"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+-
+#   id: 1001
+#   name: "FULL SPEAKER LIST"
 #   surname: "COMING SOON"
 #   company: ""
 #   title: ""
 #   bio: "More to Come"
 #   thumbnailUrl: temp.jpg
 #   rockstar: false
--
-  id: 1001
-  name: "FULL SPEAKER LIST"
-  surname: "COMING SOON"
-  company: ""
-  title: ""
-  bio: "More to Come"
-  thumbnailUrl: temp.jpg
-  rockstar: false
--
-  id: 101
-  name: "Alex"
-  surname: "Toberoff"
-  company: "Blockchain at Columbia"
-  title: "President of Blockchain at Columbia"
-  bio: "Student at Columbia University"
-  thumbnailUrl: temp.jpg
-  rockstar: false
--
-  id: 102
-  name: "Andrew"
-  surname: "Tang"
-  company: "Blockchain at Columbia"
-  title: "VP of Blockchain at Columbia"
-  bio: "Student at Columbia University"
-  thumbnailUrl: temp.jpg
-  rockstar: false
+# -
+#   id: 101
+#   name: "Alex"
+#   surname: "Toberoff"
+#   company: "Blockchain at Columbia"
+#   title: "President of Blockchain at Columbia"
+#   bio: "Student at Columbia University"
+#   thumbnailUrl: temp.jpg
+#   rockstar: false
+# -
+#   id: 102
+#   name: "Andrew"
+#   surname: "Tang"
+#   company: "Blockchain at Columbia"
+#   title: "VP of Blockchain at Columbia"
+#   bio: "Student at Columbia University"
+#   thumbnailUrl: temp.jpg
+#   rockstar: false
 
 # -
 #   id: 2
@@ -53,6 +80,7 @@
 #   bio: "More to Come"
 #   thumbnailUrl: temp.jpg
 #   rockstar: false
+# -
 #   id: 3
 #   name: "Eran"
 #   surname: "Tromer"
