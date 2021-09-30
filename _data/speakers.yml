@@ -79,6 +79,25 @@
   bio: "More to Come"
   thumbnailUrl: temp.jpg
   rockstar: false
+-
+  id: 10
+  name: "Kevin"
+  surname: "Ho"
+  company: "Optimism"
+  title: "Co-Founder"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+-
+  id: 11
+  name: "Stani"
+  surname: "Kulechov"
+  company: "Aave"
+  title: "Founder/CEO"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+
 
 
 

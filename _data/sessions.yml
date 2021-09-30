@@ -28,3 +28,13 @@
   title: "UMA's Hart Lambur"
   description: "Hart Lambur, Co-Founder/CEO of UMA"
   speakers: [9]
+ - 
+  id: 7
+  title: "Optimism's Kevin Ho"
+  description: "Kevin Ho, Co-Founder of Optimism"
+  speakers: [10]
+ - 
+  id: 8
+  title: "Aave's Stani Kulechov"
+  description: "Stani Kulechov, Founder/CEO of Aave"
+  speakers: [11]
