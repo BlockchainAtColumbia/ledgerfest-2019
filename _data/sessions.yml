@@ -1,16 +1,16 @@
  -
   id: 1
-  title: "Paraswap's Mounir Benchemled"
+  title: "Paraswap's Mounir Benchemled with White Star's Thomas Klocanas"
   description: "White Star Capital's Thomas Klocanas interviews Mounir Benchemled, Founder of Paraswap"
   speakers: [1,6]
  -
   id: 2
-  title: "Audius's Roneil Rumburg"
+  title: "Audius' Roneil Rumburg with Multicoin's Mable Jiang"
   description: "Multicoin Capital's Mable Jiang interviews Roneil Rumburg, Co-Founder of Audius"
   speakers: [2,8]
  -
   id: 3
-  title: "Livepeer's Doug Petkanics"
+  title: "Livepeer's Doug Petkanics with Northzone's Wendy Xiao Schadeck"
   description: "Northzone Ventures' Wendy Xiao Schadeck interviews Doug Petkanics, Founder of Livepeer"
   speakers: [3,7]
  -
@@ -23,3 +23,8 @@
   title: "Mirror.xyz's Graeme Boy"
   description: "Graeme Boy, CTO of Mirror.xyz"
   speakers: [5]
+ - 
+  id: 6
+  title: "UMA's Hart Lambur"
+  description: "Hart Lambur, Co-Founder/CEO of UMA"
+  speakers: [9]

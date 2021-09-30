@@ -70,6 +70,17 @@
   bio: "More to Come"
   thumbnailUrl: temp.jpg
   rockstar: false
+-
+  id: 9
+  name: "Hart"
+  surname: "Lambur"
+  company: "UMA"
+  title: "Co-Founder/CEO"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+
+
 
 #   id: 1001
 #   name: "FULL SPEAKER LIST"
