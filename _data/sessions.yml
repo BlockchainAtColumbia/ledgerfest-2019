@@ -38,3 +38,13 @@
   title: "Aave's Stani Kulechov"
   description: "Stani Kulechov, Founder/CEO of Aave"
   speakers: [11]
+ - 
+  id: 9
+  title: "Sommelier's Zaki Manian with Standard Crypto's Adam Goldberg"
+  description: "Standard Crypto's Adam Goldberg interviews Zaki Manian, Co-Founder of Sommelier"
+  speakers: [12,14]
+ - 
+  id: 10
+  title: "SynFutures' Rachel Lin with Standard Crypto's Adam Goldberg"
+  description: "Standard Crypto's Adam Goldberg interviews Rachel Lin, Founder/CEO of SynFutures"
+  speakers: [13,14]

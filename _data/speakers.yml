@@ -97,6 +97,38 @@
   bio: "More to Come"
   thumbnailUrl: temp.jpg
   rockstar: false
+-
+  id: 12
+  name: "Zaki"
+  surname: "Manian"
+  company: "Cosmos/Sommelier"
+  title: "Co-Founder"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+-
+  id: 13
+  name: "Rachel"
+  surname: "Lin"
+  company: "SynFutures"
+  title: "Founder/CEO"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+-
+  id: 14
+  name: "Adam"
+  surname: "Goldberg"
+  company: "Standard Crypto"
+  title: "Co-Founder"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+
+
+
+
+
 
 
 
