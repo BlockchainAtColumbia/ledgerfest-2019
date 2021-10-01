@@ -1,9 +1,9 @@
 -
   id: 1
-  name: "Mounir"
-  surname: "Benchemled"
-  company: "Paraswap"
-  title: "Founder/CEO"
+  name: "Francesco"
+  surname: "Renzi"
+  company: "Superfluid"
+  title: "Co-Founder/CEO"
   bio: "More to Come"
   thumbnailUrl: temp.jpg
   rockstar: false
@@ -124,6 +124,16 @@
   bio: "More to Come"
   thumbnailUrl: temp.jpg
   rockstar: false
+-
+  id: 15
+  name: "Cindy"
+  surname: "Leow"
+  company: "Drift Protocol"
+  title: "Co-Founder"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+
 
 
 

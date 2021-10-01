@@ -1,7 +1,7 @@
  -
   id: 1
-  title: "Paraswap's Mounir Benchemled with White Star's Thomas Klocanas"
-  description: "White Star Capital's Thomas Klocanas interviews Mounir Benchemled, Founder of Paraswap"
+  title: "Superfluid's Francesco Renzi with White Star's Thomas Klocanas"
+  description: "White Star Capital's Thomas Klocanas interviews Francesco Renzi, Co-Founder/CEO of Paraswap"
   speakers: [1,6]
  -
   id: 2
@@ -48,3 +48,8 @@
   title: "SynFutures' Rachel Lin with Standard Crypto's Adam Goldberg"
   description: "Standard Crypto's Adam Goldberg interviews Rachel Lin, Founder/CEO of SynFutures"
   speakers: [13,14]
+ - 
+  id: 11
+  title: "Drift's Cindy Leow"
+  description: "Cindy Leow, Co-Founder of Drift Protocol"
+  speakers: [15]

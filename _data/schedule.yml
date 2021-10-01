@@ -4,11 +4,6 @@
   tracks:
     - {title: "Gather", color: "#AFDDED"}
   timeslots:
-    - {
-    	  startTime: "10:00",
-    	  endTime: "10:45",
-    	  sessionIds: [1]
-    }
 
     - {
     	  startTime: "11:00",
@@ -40,6 +35,11 @@
   tracks:
     - {title: "Gather", color: "#AFDDED"}
   timeslots:
+    - {
+          startTime: "12:00",
+          endTime: "12:45",
+          sessionIds: [11]
+      }
     - {
           startTime: "14:00",
           endTime: "14:45",
