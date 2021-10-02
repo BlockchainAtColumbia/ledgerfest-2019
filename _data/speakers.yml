@@ -133,7 +133,24 @@
   bio: "More to Come"
   thumbnailUrl: temp.jpg
   rockstar: false
-
+-
+  id: 16
+  name: "Sowmay"
+  surname: "Jain"
+  company: "Instadapp"
+  title: "Co-Founder/CEO"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+-
+  id: 17
+  name: "Paul"
+  surname: "Veradittakit"
+  company: "Pantera Capital"
+  title: "Partner"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
 
 
 

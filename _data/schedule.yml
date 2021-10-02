@@ -18,6 +18,12 @@
     }
 
     - {
+    	  startTime: "13:00",
+    	  endTime: "13:45",
+    	  sessionIds: [12]
+    }
+
+    - {
     	  startTime: "15:00",
     	  endTime: "15:45",
     	  sessionIds: [7]
