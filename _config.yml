@@ -20,7 +20,7 @@ permalink: "/blog/:title"
 # Organizer Info
 organizerName: "B@C"
 organizerAlternateName: "Blockchain at Columbia"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerDescription: "Student-run blockchain org at Columbia University."
 organizerEmail: "blockchain@columbia.edu"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://blockchainatcolumbia.org/"
@@ -33,7 +33,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://www.eventbrite.com/e/ledgerfest2020-student-blockchain-summit-tickets-97888845171"
+c4pUrl: "https://www.eventbrite.com/e/blockchaincolumbia-ledgerfest-conference-tickets-184252673707"
 c4sponsorsUrl: ""
 
 
@@ -44,9 +44,9 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/faq/", text: "FAQ"}
 bottomNavigationLinks:
- - {link: "https://www.eventbrite.com/e/ledgerfest2020-student-blockchain-summit-tickets-97888845171", text: "Register"}
+ - {link: "https://www.eventbrite.com/e/blockchaincolumbia-ledgerfest-conference-tickets-184252673707", text: "Register"}
 rightNavigationButtons:
- - {link: "https://www.eventbrite.com/e/ledgerfest2020-student-blockchain-summit-tickets-97888845171", text: "Register"}
+ - {link: "https://www.eventbrite.com/e/blockchaincolumbia-ledgerfest-conference-tickets-184252673707", text: "Register"}
 
 # Hero Block
 heroImage: "cuview.jpg"
@@ -55,7 +55,7 @@ eventDate: "October 22-23, 2021"
 typeoutTextValues: '"", "2021"'
 typeoutFallback: "2021"
 heroButtons:
- - {link: "https://www.eventbrite.com/e/ledgerfest2020-student-blockchain-summit-tickets-97888845171", text: "Register"}
+ - {link: "https://www.eventbrite.com/e/blockchaincolumbia-ledgerfest-conference-tickets-184252673707", text: "Register"}
 # About Block
 aboutTitle: "About LedgerFest"
 aboutBlock:
@@ -114,13 +114,13 @@ socialLinks:
  - {link: "https://www.instagram.com/blockchaincolumbia/", icon: "linkedin"}
  - {link: "https://twitter.com/blockchainatcu?lang=en", icon: "twitter"}
  - {link: "https://www.facebook.com/BlockchainatColumbia/?ref=bookmarks", icon: "facebook"}
- - {link: "https://www.eventbrite.com/e/ledgerfest2020-student-blockchain-summit-tickets-97888845171", icon: "rss"}
+ - {link: "https://www.eventbrite.com/e/blockchaincolumbia-ledgerfest-conference-tickets-184252673707", icon: "rss"}
  - {link: "https://blockchainatcolumbia.org/", icon: "site"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://www.eventbrite.com/e/ledgerfest2020-student-blockchain-summit-tickets-97888845171", text: "Evenbrite - LedgerFest Tickets"}
+   - {link: "https://www.eventbrite.com/e/blockchaincolumbia-ledgerfest-conference-tickets-184252673707", text: "Evenbrite - LedgerFest Tickets"}
    - {link: "https://blockchainatcolumbia.org/", text: "Blockchain@Columbia"}
    - {link: "http://www.columbia.edu/files/columbia/content/morningsidemap_2013july.pdf", text: "Map"}
  -
