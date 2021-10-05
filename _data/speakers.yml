@@ -169,6 +169,15 @@
   bio: "More to Come"
   thumbnailUrl: temp.jpg
   rockstar: false
+-
+  id: 20
+  name: "Kento"
+  surname: "Inami"
+  company: "UXD Protocol"
+  title: "Founder"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
 
 
 
