@@ -160,6 +160,16 @@
   bio: "More to Come"
   thumbnailUrl: temp.jpg
   rockstar: false
+-
+  id: 19
+  name: "Alok"
+  surname: "Vasudev"
+  company: "Standard Crypto"
+  title: "Co-Founder"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+
 
 
 
