@@ -214,6 +214,24 @@
   bio: "More to Come"
   thumbnailUrl: temp.jpg
   rockstar: false
+-
+  id: 25
+  name: "Yenwen"
+  surname: "Feng"
+  company: "Perpetual Protocol"
+  title: "Co-Founder"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+-
+  id: 26
+  name: "BigSky"
+  surname: ""
+  company: "Index Coop"
+  title: ""
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
 
 
 

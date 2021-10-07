@@ -88,3 +88,13 @@
   title: "Aleo's Alex Pruden"
   description: "Alex Pruden, COO of Aleo"
   speakers: [24]
+- 
+  id: 19
+  title: "Perpetual Protocol's Yenwen Feng"
+  description: "Yenwen Feng, Co-Founder of Perpetual Protocol"
+  speakers: [25]
+- 
+  id: 20
+  title: "Index Coop's BigSky"
+  description: "BigSky, Index Coop"
+  speakers: [26]
