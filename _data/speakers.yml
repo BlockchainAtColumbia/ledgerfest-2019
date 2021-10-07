@@ -178,6 +178,24 @@
   bio: "More to Come"
   thumbnailUrl: temp.jpg
   rockstar: false
+-
+  id: 21
+  name: "Frank"
+  surname: "M."
+  company: "Helium"
+  title: "COO"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+-
+  id: 22
+  name: "Camila"
+  surname: "Russo"
+  company: "The Defiant"
+  title: "Founder/CEO"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
 
 
 
