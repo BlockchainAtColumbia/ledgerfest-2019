@@ -196,6 +196,15 @@
   bio: "More to Come"
   thumbnailUrl: temp.jpg
   rockstar: false
+-
+  id: 23
+  name: "Steven"
+  surname: "Goldfeder"
+  company: "Offchain Labs (Arbitrum)"
+  title: "Co-Founder/CEO"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
 
 
 
