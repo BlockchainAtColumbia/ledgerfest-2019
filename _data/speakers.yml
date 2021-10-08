@@ -225,14 +225,31 @@
   rockstar: false
 -
   id: 26
-  name: "BigSky"
-  surname: ""
+  name: "Simon"
+  surname: "Judd"
   company: "Index Coop"
-  title: ""
+  title: "Community Member"
   bio: "More to Come"
   thumbnailUrl: temp.jpg
   rockstar: false
-
+-
+  id: 27
+  name: "Sandeep"
+  surname: "Nailwal"
+  company: "Polygon"
+  title: "Co-Founder/COO"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+-
+  id: 28
+  name: "Shreyas"
+  surname: "Hariharan"
+  company: "Llama"
+  title: "Founder"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
 
 
 

@@ -83,18 +83,29 @@
   title: "Arbitrum's Steven Goldfeder"
   description: "Steven Goldfeder, Co-Founder/CEO of Offchain Labs (Arbitrum)"
   speakers: [23]
-- 
+ - 
   id: 18
   title: "Aleo's Alex Pruden"
   description: "Alex Pruden, COO of Aleo"
   speakers: [24]
-- 
+ - 
   id: 19
   title: "Perpetual Protocol's Yenwen Feng"
   description: "Yenwen Feng, Co-Founder of Perpetual Protocol"
   speakers: [25]
-- 
+ - 
   id: 20
-  title: "Index Coop's BigSky"
-  description: "BigSky, Index Coop"
+  title: "Index Coop's Simon Judd (BigSky)"
+  description: "Simon Judd, Community Member of Index Coop"
   speakers: [26]
+ - 
+  id: 21
+  title: "Polygon's Sandeep Nailwal"
+  description: "Sandeep Nailwal, Co-Founder/COO of Polygon"
+  speakers: [27]
+ - 
+  id: 22
+  title: "Llama's Shreyas Hariharan"
+  description: "Shreyas Hariharan, Founder of Llama"
+  speakers: [28]
+

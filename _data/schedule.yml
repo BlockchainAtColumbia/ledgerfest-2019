@@ -6,6 +6,12 @@
   timeslots:
 
     - {
+    	  startTime: "09:00",
+    	  endTime: "09:45",
+    	  sessionIds: [22]
+    }
+
+    - {
     	  startTime: "10:00",
     	  endTime: "10:45",
     	  sessionIds: [10]
@@ -71,6 +77,19 @@
   tracks:
     - {title: "Gather", color: "#AFDDED"}
   timeslots:
+ 
+    - {
+          startTime: "10:00",
+          endTime: "10:45",
+          sessionIds: [21]
+      }
+
+    - {
+          startTime: "11:00",
+          endTime: "11:45",
+          sessionIds: [19]
+      }  
+
     - {
           startTime: "12:00",
           endTime: "12:45",
@@ -105,6 +124,12 @@
     	  startTime: "18:00",
     	  endTime: "18:45",
     	  sessionIds: [14]
+    }
+
+    - {
+    	  startTime: "19:00",
+    	  endTime: "19:45",
+    	  sessionIds: [20]
     }
 
     
