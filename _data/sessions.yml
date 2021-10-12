@@ -70,8 +70,8 @@
   speakers: [20]
  - 
   id: 15
-  title: "Helium's Frank M."
-  description: "Frank M., COO of Helium"
+  title: "Helium's Frank Mong"
+  description: "Frank Mong, COO of Helium"
   speakers: [21]
  - 
   id: 16
@@ -113,4 +113,9 @@
   title: "Saber's Dylan Macalinao"
   description: "Dylan Macalinao, Co-Founder of Saber"
   speakers: [29]
+ - 
+  id: 24
+  title: "The Graph's Tegan Kline"
+  description: "Tegan Kline, Co-Founder of Edge & Node (The Graph)"
+  speakers: [30]
 

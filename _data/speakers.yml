@@ -181,7 +181,7 @@
 -
   id: 21
   name: "Frank"
-  surname: "M."
+  surname: "Mong"
   company: "Helium"
   title: "COO"
   bio: "More to Come"
@@ -255,6 +255,15 @@
   name: "Dylan"
   surname: "Macalinao"
   company: "Saber"
+  title: "Co-Founder"
+  bio: "More to Come"
+  thumbnailUrl: temp.jpg
+  rockstar: false
+-
+  id: 30
+  name: "Tegan"
+  surname: "Kline"
+  company: "Edge & Node (The Graph)"
   title: "Co-Founder"
   bio: "More to Come"
   thumbnailUrl: temp.jpg
