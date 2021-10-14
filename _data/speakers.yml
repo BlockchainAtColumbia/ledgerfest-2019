@@ -4,7 +4,7 @@
   surname: "Renzi"
   company: "Superfluid"
   title: "Co-Founder/CEO"
-  bio: "More to Come"
+  bio: "Francesco is Co-Founder and CEO of Superfluid, a decentralized finance protocol that is rebuilding money from the ground-up, enabling money with more native functionalities, like Money Streaming."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -13,7 +13,7 @@
   surname: "Rumburg"
   company: "Audius"
   title: "Co-Founder/CEO"
-  bio: "More to Come"
+  bio: "Roneil is co-founder and CEO of Audius, a digital streaming service that connects fans directly with artists and exclusive new music. Audius is fully decentralized, owned and run by a vibrant, open-source community of artists, fans, and developers all around the world."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -22,7 +22,7 @@
   surname: "Petkanics"
   company: "Livepeer"
   title: "Founder/CEO"
-  bio: "More to Come"
+  bio: "Doug is Founder and CEO at Livepeer, where he focuses on protocol research and software development. Livepeer is building an open source video infrastructure platform, which leverages decentralization to drive down costs and meet the needs of developers building video streaming applications at scale."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -31,16 +31,16 @@
   surname: "Wu"
   company: "Lightspeed Venture Partners"
   title: "Partner"
-  bio: "More to Come"
+  bio: "Amy leads investments in crypto, gaming, and consumer growth at Lightspeed Venture Partners, a global VC fund with over $12B under management, including Arbitrum, Epic Games, Webull, and others."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
   id: 5
   name: "Graeme"
   surname: "Boy"
-  company: "Mirror.xyz"
+  company: "Mirror"
   title: "CTO"
-  bio: "More to Come"
+  bio: "Graeme is the CTO of Mirror, a crypto-native creative suite, with crowdfunding & publishing tools for creators."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -49,7 +49,7 @@
   surname: "Klocanas"
   company: "White Star Capital"
   title: "Principal"
-  bio: "More to Come"
+  bio: "Thomas is a Principal at Whitestar Capital, focusing on crypto, digital assets, fintech, and gaming."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -58,7 +58,7 @@
   surname: "Xiao Schadeck"
   company: "Northzone Ventures"
   title: "Partner"
-  bio: "More to Come"
+  bio: "Wendy is a Partner at Northzone, based in New York, and focuses mainly on companies in the consumer, health, fintech, developer and web 3 infrastructure spaces. Her portfolio includes Spring Health, Livepeer, 3Box, and OpenZeppelin."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -67,7 +67,7 @@
   surname: "Jiang"
   company: "Multicoin Capital"
   title: "Partner"
-  bio: "More to Come"
+  bio: "Mable leads Multicoin's investment team in Hangzhou. She’s passionate about the paradigm shift in business models driven by blockchain technology, the crypto-economy, and the Web 3.0 stack."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -76,7 +76,7 @@
   surname: "Lambur"
   company: "UMA"
   title: "Co-Founder/CEO"
-  bio: "More to Come"
+  bio: "Hart is the co-founder of UMA, a decentralized financial contracts platform built to enable Universal Market Access."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -85,25 +85,17 @@
   surname: "Ho"
   company: "Optimism"
   title: "Co-Founder"
-  bio: "More to Come"
+  bio: "Kevin is the Co-Founder of Optimism PBC, building optimistic rollups as secure, decentralized infrastructure for scaling Ethereum"
   thumbnailUrl: temp.jpg
   rockstar: false
--
-  id: 11
-  name: "Stani"
-  surname: "Kulechov"
-  company: "Aave"
-  title: "Founder/CEO"
-  bio: "More to Come"
-  thumbnailUrl: temp.jpg
-  rockstar: false
+
 -
   id: 12
   name: "Zaki"
   surname: "Manian"
   company: "Cosmos/Sommelier"
   title: "Co-Founder"
-  bio: "More to Come"
+  bio: "Zaki is the cofounder of Sommelier Protocol, a system for liquidity oracle managed DeFi vaults. He is a core contributor to the Cosmos Hub and Cosmos network on blockchains."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -112,7 +104,7 @@
   surname: "Lin"
   company: "SynFutures"
   title: "Founder/CEO"
-  bio: "More to Come"
+  bio: "Rachel is the Founder/CEO of SynFutures, allowing anyone list and trade futures for cryptocurrencies and any asset with a price feed."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -121,7 +113,7 @@
   surname: "Goldberg"
   company: "Standard Crypto"
   title: "Co-Founder"
-  bio: "More to Come"
+  bio: "Adam is the Co-Founder of Standard Crypto, investing in crypto-networks (pre- and post-launch) and startups (seed and series A) that aspire to reshape money, the internet, and how people coordinate."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -130,7 +122,7 @@
   surname: "Leow"
   company: "Drift Protocol"
   title: "Co-Founder"
-  bio: "More to Come"
+  bio: "Cindy is the Co-Founder at Drift Protocol, a decentralised derivatives exchange built on Solana. Previously Trader/PM @ 256 Capital."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -139,7 +131,7 @@
   surname: "Jain"
   company: "Instadapp"
   title: "Co-Founder/CEO"
-  bio: "More to Come"
+  bio: "Sowmay is the CEO and Co-founder of Instadapp, a smart wallet for DeFi which allows users to seamlessly manage multiple DeFi applications to maximize returns across various protocols in a fraction of the time."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -148,7 +140,7 @@
   surname: "Veradittakit"
   company: "Pantera Capital"
   title: "Partner"
-  bio: "More to Come"
+  bio: "Paul is a Partner at Pantera Capital and focuses on the firm’s venture capital and hedge fund investments. Pantera Capital is the earliest and largest institutional investor in digital currencies and blockchain technologies, formerly managing over $4B."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -157,7 +149,7 @@
   surname: "Zinsmeister"
   company: "Uniswap"
   title: "Engineering Lead"
-  bio: "More to Come"
+  bio: "Noah is an engineering lead at Uniswap Exchange; creator of Web3-react; co-author of ERC-1484."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -166,7 +158,7 @@
   surname: "Vasudev"
   company: "Standard Crypto"
   title: "Co-Founder"
-  bio: "More to Come"
+  bio: "Alok is the Co-Founder of Standard Crypto, investing in crypto-networks (pre- and post-launch) and startups (seed and series A) that aspire to reshape money, the internet, and how people coordinate."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -174,8 +166,8 @@
   name: "Kento"
   surname: "Inami"
   company: "UXD Protocol"
-  title: "Founder"
-  bio: "More to Come"
+  title: "Founder/CEO"
+  bio: "Kento is the Founder/CEO of UXD, building an algorithmic stablecoin backed 100% by a delta neutral position using derivatives, built on Solana."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -184,25 +176,17 @@
   surname: "Mong"
   company: "Helium"
   title: "COO"
-  bio: "More to Come"
+  bio: "Frank is the COO of Helium, powered by the Helium Blockchain, Helium represents a paradigm shift for decentralized wireless infrastructure."
   thumbnailUrl: temp.jpg
   rockstar: false
--
-  id: 22
-  name: "Camila"
-  surname: "Russo"
-  company: "The Defiant"
-  title: "Founder/CEO"
-  bio: "More to Come"
-  thumbnailUrl: temp.jpg
-  rockstar: false
+
 -
   id: 23
   name: "Steven"
   surname: "Goldfeder"
   company: "Offchain Labs (Arbitrum)"
   title: "Co-Founder/CEO"
-  bio: "More to Come"
+  bio: "Steven is Co-founder and Chief Executive Officer at Offchain Labs. He holds a PhD from Princeton University, where he worked at the intersection of cryptography and cryptocurrencies."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -211,7 +195,7 @@
   surname: "Pruden"
   company: "Aleo"
   title: "COO"
-  bio: "More to Come"
+  bio: "Alex is a Chief Operating Officer at Aleo, where he leads outreach, operations, and strategy for the company."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -220,7 +204,7 @@
   surname: "Feng"
   company: "Perpetual Protocol"
   title: "Co-Founder"
-  bio: "More to Come"
+  bio: "Yenwen is the co-founder of Perpetual Protocol, a decentralized perpetual contract protocol for every asset."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -229,7 +213,7 @@
   surname: "Judd"
   company: "Index Coop"
   title: "Community Member"
-  bio: "More to Come"
+  bio: "Simon Judd is a community member of Index Coop."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -238,7 +222,7 @@
   surname: "Nailwal"
   company: "Polygon"
   title: "Co-Founder/COO"
-  bio: "More to Come"
+  bio: "Sandeep is the co-founder and Chief Operating Officer of Polygon (formerly Matic Network), an Ethereum scaling solution that at its peak was valued at over $15bn."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -247,7 +231,7 @@
   surname: "Hariharan"
   company: "Llama"
   title: "Founder"
-  bio: "More to Come"
+  bio: "Shreyas is the Founder of Llama, building treasury management as a service for DAOs."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -256,7 +240,7 @@
   surname: "Macalinao"
   company: "Saber"
   title: "Co-Founder"
-  bio: "More to Come"
+  bio: "Dylan is the Co-Founder of Saber, the leading cross-chain stablecoin DEX on Solana."
   thumbnailUrl: temp.jpg
   rockstar: false
 -
@@ -265,7 +249,7 @@
   surname: "Kline"
   company: "Edge & Node (The Graph)"
   title: "Co-Founder"
-  bio: "More to Come"
+  bio: "Tegan, Co-Founder and Business Lead at Edge & Node (the initial team behind The Graph), helping to ensure a vibrant decentralized future. Tegan is working on The Graph, an indexing and query protocol organizing the world’s open blockchain data and making open data a public good. Tegan helps leaders and innovators connect more deeply with stakeholders across the blockchain ecosystem."
   thumbnailUrl: temp.jpg
   rockstar: false
 
