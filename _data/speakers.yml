@@ -252,6 +252,15 @@
   bio: "Tegan, Co-Founder and Business Lead at Edge & Node (the initial team behind The Graph), helping to ensure a vibrant decentralized future. Tegan is working on The Graph, an indexing and query protocol organizing the world’s open blockchain data and making open data a public good. Tegan helps leaders and innovators connect more deeply with stakeholders across the blockchain ecosystem."
   thumbnailUrl: temp.jpg
   rockstar: false
+-
+  id: 31
+  name: "Jun"
+  surname: "Hao Yap"
+  company: "Xfers"
+  title: "Head of Engineering"
+  bio: "Jun is the Head of Engineering at Xfers, building payment rails for businesses in Southeast Asia."
+  thumbnailUrl: temp.jpg
+  rockstar: false
 
 
 

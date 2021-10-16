@@ -83,6 +83,12 @@
   tracks:
     - {title: "Gather", color: "#AFDDED"}
   timeslots:
+
+    - {
+          startTime: "09:00",
+          endTime: "09:45",
+          sessionIds: [25]
+      }
  
     - {
           startTime: "10:00",

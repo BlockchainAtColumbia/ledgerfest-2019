@@ -110,4 +110,9 @@
   title: "The Graph's Tegan Kline"
   description: "Tegan Kline, Co-Founder of Edge & Node (The Graph)"
   speakers: [30]
+ - 
+  id: 25
+  title: "Xfers's Jun Hao Yap"
+  description: "Jun Hao Yap, Head of Engineering at Xfers"
+  speakers: [31]
 
