@@ -256,9 +256,12 @@
   id: 31
   name: "Jun"
   surname: "Hao Yap"
-  company: "Xfers"
-  title: "Head of Engineering"
-  bio: "Jun is the Head of Engineering at Xfers, building payment rails for businesses in Southeast Asia."
+  company: "StraitsX"
+  title: "Co-Creator and Head of Engineering"
+  bio: "Jun Hao heads StraitsX’s engineering team at StraitsX and is one of Xfers’ earliest engineers,
+        joining the team in 2018. Prior to joining Xfers, Jun Hao was a software engineer for a Silicon
+        Valley-based company. Jun Hao holds a Bachelor of Computing from the National University of
+        Singapore."
   thumbnailUrl: temp.jpg
   rockstar: false
 
