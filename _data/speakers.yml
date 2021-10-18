@@ -265,6 +265,26 @@
   thumbnailUrl: temp.jpg
   rockstar: false
 
+-
+  id: 32
+  name: "Kevin"
+  surname: "Werbach"
+  company: "The Wharton School, University of Pennsylvania"
+  title: "Professor"
+  bio: "Kevin is a professor of Legal Studies and Business Ethics at The Wharton School, University of Pennsylvania."
+  thumbnailUrl: temp.jpg
+  rockstar: false
+
+-
+  id: 33
+  name: "Varun"
+  surname: "Singhi"
+  company: "Blockchain Consortiums"
+  title: "Co-Founder"
+  bio: "Varun is the Co-Author of Blockchain Consortiums."
+  thumbnailUrl: temp.jpg
+  rockstar: false
+
 
 
 

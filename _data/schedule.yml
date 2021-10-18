@@ -36,9 +36,21 @@
     }
 
     - {
+    	  startTime: "13:00",
+    	  endTime: "13:45",
+    	  sessionIds: [27]
+    }
+
+    - {
     	  startTime: "14:00",
     	  endTime: "14:45",
     	  sessionIds: [1]
+    }
+
+    - {
+        startTime: "14:00",
+        endTime: "14:45",
+        sessionIds: [26]
     }
 
     - {
@@ -59,11 +71,6 @@
     	  sessionIds: [15]
     }
 
-    - {
-    	  startTime: "17:00",
-    	  endTime: "17:45",
-    	  sessionIds: [24]
-    }
 
     - {
     	  startTime: "18:00",
@@ -131,7 +138,12 @@
     	  endTime: "16:45",
     	  sessionIds: [23]
     }
-
+    
+    - {
+    	  startTime: "17:00",
+    	  endTime: "17:45",
+    	  sessionIds: [24]
+    }
 
     - {
     	  startTime: "18:00",

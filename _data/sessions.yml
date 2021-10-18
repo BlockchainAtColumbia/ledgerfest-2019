@@ -115,4 +115,13 @@
   title: "StraitsX's Jun Hao Yap"
   description: "Jun Hao Yap, Co-Creator and Head of Engineering at StraitsX"
   speakers: [31]
-
+ - 
+  id: 26
+  title: "Wharton's Kevin Werbach"
+  description: "Kevin Werbach, professor of Legal Studies and Business Ethics at The Wharton School, University of Pennsylvania"
+  speakers: [32]
+ - 
+  id: 27
+  title: "Blockchain Consortiums' Varun Singhi"
+  description: "Varun Singhi is the Co-Author of Blockchain Consortiums"
+  speakers: [33]
