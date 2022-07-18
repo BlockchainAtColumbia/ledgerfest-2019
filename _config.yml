@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "LedgerFest 2021"
+title: "LedgerFest 2022"
 email: "blockchain@columbia.edu"
 description: "LedgerFest is Blockchain@Columbia's annual crypto conference."
 baseurl: ""
@@ -51,9 +51,9 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "cuview.jpg"
 heroTitle: "LedgerFest <typeout>"
-eventDate: "October 22-23, 2021"
-typeoutTextValues: '"", "2021"'
-typeoutFallback: "2021"
+eventDate: "September, 2022"
+typeoutTextValues: '"", "2022"'
+typeoutFallback: "2022"
 heroButtons:
  - {link: "https://www.eventbrite.com/e/blockchaincolumbia-ledgerfest-conference-tickets-184252673707", text: "Register"}
 # About Block
@@ -65,7 +65,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "2", specialCharacter: "", info: "days", detail: ""}
+ - {count: "1", specialCharacter: "", info: "days", detail: ""}
  - {count: "25", specialCharacter: "+", info: "speakers", detail: ""}
 
 # Rockstar Speakers Block
@@ -102,7 +102,7 @@ mapMobileCenterCoordinates: "40.809984, -73.961386"
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "ledgerfest21"
+twitterHashTag: "ledgerfest22"
 
 # Partners Block
 organizersTitle: "Organizers"
