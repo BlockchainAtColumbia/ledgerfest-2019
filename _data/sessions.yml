@@ -19,109 +19,13 @@
   description: "Co-Founder & Growth @ Sky Mavis (Axie Infinity)"
   speakers: [4]
  - 
-  id: 6
-  title: "FlashBot's Robert Miller"
+  id: 5
+  title: "Delphi Digital's Jon Charbonneau"
   description: ""
   speakers: [5]
  - 
   id: 6
-  title: "Delphi Digital's Jon Charbonneau"
+  title: "FlashBot's Robert Miller"
   description: ""
   speakers: [6]
- - 
-  id: 7
-  title: "Optimism's Kevin Ho"
-  description: "Kevin Ho, Co-Founder of Optimism"
-  speakers: [10]
 
- - 
-  id: 9
-  title: "Sommelier's Zaki Manian with Standard Crypto's Adam Goldberg"
-  description: "Standard Crypto's Adam Goldberg interviews Zaki Manian, Co-Founder of Sommelier"
-  speakers: [12,14]
- - 
-  id: 10
-  title: "SynFutures' Rachel Lin with Standard Crypto's Alok Vasudev"
-  description: "Standard Crypto's Alok Vasudev interviews Rachel Lin, Founder/CEO of SynFutures"
-  speakers: [13,19]
- - 
-  id: 11
-  title: "Drift's Cindy Leow"
-  description: "Cindy Leow, Co-Founder of Drift Protocol"
-  speakers: [15]
- - 
-  id: 12
-  title: "Instadapp's Sowmay Jain with Pantera's Paul Veradittakit"
-  description: "Pantera's Paul Veradittakit interviews Sowmay Jain, Co-Founder/CEO of Instadapp"
-  speakers: [16,17]
- - 
-  id: 13
-  title: "Uniswap's Noah Zinsmeister"
-  description: "Noah Zinsmeister, Engineering Lead at Uniswap"
-  speakers: [18]
- - 
-  id: 14
-  title: "UXD's Kento Inami"
-  description: "Kento Inami, Founder of UXD Protocol"
-  speakers: [20]
- - 
-  id: 15
-  title: "Helium's Frank Mong"
-  description: "Frank Mong, COO of Helium"
-  speakers: [21]
-
- - 
-  id: 17
-  title: "Arbitrum's Steven Goldfeder"
-  description: "Steven Goldfeder, Co-Founder/CEO of Offchain Labs (Arbitrum)"
-  speakers: [23]
- - 
-  id: 18
-  title: "Aleo's Alex Pruden"
-  description: "Alex Pruden, COO of Aleo"
-  speakers: [24]
- - 
-  id: 19
-  title: "Perpetual Protocol's Yenwen Feng"
-  description: "Yenwen Feng, Co-Founder of Perpetual Protocol"
-  speakers: [25]
- - 
-  id: 20
-  title: "Index Coop's Simon Judd (BigSky)"
-  description: "Simon Judd, Community Member of Index Coop"
-  speakers: [26]
- - 
-  id: 21
-  title: "Polygon's Sandeep Nailwal"
-  description: "Sandeep Nailwal, Co-Founder/COO of Polygon"
-  speakers: [27]
- - 
-  id: 22
-  title: "Llama's Shreyas Hariharan"
-  description: "Shreyas Hariharan, Founder of Llama"
-  speakers: [28]
- - 
-  id: 23
-  title: "Saber's Dylan Macalinao"
-  description: "Dylan Macalinao, Co-Founder of Saber"
-  speakers: [29]
- - 
-  id: 24
-  title: "The Graph's Tegan Kline"
-  description: "Tegan Kline, Co-Founder of Edge & Node (The Graph)"
-  speakers: [30]
- - 
-  id: 25
-  title: "StraitsX's Jun Hao Yap"
-  description: "Jun Hao Yap, Co-Creator and Head of Engineering at StraitsX"
-  speakers: [31]
- - 
-  id: 26
-  title: "Wharton's Kevin Werbach"
-  description: "Kevin Werbach, professor of Legal Studies and Business Ethics at The Wharton School, University of Pennsylvania"
-  speakers: [32]
- - 
-  id: 27
-  title: "Blockchain Consortiums' Varun Singhi"
-  description: "Varun Singhi is the Co-Author of Blockchain Consortiums"
-  speakers: [33]
