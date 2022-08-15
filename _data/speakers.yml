@@ -18,21 +18,21 @@
   rockstar: false
 -
   id: 3
-  name: "Doug"
-  surname: "Petkanics"
-  company: "Livepeer"
-  title: "Founder/CEO"
-  bio: "Doug is Founder and CEO at Livepeer, where he focuses on protocol research and software development. Livepeer is building an open source video infrastructure platform, which leverages decentralization to drive down costs and meet the needs of developers building video streaming applications at scale."
-  thumbnailUrl: temp.jpg
+  name: "Willam"
+  surname: "Duplessie"
+  company: "Pangea"
+  title: "Co-Founder/CEO"
+  bio: "Pangea Blockchain Fund (“Pangea”) is focused on commercial and industrial applications for underlying blockchain technology. The team includes thought leaders in blockchain tech, mentors with deep market and technical expertise, and world renowned strategic partners. Pangea intends to offer founders the intellectual and physical capital they need to build today’s market defining technology companies."
+  thumbnailUrl: WilliamDuplessie.jpeg
   rockstar: false
 -
   id: 4
-  name: "Amy"
-  surname: "Wu"
-  company: "Lightspeed Venture Partners"
-  title: "Partner"
-  bio: "Amy leads investments in crypto, gaming, and consumer growth at Lightspeed Venture Partners, a global VC fund with over $12B under management, including Arbitrum, Epic Games, Webull, and others."
-  thumbnailUrl: temp.jpg
+  name: "Jeff"
+  surname: "Zirlin"
+  company: "Axie Infinity"
+  title: "Co-Founder and Growth Lead"
+  bio: "Jeff AKA “Jihoz”, is a co-founder of Sky Mavis, the creators of Axie Infinity. Axie is the #1 NFT game by DAU, marketplace volume, and cultural impact. As Growth Lead, his mission is to growth the size and strength of both the community and economy. Jeff grew up playing video games and catching insects. His academic interests include military history and monetary policy."
+  thumbnailUrl: jiho-profile-pic-Albert-Takagi-e1654329484387-680x680.jpeg
   rockstar: false
 -
   id: 5
