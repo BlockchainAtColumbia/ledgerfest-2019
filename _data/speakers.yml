@@ -9,12 +9,12 @@
   rockstar: false
 -
   id: 2
-  name: "Roneil"
-  surname: "Rumburg"
-  company: "Audius"
-  title: "Co-Founder/CEO"
-  bio: "Roneil is co-founder and CEO of Audius, a digital streaming service that connects fans directly with artists and exclusive new music. Audius is fully decentralized, owned and run by a vibrant, open-source community of artists, fans, and developers all around the world."
-  thumbnailUrl: temp.jpg
+  name: "George"
+  surname: "Beall"
+  company: "Commonwealth"
+  title: "Head of Business and Operations"
+  bio: "George Beall is the Head of Business and Operations for Commonwealth. Commonwealth is a leading DAO tooling company with 60K+ users and 700+ DAOs. Beall previously co-founded Everipedia."
+  thumbnailUrl: GeorgeBeall.jpg
   rockstar: false
 -
   id: 3
