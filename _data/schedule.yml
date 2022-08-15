@@ -5,25 +5,25 @@
     - {title: "Gather", color: "#AFDDED"}
   timeslots:
 
-    - {
+    -# {
     	 # startTime: "09:00",
     	  #endTime: "09:45",
     	 # sessionIds: [22]
-    }
+   # }
 
-    - {
+    #- {
     	  #startTime: "10:00",
     	  #endTime: "10:45",
     	  #sessionIds: [10]
-    }
+    #}
 
-    - {
+    #- {
     	  #startTime: "11:00",
     	  #endTime: "11:45",
     	  #sessionIds: [3]
-    }
+   # }
     
-    - {
+   # - {
     	  #startTime: "12:00",
     	  #endTime: "12:45",
     	  #sessionIds: [6]
