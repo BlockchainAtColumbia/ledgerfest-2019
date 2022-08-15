@@ -19,15 +19,15 @@
   description: "Co-Founder & Growth @ Sky Mavis (Axie Infinity)"
   speakers: [4]
  - 
-  id: 5
-  title: "Mirror.xyz's Graeme Boy"
-  description: "Graeme Boy, CTO of Mirror.xyz"
-  speakers: [5]
- - 
   id: 6
-  title: "UMA's Hart Lambur"
-  description: "Hart Lambur, Co-Founder/CEO of UMA"
-  speakers: [9]
+  title: "FlashBot's Robert Miller"
+  description: ""
+  speakers: [6]
+ - 
+  id: 5
+  title: "Delphi Digital's Jon Charbonneau"
+  description: ""
+  speakers: [5]
  - 
   id: 7
   title: "Optimism's Kevin Ho"
