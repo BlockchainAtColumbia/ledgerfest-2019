@@ -35,22 +35,23 @@
   thumbnailUrl: jiho-profile-pic-Albert-Takagi-e1654329484387-680x680.jpeg
   rockstar: false
 -
-  id: 5
-  name: "Graeme"
-  surname: "Boy"
-  company: "Mirror"
-  title: "CTO"
-  bio: "Graeme is the CTO of Mirror, a crypto-native creative suite, with crowdfunding & publishing tools for creators."
-  thumbnailUrl: temp.jpg
+  id: 6
+  name: "Jon"
+  surname: "Charbonneau"
+  company: "Delphi Digital"
+  title: "Research Associate"
+  bio: "Best selling author of the Ethereum & Rollup Manifestos -Ava Times"
+  thumbnailUrl: JonCharbonneau.jpeg
   rockstar: false
 -
-  id: 6
-  name: "Thomas"
-  surname: "Klocanas"
-  company: "White Star Capital"
+  id: 5
+  name: "Bert C."
+  surname: "Miller"
+  company: "FlashBots"
   title: "Principal"
-  bio: "Thomas is a Principal at Whitestar Capital, focusing on crypto, digital assets, fintech, and gaming."
-  thumbnailUrl: temp.jpg
+  bio: "Robert Miller ""Bert"" steward's products at Flashbots. Prior to Flashbots he built privacy preserving machine learning tools for healthcare at ConsenSys. He's also been a founder and CEO, as well as a quant at a hedge fund.
+"
+  thumbnailUrl: BertCMiller.jpeg
   rockstar: false
 -
   id: 7
