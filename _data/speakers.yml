@@ -1,11 +1,11 @@
 -
   id: 1
-  name: "Francesco"
-  surname: "Renzi"
-  company: "Superfluid"
-  title: "Co-Founder/CEO"
-  bio: "Francesco is Co-Founder and CEO of Superfluid, a decentralized finance protocol that is rebuilding money from the ground-up, enabling money with more native functionalities, like Money Streaming."
-  thumbnailUrl: temp.jpg
+  name: "Tim "
+  surname: "Roughgarden"
+  company: "Andreessen Horowitz/Columbia University"
+  title: "Head of Research/Professor of Computer Science"
+  bio: "For twenty years, as a researcher and computer science professor at Stanford and Columbia, Tim has led the development of Algorithmic Game Theory, a field that brings together ideas from Computer Science and Economics to solve real-world computing problems. He wrote the definitive textbooks and courses on the field. "
+  thumbnailUrl: TimRoughgarden.jpg
   rockstar: false
 -
   id: 2
