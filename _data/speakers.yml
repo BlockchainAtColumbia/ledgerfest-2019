@@ -52,6 +52,25 @@
   bio: "Robert Miller Bert steward's products at Flashbots. Prior to Flashbots he built privacy preserving machine learning tools for healthcare at ConsenSys. He's also been a founder and CEO, as well as a quant at a hedge fund."
   thumbnailUrl: BertCMiller.jpeg
   rockstar: false
+  -
+  id: 7
+  name: "Janine"
+  surname: "Yorio"
+  company: "Everyrealm"
+  title: "CEO"
+  bio: "Janine Yorio leads Everyrealm, a metaverse innovation and investment platform. Republic Realm is among the largest owners of digital real estate NFTs in several metaverses including Decentraland, The Sandbox and Axie Infinity, and among the most active developers of in-metaverse developments including the Metajuku shopping center and the Fantasy Islands ultra-luxury master-planned community NFT project. Janine was previously the CEO of Compound, a fintech app focused on real estate investing that was backed by leading VC firms NEA and Founders Fund, that was acquired by Republic in 2020. She also previously worked in private equity for Northstar Capital and in real estate and hotel development at The Standard Hotels. She is a graduate of Yale University."
+  thumbnailUrl: JanineYorio.jpg
+  rockstar: false
+  -
+  id: 8
+  name: "Sunny"
+  surname: "Aggarwal"
+  company: ""
+  title: "Principal"
+  bio: "Sunny Aggarwal is a Co-Founder of Osmosis Labs, a developer team building the Osmosis Zone AMM laboratory on the Cosmos SDK. Osmosis is an advanced Automated Market-Making (AMM) protocol focused on privacy, AMM design, and the rapidly expanding interchain. Privacy is a fundamental right, and to protect users from MEV (“Miner” Extractable Value), Osmosis is developing cutting-edge techniques to encrypt transactions in the mempool and assure fair execution without frontrunning. An OG of the industry, Sunny’s been developing blockchain technologies since he was an engineering student at UC Berkeley, where he co-founded the world-renowned Blockchain at Berkeley student org. In the summer of 2017, Sunny came across Cosmos and dropped out of college (after two years) to work on the BFT consensus engine Tendermint as a Research Scientist. He’s also a Co-Founder of Sikka, a validator company running one of the largest validators on the Cosmos Hub as well as a Co-Host of the Epicenter podcast, the best tech podcast in crypto since 2013."
+  thumbnailUrl: SunnyArggwal.jpg
+  rockstar: false
+  
   
 #   id: 1001
 #   name: "FULL SPEAKER LIST"
