@@ -2,9 +2,12 @@
 layout: default
 title: Organizing Team
 permalink: /organizingteam/
-image: venue_5.jpg
+modal: all
 ---
-
 {% include top-section.html %}
 
-{% include schedule.html %}
+{% if site.showSessions %}
+    {% include speakers-list.html %}
+{% else %}
+    {% include speakers-list-2.html %}
+{% endif %}
