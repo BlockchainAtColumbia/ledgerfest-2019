@@ -42,6 +42,8 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/faq/", text: "FAQ"}
+ - {permalink: "/organizingteam/", text: "Organizing Team"}
+
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com/e/blockchaincolumbia-ledgerfest-conference-tickets-184252673707", text: "Register"}
 rightNavigationButtons:
