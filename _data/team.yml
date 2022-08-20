@@ -92,7 +92,7 @@
   name: "Reece"
   surname: "Knupp"
   title: "Informal Advisor"
-  thumbnailUrl: reecepfp.jpeg
+  thumbnailUrl:  reecepfp.jpeg
   team: true
   ribbon: 
     - {abbr: "CS", title: "Information Science"}
