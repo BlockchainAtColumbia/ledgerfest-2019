@@ -26,7 +26,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://blockchainatcolumbia.org/"
 
 # Head
-metaKeywords: "blockchain, conference"
+metaKeywords: "blockchain, conference,LedgerFest,Web3,Crypto"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -117,6 +117,7 @@ socialLinks:
  - {link: "https://www.facebook.com/BlockchainatColumbia/?ref=bookmarks", icon: "facebook"}
  - {link: "https://www.eventbrite.com/e/blockchaincolumbia-ledgerfest-conference-tickets-184252673707", icon: "rss"}
  - {link: "https://blockchainatcolumbia.org/", icon: "site"}
+ - {link: "https://blockchainatcolumbia.org/", icon: "site"}
 footerBlocks:
  -
   title: "Links"
@@ -132,6 +133,9 @@ footerBlocks:
   title: "FAQ"
   links:
    - {permalink: "/faq/", text: "Frequently Asked Questions"}
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: "Welcome to Blockchain@Columbia, Columbia’s student-run Blockchain club. We are a registered non-profit and aim to facilitate an environment where students can engage with ideas in blockchain, developing into the leading minds of web3, and making some friends along the way. We are governed by Lion DAO, the first student DAO launched last summer."
 
 # Speakers List Block
 showSessions: true
