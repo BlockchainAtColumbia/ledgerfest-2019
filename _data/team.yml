@@ -57,8 +57,6 @@
   ribbon: 
     - {abbr: "CS", title: "Information Science"}
   social: 
-    - {name: "twitter", link: ""}
-    - {name: "telegram", link: ""}
 - 
   id: 105
   name: "Wendy"
@@ -69,8 +67,6 @@
   ribbon: 
     - {abbr: "CS", title: "Information Science"}
   social: 
-    - {name: "twitter", link: ""}
-    - {name: "telegram", link: ""}
 - 
   id: 106
   name: "Scott"
@@ -81,8 +77,6 @@
   ribbon: 
     - {abbr: "CS", title: "Information Science"}
   social: 
-    - {name: "twitter", link: ""}
-    - {name: "telegram", link: "https://t.me/ScottQu"}
 - 
   id: 107
   name: "Adrian"
@@ -93,5 +87,3 @@
   ribbon: 
     - {abbr: "CS", title: "Information Science"}
   social: 
-    - {name: "twitter", link: ""}
-    - {name: "telegram", link: "https://t.me/AdrianDole"}
