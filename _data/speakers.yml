@@ -77,7 +77,8 @@
   company: ""
   title: "Protocol Program Manager"
   bio: "Before joining Gauntlet, Paul was an investment banker at Goldman Sachs where he was responsible for covering clients in the financial services sector. Paul graduated from Harvard with a degree in Statistics."
-  thumbnailUrl: Drawing PFP.png
+  thumbnailUrl: Drawing PFP Small.jpeg
+
   rockstar: false
 -
   id: 10
@@ -87,6 +88,15 @@
   title: "founder and CEO"
   bio: "0xbrainjar is our founder and CEO and also the anchor that ties together the complex thinking, deep understanding and technical expertise demanded of our ambitious goal to make DeFi readily accessible to all innovations and truly arrive at interoperability."
   thumbnailUrl: 0xbrainjar.jpeg
+  rockstar: false
+-
+  id: 11
+  name: "Shumo"
+  surname: "Chu"
+  company: ""
+  title: "founder and CEO"
+  bio: "Shumo co-founded Manta Network with a goal of building the next generation of privacy preserving blockchain systems. Prior to Web3, Shumo graudated as a PhD from University of Washington Computer Science and Engineering, where he was advised by the great [Dan Suciu](https://homes.cs.washington.edu/~suciu/)."
+  thumbnailUrl: shumo-chu.jpeg
   rockstar: false
   
   
