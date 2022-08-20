@@ -12,7 +12,7 @@
     - {name: "telegram", link: "https://t.me/cryptolafayette"}
     - {name: "site", link: "https://nturl.github.io/noelturlington.xyz/"}
 - 
-  id: 1
+  id: 101
   name: "Quintus"
   surname: "Kilbourn"
   title: "Alumni Relations"
@@ -24,7 +24,7 @@
     - {name: "twitter", link: "https://twitter.com/0xQuintus"}
     - {name: "telegram", link: "https://t.me/quintuskilbourn"}
 - 
-  id: 2
+  id: 102
   name: "David"
   surname: "Carrera"
   title: "Developer Operations and Events"
@@ -36,7 +36,7 @@
     - {name: "twitter", link: "https://twitter.com/davidcarr3ra"}
     - {name: "telegram", link: "https://t.me/davidcarr3ra"}
 - 
-  id: 3
+  id: 103
   name: "Abraham 'Abe' "
   surname: "Litwin-Logan"
   title: "LionDAO and Events"
