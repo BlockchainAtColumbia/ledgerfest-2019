@@ -112,7 +112,7 @@
   surname: "Tromer"
   company: "Columbia University"
   title: "Research Scientist at Columbia University"
-  bio: "Eran Tromer is a research scientist at Columbia University's Computer Science Department, a founder of Sealance Corp. and previously a professor at Tel Aviv University's School of Computer Science. He focuses on information security, cryptography and algorithms and blockchain-based cryptographic protocols. Tromer was a founding scientis of the Zcash privacy-preserving cryptocurrency which implements our Zerocash protocol."
+  bio: "Eran Tromer is a research scientist at Columbia University's Computer Science Department, a founder of Sealance Corp. and previously a professor at Tel Aviv University's School of Computer Science. He focuses on information security, cryptography and algorithms and blockchain-based cryptographic protocols. Tromer was a founding scientist of the Zcash privacy-preserving cryptocurrency which implements the Zerocash protocol."
   thumbnailUrl: EranTromer.jpeg
   rockstar: false
   
