@@ -23,7 +23,6 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/0xQuintus"}
     - {name: "telegram", link: "https://t.me/quintuskilbourn"}
-    - {name: "site", link: ""}
 - 
   id: 2
   name: "David"
@@ -36,7 +35,6 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/davidcarr3ra"}
     - {name: "telegram", link: "https://t.me/davidcarr3ra"}
-    - {name: "site", link: ""}
 - 
   id: 3
   name: "Abraham 'Abe' "
@@ -49,4 +47,3 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/Abraham_L_L"}
     - {name: "telegram", link: "https://t.me/Abraham_L_L"}
-    - {name: "site", link: ""}
