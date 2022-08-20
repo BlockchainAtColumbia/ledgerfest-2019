@@ -61,10 +61,10 @@
     - {name: "telegram", link: ""}
 - 
   id: 105
-  name: "Caleb"
-  surname: "Kaupppinen"
-  title: "Head of Events and Compound Governance Lead"
-  thumbnailUrl: CalebKpfp.jpeg
+  name: "Wendy"
+  surname: "Du"
+  title: "Head of Venues and Communications"
+  thumbnailUrl: 1659109010967.jpeg
   team: true
   ribbon: 
     - {abbr: "CS", title: "Information Science"}
@@ -88,7 +88,7 @@
   name: "Adrian"
   surname: "Koegal"
   title: "Operations"
-  thumbnailUrl:
+  thumbnailUrl: AdrianKpfp.jpeg
   team: true
   ribbon: 
     - {abbr: "CS", title: "Information Science"}
