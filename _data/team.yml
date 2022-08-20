@@ -37,7 +37,7 @@
     - {name: "telegram", link: "https://t.me/davidcarr3ra"}
 - 
   id: 103
-  name: "Abraham 'Abe' "
+  name: "Abraham"
   surname: "Litwin-Logan"
   title: "LionDAO and Events"
   thumbnailUrl: Abrahampfp.jpeg
@@ -47,3 +47,51 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/Abraham_L_L"}
     - {name: "telegram", link: "https://t.me/Abraham_L_L"}
+- 
+  id: 104
+  name: "Caleb"
+  surname: "Kaupppinen"
+  title: "Head of Events and Compound Governance Lead"
+  thumbnailUrl: CalebKpfp.jpeg
+  team: true
+  ribbon: 
+    - {abbr: "CS", title: "Information Science"}
+  social: 
+    - {name: "twitter", link: ""}
+    - {name: "telegram", link: ""}
+- 
+  id: 105
+  name: "Caleb"
+  surname: "Kaupppinen"
+  title: "Head of Events and Compound Governance Lead"
+  thumbnailUrl: CalebKpfp.jpeg
+  team: true
+  ribbon: 
+    - {abbr: "CS", title: "Information Science"}
+  social: 
+    - {name: "twitter", link: ""}
+    - {name: "telegram", link: ""}
+- 
+  id: 106
+  name: "Scott"
+  surname: "Qu"
+  title: "Alumni Relations External Partners"
+  thumbnailUrl: ScottQupfp.jpeg
+  team: true
+  ribbon: 
+    - {abbr: "CS", title: "Information Science"}
+  social: 
+    - {name: "twitter", link: ""}
+    - {name: "telegram", link: "https://t.me/ScottQu"}
+- 
+  id: 107
+  name: "Adrian"
+  surname: "Koegal"
+  title: "Operations"
+  thumbnailUrl:
+  team: true
+  ribbon: 
+    - {abbr: "CS", title: "Information Science"}
+  social: 
+    - {name: "twitter", link: ""}
+    - {name: "telegram", link: "https://t.me/AdrianDole"}
