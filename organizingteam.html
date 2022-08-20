@@ -6,6 +6,7 @@ modal: all
 ---
 {% include top-section.html %}
 
-{% include organizingteam.html %}
+{% if site.showOrganizingteam %}
+    {% include Organizingteam-list.html %}
 
 
