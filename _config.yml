@@ -135,7 +135,7 @@ footerBlocks:
    - {permalink: "/faq/", text: "Frequently Asked Questions"}
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Welcome to Blockchain@Columbia, Columbia’s student-run Blockchain club. We are a registered non-profit and aim to facilitate an environment where students can engage with ideas in blockchain, developing into the leading minds of web3, and making some friends along the way. We are governed by Lion DAO, the first student DAO launched last summer."
+aboutUs: "Welcome to Blockchain At Columbia, Columbia’s student-run Blockchain club. We are a registered non-profit and aim to facilitate an environment where students can engage with ideas in blockchain, developing into the leading minds of web3, and making some friends along the way. We are governed by Lion DAO, the first student DAO launched last summer."
 
 # Speakers List Block
 showSessions: true
