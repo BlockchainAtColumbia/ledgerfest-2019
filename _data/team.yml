@@ -1,17 +1,16 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Noel"
+  surname: "Turlington"
+  title: "Club President"
+  thumbnailUrl: 1646197814496.jpeg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "CS", title: "Information Science"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "twitter", link: "https://twitter.com/CryptoLafayette"}
+    - {name: "telegram", link: "https://t.me/cryptolafayette"}
+    - {name: "site", link: "https://nturl.github.io/noelturlington.xyz/"}
 - 
   id: 1
   name: "Oleh"
