@@ -1,13 +1,15 @@
-# -
-#   group: "Event sponsor"
-#   elements:
-#     - {name: "IBM", description: "IBM", link: "https://www.ibm.com/blockchain/hyperledger", imageUrl: "ibm.png"}
-#     - {name: "Hyperledger", description: "Hyperledger", link: "https://www.ibm.com/blockchain/hyperledger", imageUrl: "hyperledger.png"}
-# -
-#   group: "General Sponsor"
-#   elements:
-#     - {name: "Hedera-Hashgraph", description: "Hedera-Hashgraph", link: "https://www.hedera.com/", imageUrl: "hedera.png"}
-# -
-#   group: "Media Sponsor"
-#   elements:
-#     - {name: "Global Coin Research", description: "Global Coin Research", link: "https://globalcoinresearch.com/", imageUrl: "GCR.png"}
+ -
+  group: "Bronze Sponsors"
+  elements:
+    - {name: "Algorand", description: "Algorand", link: "https://www.algorand.com/", imageUrl: "Algorand_logo.jpeg"}
+    - {name: "Eigenlayr", description: "Manta Network", link: "https://www.layrlabs.com/", imageUrl: "EigenLyayer_Logo.jpeg"}
+    - {name: "Commonwealth", description: "Commonwealth", link: "https://commonwealth.im/", imageUrl: "Commonwealth_Logo.jpeg"}
+    - {name: "Manta Network", description: "Manta Network", link: "https://www.manta.network/", imageUrl: "Manta_Logo.jpeg"}
+ -
+   group: "Silver Sponsors"
+   elements:
+     - {name: "Hedera-Hashgraph", description: "Hedera-Hashgraph", link: "https://www.hedera.com/", imageUrl: "hedera.png"}
+ -
+   group: "Gold Sponsors"
+   elements:
+     - {name: "Global Coin Research", description: "Global Coin Research", link: "https://globalcoinresearch.com/", imageUrl: "GCR.png"}
