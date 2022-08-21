@@ -113,7 +113,6 @@ partnersC4sponsorsButton: "Register"
 # Tickets Block
 ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, meals, snacks, and post conference party."
-ticketsOffers:
  -
   name: "Industry Ticket"
   price: "350"
@@ -124,14 +123,12 @@ ticketsOffers:
   name: "Columbia Alumi/Affilates"
   price: "100"
   priceCurrency: "USD"
-  ticketsNumber: ""
   buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
   buyButtonText: "Buy Now"
  -
   name: "Student Ticket<> Columbia and NYU"
   price: "20"
   priceCurrency: "USD"
-  ticketsNumber: ""
   buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
