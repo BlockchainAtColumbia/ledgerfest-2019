@@ -114,7 +114,7 @@ buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections,coffee brakes, meals, snacks, and post conference party."
+ticketsInfo: ""
 ticketsOffers:
 
  -
@@ -130,7 +130,7 @@ ticketsOffers:
   buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
   buyButtonText: "Buy Now"
  -
-  name: "Student Ticket<> Columbia and NYU"
+  name: "Refundable Student Ticket<> Columbia and NYU"
   price: "20"
   priceCurrency: "USD"
   buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
