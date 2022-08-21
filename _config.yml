@@ -92,13 +92,13 @@ mapCenterCoordinates: "40.809984, -73.961386"
 mapMobileCenterCoordinates: "40.809984, -73.961386"
 
 # Venue Block
-venueBlockTitle: "Venue "
-venueBigImage: "One-Liberty-Plaza-2nd-Floor-West-Hub.jpeg"
-venueSmallImage1: "One-Liberty-Plaza-2nd-Floor-North-Boardroom.jpeg"
-venueSmallImage2: "Convene-New-York-City-One-Liberty-Plaza-2nd-Floor-NorthGallery_web.jpeg"
-venueSmallImage3: "Convene-New-York-City-One-Liberty-Plaza-2nd-Floor-Forum__3_.jpeg"
-venueTitle: "Convene One Liberty Plaza "
-venueFeatures: ["All Rooms", "1 Liberty St, New York, NY 10006"]
+#venueBlockTitle: "Venue "
+#venueBigImage: "One-Liberty-Plaza-2nd-Floor-West-Hub.jpeg"
+#venueSmallImage1: "One-Liberty-Plaza-2nd-Floor-North-Boardroom.jpeg"
+#venueSmallImage2: "Convene-New-York-City-One-Liberty-Plaza-2nd-Floor-NorthGallery_web.jpeg"
+#venueSmallImage3: "Convene-New-York-City-One-Liberty-Plaza-2nd-Floor-Forum__3_.jpeg"
+#venueTitle: "Convene One Liberty Plaza "
+#venueFeatures: ["All Rooms", "1 Liberty St, New York, NY 10006"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
