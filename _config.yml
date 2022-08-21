@@ -118,6 +118,8 @@ ticketsOffers:
   name: "Institutional"
   price: "350"
   priceCurrency: "USD"
+  ticketsNumber: ""
+  ribbon: "-5%"
   buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -127,6 +129,8 @@ ticketsOffers:
   name: "Columbia Alumi/Affilates"
   price: "100"
   priceCurrency: "USD"
+  ticketsNumber: ""
+  ribbon: "-20%"
   featured: true
   buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
   buyButtonText: "Buy Now"
@@ -138,6 +142,7 @@ ticketsOffers:
   name: "Student Ticket<> Columbia and NYU"
   price: "20"
   priceCurrency: "USD"
+  ticketsNumber: ""
   buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
