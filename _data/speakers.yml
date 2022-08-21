@@ -6,7 +6,7 @@
   title: "Head of Research/Professor of Computer Science"
   bio: "For twenty years, as a researcher and computer science professor at Stanford and Columbia, Tim has led the development of Algorithmic Game Theory, a field that brings together ideas from Computer Science and Economics to solve real-world computing problems. He wrote the definitive textbooks and courses on the field. "
   thumbnailUrl: TimRoughgarden.jpg
-  rockstar: false
+  rockstar: true
 -
   id: 2
   name: "George"
@@ -33,7 +33,7 @@
   title: "Co-Founder and Growth Lead"
   bio: "Jeff AKA “Jihoz”, is a co-founder of Sky Mavis, the creators of Axie Infinity. Axie is the #1 NFT game by DAU, marketplace volume, and cultural impact. As Growth Lead, his mission is to growth the size and strength of both the community and economy. Jeff grew up playing video games and catching insects. His academic interests include military history and monetary policy."
   thumbnailUrl: jiho-profile-pic-Albert-Takagi-e1654329484387-680x680.jpeg
-  rockstar: false
+  rockstar: true
 -
   id: 5
   name: "Jon"
@@ -69,7 +69,7 @@
   title: "Co-Founder"
   bio: "Sunny Aggarwal is a Co-Founder of Osmosis Labs, a developer team building the Osmosis Zone AMM laboratory on the Cosmos SDK. Osmosis is an advanced Automated Market-Making (AMM) protocol focused on privacy, AMM design, and the rapidly expanding interchain. Privacy is a fundamental right, and to protect users from MEV (“Miner” Extractable Value), Osmosis is developing cutting-edge techniques to encrypt transactions in the mempool and assure fair execution without frontrunning. An OG of the industry, Sunny’s been developing blockchain technologies since he was an engineering student at UC Berkeley, where he co-founded the world-renowned Blockchain at Berkeley student org."
   thumbnailUrl: SunnyArggwal.jpg 
-  rockstar: false
+  rockstar: true
 -
   id: 9
   name: "Paul"
