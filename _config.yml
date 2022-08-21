@@ -115,13 +115,11 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, meals, snacks, and post conference party."
 ticketsOffers:
  -
-  name: "Institutional"
+  name: "Industry Ticket"
   price: "350"
   priceCurrency: "USD"
   buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
   buyButtonText: "Buy Now"
-  validFrom: "2022-08-20T10:00"
-  validThrough: "2022-09-23T12:00"
  -
   name: "Columbia Alumi/Affilates"
   price: "100"
