@@ -34,7 +34,7 @@ socialImageSrcTelegram: "/img/seo/sharing-telegram.png"
 
 # Documents
 c4pUrl: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
-c4sponsorsUrl: ""
+c4sponsorsUrl: "https://docsend.com/view/jh5z7dyc9h9c4ngr"
 
 
 # Navigation
@@ -110,32 +110,32 @@ twitterHashTag: "ledgerfest22"
 organizersTitle: "Organizers" 
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Register"
+buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
 
 # Tickets Block
-#ticketsTitle: "Pricetable"
-#ticketsInfo: >
-#  "Tickets grant access to all conference sections,coffee brakes, meals, snacks, and post conference party."
-#ticketsOffers:
+ticketsTitle: "Pricetable"
+ticketsInfo: "Tickets grant access to all conference sections,coffee brakes, meals, snacks, and post conference party."
+ticketsOffers:
 
-# -
-#  name: "Industry Ticket"
-#  price: "350"
-#  priceCurrency: "USD"
-#  buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
-# buyButtonText: "Buy Now"
-# -
-#  name: "Columbia Alumi/Affilates"
-#  price: "100"
-#  priceCurrency: "USD"
-#  buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
-#  buyButtonText: "Buy Now"
-# -
-#  name: "Student Ticket<> Columbia and NYU"
-#  price: "20"
-#  priceCurrency: "USD"
-#  buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
-#  buyButtonText: "Buy Now"
-#  additionalInfo: "Requires a valid student ID at the conference check in. Without a student ID, ticket will be cancelled without refund"
+ -
+  name: "Industry Ticket"
+  price: "350"
+  priceCurrency: "USD"
+  buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
+  buyButtonText: "Buy Now"
+ -
+  name: "Columbia Alumi/Affilates"
+  price: "100"
+  priceCurrency: "USD"
+  buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
+  buyButtonText: "Buy Now"
+ -
+  name: "Student Ticket<> Columbia and NYU"
+  price: "20"
+  priceCurrency: "USD"
+  buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without a student ID, ticket will be cancelled without refund"
 
 # Footer
 socialLinks:
