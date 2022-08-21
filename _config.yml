@@ -92,7 +92,7 @@ mapCenterCoordinates: "40.809984, -73.961386"
 mapMobileCenterCoordinates: "40.809984, -73.961386"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Venue "
 venueBigImage: "One-Liberty-Plaza-2nd-Floor-West-Hub.jpeg"
 venueSmallImage1: "One-Liberty-Plaza-2nd-Floor-North-Boardroom.jpeg"
 venueSmallImage2: "Convene-New-York-City-One-Liberty-Plaza-2nd-Floor-NorthGallery_web.jpeg"
