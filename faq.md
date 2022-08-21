@@ -21,7 +21,7 @@ LedgerFest will be held in person at [Convene](https://convene.com/locations/new
 Anyone is welcome to attend! The event is open to students, alumni, and the broader Web-3 community.  
 #### What is the cost to attend?
 
-LedgerFest prices will vary depending on affiliation. More information can be found [Here.]() 
+LedgerFest prices will vary depending on affiliation. More information can be found [Here.](https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537) 
 All LedgerFest funds go towards Blockchain At Columbia's registered non-profit which allows us to continue offering premier events and eductional content.
 
 #### Do I need to attend the entire day?
