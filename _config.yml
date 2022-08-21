@@ -33,7 +33,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcTelegram: "/img/seo/sharing-telegram.png"
 
 # Documents
-c4pUrl: "https://www.eventbrite.com/e/blockchaincolumbia-ledgerfest-conference-tickets-184252673707"
+c4pUrl: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
 c4sponsorsUrl: ""
 
 
@@ -45,9 +45,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Organizing Team"}
 
 bottomNavigationLinks:
- - {link: "https://www.eventbrite.com/e/blockchaincolumbia-ledgerfest-conference-tickets-184252673707", text: "Register"}
+ - {link: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537", text: "Register"}
 rightNavigationButtons:
- - {link: "https://www.eventbrite.com/e/blockchaincolumbia-ledgerfest-conference-tickets-184252673707", text: "Register"}
+ - {link: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537", text: "Register"}
 
 # Hero Block
 heroImage: "cuview.jpg"
@@ -56,7 +56,7 @@ eventDate: "September 23rd, 2022"
 typeoutTextValues: '"", "2022"'
 typeoutFallback: "2022"
 heroButtons:
- - {link: "https://www.eventbrite.com/e/blockchaincolumbia-ledgerfest-conference-tickets-184252673707", text: "Register"}
+ - {link: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537", text: "Register"}
 # About Block
 aboutTitle: "About LedgerFest"
 aboutBlock:
@@ -110,12 +110,49 @@ organizersTitle: "Organizers"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Register"
 
+# Tickets Block
+ticketsTitle: "Pricetable"
+ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, meals, snacks, and post conference party."
+ticketsOffers:
+ -
+  name: "Institutional"
+  price: "350"
+  priceCurrency: "USD"
+  buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2022-08-20T10:00"
+  validThrough: "2022-09-23T12:00"
+ -
+  name: "Columbia Alumi/Affilates"
+  price: "100"
+  priceCurrency: "USD"
+  featured: true
+  buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2022-08-20T10:00"
+  validThrough: "2022-09-23T12:00"
+  disabled: true
+ -
+  name: "Student Ticket<> Columbia and NYU"
+  price: "20"
+  priceCurrency: "USD"
+  buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2022-08-20T10:00"
+  validThrough: "2022-09-23T12:00"
+  soldOut: true
+  soldOutText: "Sold Out"
+
 # Footer
 socialLinks:
  - {link: "https://www.instagram.com/blockchaincolumbia/", icon: "linkedin"}
  - {link: "https://twitter.com/blockchainatcu?lang=en", icon: "twitter"}
  - {link: "https://www.facebook.com/BlockchainatColumbia/?ref=bookmarks", icon: "facebook"}
- - {link: "https://www.eventbrite.com/e/blockchaincolumbia-ledgerfest-conference-tickets-184252673707", icon: "rss"}
+ - {link: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537", icon: "rss"}
  - {link: "https://blockchainatcolumbia.org/", icon: "site"}
  - {link: "https://blockchainatcolumbia.org/", icon: "site"}
 footerBlocks:
