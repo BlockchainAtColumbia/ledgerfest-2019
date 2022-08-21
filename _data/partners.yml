@@ -8,9 +8,9 @@
     - {name: "Manta Network", description: "Manta Network", link: "https://www.manta.network/", imageUrl: "Manta_Logo.jpeg"}
  -
    group: "Silver Sponsors"
-   elements:
-     - {name: "Hedera-Hashgraph", description: "Hedera-Hashgraph", link: "https://www.hedera.com/", imageUrl: "hedera.png"}
+#   elements:
+#     - {name: "Hedera-Hashgraph", description: "Hedera-Hashgraph", link: "https://www.hedera.com/", imageUrl: "hedera.png"}
  -
    group: "Gold Sponsors"
-   elements:
-     - {name: "Global Coin Research", description: "Global Coin Research", link: "https://globalcoinresearch.com/", imageUrl: "GCR.png"}
+#   elements:
+#     - {name: "Global Coin Research", description: "Global Coin Research", link: "https://globalcoinresearch.com/", imageUrl: "GCR.png"}
