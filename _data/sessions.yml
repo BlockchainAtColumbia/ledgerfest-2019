@@ -58,9 +58,19 @@
   title: "Algorand's Tal Rabin"
   description: ""
   speakers: [12]
+#- 
+#  id: 13
+#  title: "Z-cash's Eran Tromer"
+#  description: ""
+#  speakers: [13]
  - 
   id: 13
-  title: "Z-cash's Eran Tromer"
+  title: "EigenLayer's Sreeram Kannna"
   description: ""
   speakers: [13]
+ - 
+  id: 14
+  title: "Aztec's"
+  description: "Jon Wu"
+  speakers: [14]
   
