@@ -8,7 +8,7 @@
  -
    group: "Silver Sponsors"
    elements:
-     - {name: "", description: "", link: "", imageUrl: ""}
+     - {name: "Lido", description: "Lido", link: "https://lido.fi/", imageUrl: "Lido.jpeg"}
  -
    group: "Gold Sponsors"
    elements:
