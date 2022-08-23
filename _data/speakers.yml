@@ -103,18 +103,9 @@
   surname: "Rabin"
   company: "Algorand Centre for Excellence"
   title: "Head of Research"
-  bio: "."
+  bio: "Tal Rabin is the Head of Research at Algorand Foundation. Prior to joining the foundation Tal was a Distinguished Research Staff Member and the Manager of the Cryptographic Research Group at IBM’s T.J. Watson Research Center. Her research focuses on the general area of cryptography and more specifically on secure multiparty computation and privacy preserving computations. She has a Ph.D. from the Hebrew University. Rabin is an ACM Fellow, an IACR (International Association of Cryptologic Research) Fellow and member of the American Academy of Arts and Sciences. She was named by Forbes as one of the Top 50 Women in Tech, 2018. She has served as the Program and General Chair of leading cryptography conferences and is an Editor of the Journal of Cryptology. At RSA Conference 2019, Tal was the recipient of the RSAC Award for Excellence in Mathematics."
   thumbnailUrl: trabin.jpeg
   rockstar: true
-#
-#  id: 13
-#  name: "Eran"
-#  surname: "Tromer"
-#  company: "Columbia University"
-#  title: "Research Scientist at Columbia University"
-#  bio: "Eran Tromer is a research scientist at Columbia University's Computer Science Department, a founder of Sealance Corp. and previously a professor at Tel Aviv University's School of Computer Science. He focuses on information security, cryptography and algorithms and blockchain-based cryptographic protocols. Tromer was a founding scientist of the Zcash privacy-preserving cryptocurrency which implements the Zerocash protocol."
-#  thumbnailUrl: EranTromer.jpeg
-#  rockstar: false
 -
   id: 13
   name: "Sreeram"
@@ -135,6 +126,16 @@
   rockstar: false
   
   
+#
+#  id: 13
+#  name: "Eran"
+#  surname: "Tromer"
+#  company: "Columbia University"
+#  title: "Research Scientist at Columbia University"
+#  bio: "Eran Tromer is a research scientist at Columbia University's Computer Science Department, a founder of Sealance Corp. and previously a professor at Tel Aviv University's School of Computer Science. He focuses on information security, cryptography and algorithms and blockchain-based cryptographic protocols. Tromer was a founding scientist of the Zcash privacy-preserving cryptocurrency which implements the Zerocash protocol."
+#  thumbnailUrl: EranTromer.jpeg
+#  rockstar: false
+
 #   id: 1001
 #   name: "FULL SPEAKER LIST"
 #   surname: "COMING SOON"
