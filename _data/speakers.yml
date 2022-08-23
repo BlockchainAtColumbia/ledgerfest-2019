@@ -103,7 +103,7 @@
   surname: "Rabin"
   company: "Algorand Centre for Excellence"
   title: "Head of Research"
-  bio: "Tal Rabin is the Head of Research at Algorand Foundation. Prior to joining the foundation Tal was a Distinguished Research Staff Member and the Manager of the Cryptographic Research Group at IBM’s T.J. Watson Research Center. Her research focuses on the general area of cryptography and more specifically on secure multiparty computation and privacy preserving computations. She has a Ph.D. from the Hebrew University. Rabin is an ACM Fellow, an IACR (International Association of Cryptologic Research) Fellow and member of the American Academy of Arts and Sciences. She was named by Forbes as one of the Top 50 Women in Tech, 2018. She has served as the Program and General Chair of leading cryptography conferences and is an Editor of the Journal of Cryptology. At RSA Conference 2019, Tal was the recipient of the RSAC Award for Excellence in Mathematics."
+  bio: "."
   thumbnailUrl: trabin.jpeg
   rockstar: true
 #
@@ -115,7 +115,24 @@
 #  bio: "Eran Tromer is a research scientist at Columbia University's Computer Science Department, a founder of Sealance Corp. and previously a professor at Tel Aviv University's School of Computer Science. He focuses on information security, cryptography and algorithms and blockchain-based cryptographic protocols. Tromer was a founding scientist of the Zcash privacy-preserving cryptocurrency which implements the Zerocash protocol."
 #  thumbnailUrl: EranTromer.jpeg
 #  rockstar: false
-  
+-
+  id: 13
+  name: "Sreeram"
+  surname: "Kannan"
+  company: "EigenLayer"
+  title: "Founder"
+  bio: "Sreeram Kannan is an assistant professor at UW and has made numerous contributions to the academic literature studying and informing blockchain applications. Currently, he is most active as the founder of Eigenlayr, a company bringing the novel practice of 'restaking' to life in the Ethereum ecosystem. Prof. Kannan is also well known for some banging Twitter threads."
+  thumbnailUrl: SreeramKannan.jpeg
+  rockstar: false
+-
+  id: 14
+  name: "Jon"
+  surname: "Wu"
+  company: "Aztec Network"
+  title: "Head of Growth"
+  bio: "Jonathan Wu runs growth at Aztec Network, a network building scalable privacy on Ethereum that recently raised $17 million dollars from Paradigm. Before crypto, Jon Wu held positions at Google and Bain Capital and earned his MBA from Harvard Business School."
+  thumbnailUrl: JonWu.jpeg
+  rockstar: false
   
   
 #   id: 1001
