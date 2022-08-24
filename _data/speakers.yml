@@ -132,7 +132,25 @@
   title: "Smart Contract Engineer"
   bio: "Yorke is a Smart Contract Enginner focused on distributed systems, cryptography, and economics to build a trustless future. Before Abacus, Yorke held positions at Gauntlet, Celo, and Consensys. He graduated from Rice University with a BSE in Computer Science."
   thumbnailUrl: YorkeRhodes.jpeg
-  rockstar: false 
+  rockstar: false
+-
+  id: 16
+  name: "Stuart D."
+  surname: "Levi"
+  company: "Skadden"
+  title: "Partner, Web3 and Digital Assets"
+  bio: "Stuart D. Levi is co-head of Skadden’s Intellectual Property and Technology Group, and he coordinates the firm’s blockchain, outsourcing and privacy practices. Mr. Levi has been a recognized leader in the technology transaction field for over 30 years and has been named a National Law Journal Trailblazer in cryptocurrency, blockchain and fintech, as well as a Thought Leader by Who’s Who Legal: Fintech & Blockchain 2021. He has a broad and diverse practice that includes advising on blockchain and digital asset matters (including NFTs), as well as on outsourcing transactions, technology and intellectual property licensing, fintech representations, privacy and cybersecurity, branding and distribution agreements, technology transfers, strategic alliances and joint ventures. His background in computer science and the information technology industry allows Mr. Levi to understand the technology and business drivers underlying transactions and agreements in these areas."
+  thumbnailUrl: Levi-Stuart.jpeg
+  rockstar: false
+-
+  id: 17
+  name: "Alexander C."
+  surname: "Drylewski"
+  company: "Skadden"
+  title: "Partner, Complex Litigiation and Trials"
+  bio: "Alex Drylewski is co-chair of Skadden’s Web3 and Digital Assets Group. His practice focuses on high-stakes complex commercial litigation around the world, and he has represented companies and individuals across nearly every type of industry and dispute, including high-profile commercial litigation involving emerging technologies, government investigations, securities class actions, trials and appeals."
+  thumbnailUrl: drylewski_alex.jpeg
+  rockstar: false
   
   
 #
