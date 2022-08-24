@@ -124,6 +124,15 @@
   bio: "Jonathan Wu runs growth at Aztec Network, a network building scalable privacy on Ethereum that recently raised $17 million dollars from Paradigm. Before crypto, Jon Wu held positions at Google and Bain Capital and earned his MBA from Harvard Business School."
   thumbnailUrl: JonWu.jpeg
   rockstar: false
+-
+  id: 15
+  name: "Yorke"
+  surname: "Rhodes"
+  company: "Abacus Network"
+  title: "Smart Contract Engineer"
+  bio: "Yorke is a Smart Contract Enginner focused on distributed systems, cryptography, and economics to build a trustless future. Before Abacus, Yorke held positions at Gauntlet, Celo, and Consensys. He graduated from Rice University with a BSE in Computer Science."
+  thumbnailUrl: YorkeRhodes.jpeg
+  rockstar: false
   
   
 #
