@@ -18,13 +18,13 @@
   rockstar: false
 -
   id: 3
-  name: "Willam"
-  surname: "Duplessie"
-  company: "Pangea"
-  title: "Co-Founder/CEO"
-  bio: "Pangea Blockchain Fund (“Pangea”) is focused on commercial and industrial applications for underlying blockchain technology. The team includes thought leaders in blockchain tech, mentors with deep market and technical expertise, and world renowned strategic partners. Pangea intends to offer founders the intellectual and physical capital they need to build today’s market defining technology companies."
-  thumbnailUrl: WilliamDuplessie.jpeg
-  rockstar: false
+  name: "Sunny"
+  surname: "Aggarwal"
+  company: "Osmosis, Epicenter"
+  title: "Co-Founder"
+  bio: "Sunny Aggarwal is a Co-Founder of Osmosis Labs, a developer team building the Osmosis Zone AMM laboratory on the Cosmos SDK. Osmosis is an advanced Automated Market-Making (AMM) protocol focused on privacy, AMM design, and the rapidly expanding interchain. Privacy is a fundamental right, and to protect users from MEV (“Miner” Extractable Value), Osmosis is developing cutting-edge techniques to encrypt transactions in the mempool and assure fair execution without frontrunning. An OG of the industry, Sunny’s been developing blockchain technologies since he was an engineering student at UC Berkeley, where he co-founded the world-renowned Blockchain at Berkeley student org."
+  thumbnailUrl: SunnyArggwal.jpg 
+  rockstar: true
 -
   id: 4
   name: "Jeff"
@@ -63,13 +63,13 @@
   rockstar: false
 -
   id: 8
-  name: "Sunny"
-  surname: "Aggarwal"
-  company: "Osmosis, Epicenter"
-  title: "Co-Founder"
-  bio: "Sunny Aggarwal is a Co-Founder of Osmosis Labs, a developer team building the Osmosis Zone AMM laboratory on the Cosmos SDK. Osmosis is an advanced Automated Market-Making (AMM) protocol focused on privacy, AMM design, and the rapidly expanding interchain. Privacy is a fundamental right, and to protect users from MEV (“Miner” Extractable Value), Osmosis is developing cutting-edge techniques to encrypt transactions in the mempool and assure fair execution without frontrunning. An OG of the industry, Sunny’s been developing blockchain technologies since he was an engineering student at UC Berkeley, where he co-founded the world-renowned Blockchain at Berkeley student org."
-  thumbnailUrl: SunnyArggwal.jpg 
-  rockstar: true
+  name: "Willam"
+  surname: "Duplessie"
+  company: "Pangea"
+  title: "Co-Founder/CEO"
+  bio: "Pangea Blockchain Fund (“Pangea”) is focused on commercial and industrial applications for underlying blockchain technology. The team includes thought leaders in blockchain tech, mentors with deep market and technical expertise, and world renowned strategic partners. Pangea intends to offer founders the intellectual and physical capital they need to build today’s market defining technology companies."
+  thumbnailUrl: WilliamDuplessie.jpeg
+  rockstar: false
 -
   id: 9
   name: "Paul"
@@ -112,7 +112,7 @@
   surname: "Kannan"
   company: "EigenLayer"
   title: "Founder"
-  bio: "Sreeram Kannan is an assistant professor at UW and has made numerous contributions to the academic literature studying and informing blockchain applications. Currently, he is most active as the founder of Eigenlayr, a company bringing the novel practice of 'restaking' to life in the Ethereum ecosystem. Prof. Kannan is also well known for some banging Twitter threads."
+  bio: "Sreeram Kannan is director of UW blockchain lab and has made numerous contributions to the academic literature studying and informing blockchain applications. Currently, he is most active as the founder of Eigenlayr, a company bringing the novel practice of 'restaking' to life in the Ethereum ecosystem. Prof. Kannan is also well known for some banging Twitter threads."
   thumbnailUrl: SreeramKannan.jpeg
   rockstar: false
 -
