@@ -57,7 +57,7 @@
   ribbon: 
     - {abbr: "CS", title: "Information Science"}
   social: 
-      - {name: "twitter", link: "https://twitter.com/remusofmars"}
+      - {name: "twitter", link: "https://twitter.com/remusofmars"} 
 - 
   id: 105
   name: "Wendy"
