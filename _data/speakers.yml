@@ -31,18 +31,18 @@
   surname: "Zirlin"
   company: "Axie Infinity"
   title: "Co-Founder and Growth Lead"
-  bio: "Jeff AKA “Jihoz”, is a co-founder of Sky Mavis, the creators of Axie Infinity. Axie is the #1 NFT game by DAU, marketplace volume, and cultural impact. As Growth Lead, his mission is to growth the size and strength of both the community and economy. Jeff grew up playing video games and catching insects. His academic interests include military history and monetary policy."
+  bio: ""
   thumbnailUrl: jiho-profile-pic-Albert-Takagi-e1654329484387-680x680.jpeg
   rockstar: true
 -
   id: 5
-  name: "Jon"
-  surname: "Charbonneau"
-  company: "Delphi Digital"
-  title: "Research Associate"
-  bio: "Best selling author of the Ethereum & Rollup Manifestos -Ava Times"
-  thumbnailUrl: JonCharbonneau.jpeg
-  rockstar: false
+  name: "Marieke"
+  surname: "Flament"
+  company: "Near Foundation"
+  title: "CEO"
+  bio: "Marieke is a French-born computer engineer who has worked across the globe in a diverse range of companies from the luxury giant LVMH of Louis Vuitton fame to Boston Consulting Group and Expedia’s Hotels.com and crypto giant Circle. At Hotels.com she was in charge of Europe, Middle East and Africa Region, a $2bn P&L. In her last role she was Managing Director of Europe and Global CMO for Circle, one of the largest crypto company. At Circle she pioneered the consumer application of blockchain taking to market several products, building from scratch a user base of over 2M users in less than 2 years. She also helped move the blockchain agenda forward working with key decision makers, including governments and financial policy makers across Europe."
+  thumbnailUrl: marieke-flament.jpeg
+  rockstar: true
 -
   id: 6
   name: "Bert C."
@@ -159,6 +159,15 @@
   title: "General Partner"
   bio: "Jenny Fielding is a pre-seed investor and startup coach to hundreds of founders around the world. She's a 2x entrepreneur and knows the challenges it takes to build a great company. Some of her portofolio companies include:Latch (LTCH), Chainalysis, Tempo Automation, Alloy, Headway, Supergreat, Contra, Particle Health, Bloomscape, Simple Health, Pair Eyewear, Solo Funds, Halp, Minded, Talent Hack, Rupa Health, Morty, Wagmo, Smarthop, Solid, Remesh, Cube, Dash, OnePipe, Union Crate, Parsley and many more! Fielding is currently an Adjunct Professor at Columbia University, where she also studied."
   thumbnailUrl: JennyFielding.jpeg
+  rockstar: false
+-
+  id: 19
+  name: "Jon"
+  surname: "Charbonneau"
+  company: "Delphi Digital"
+  title: "Research Associate"
+  bio: "Best selling author of the Ethereum & Rollup Manifestos -Ava Times"
+  thumbnailUrl: JonCharbonneau.jpeg
   rockstar: false
 
   
