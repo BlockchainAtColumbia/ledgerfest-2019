@@ -49,14 +49,15 @@
     - {name: "telegram", link: "https://t.me/Abraham_L_L"}
 - 
   id: 104
-  name: "Caleb"
-  surname: "Kaupppinen"
+  name: "Remus"
+  surname: "of Mars"
   title: "Head of Events and Compound Governance Lead"
-  thumbnailUrl: CalebKpfp.jpeg
+  thumbnailUrl: Remuspfp.jpeg
   team: true
   ribbon: 
     - {abbr: "CS", title: "Information Science"}
   social: 
+      - {name: "twitter", link: "https://twitter.com/remusofmars"}
 - 
   id: 105
   name: "Wendy"
