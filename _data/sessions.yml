@@ -20,7 +20,7 @@
   speakers: [4]
  - 
   id: 5
-  title: "Delphi Digital's Jon Charbonneau"
+  title: "Head of Near Foundation"
   description: ""
   speakers: [5]
  - 
@@ -93,6 +93,12 @@
   title: "The Fund's Jenny Fielding"
   description: ""
   speakers: [18]
+  - 
+  id: 19
+  title: "Delphi Digital's Jon Charbonneau"
+  description: ""
+  speakers: [5]
+
    
   
   
