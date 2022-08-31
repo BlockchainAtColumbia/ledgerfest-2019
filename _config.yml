@@ -104,7 +104,7 @@ venueFeatures: ["All Rooms", "1 Liberty St, New York, NY 10006"]
 # Tweets Feed Block
 tweetsFeedImage: "EmpireSkyline.jpeg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "ledgerfest22" 
+twitterHashTag: "ledgerfest22"  
 
 # Partners Block
 organizersTitle: "Organizers" 
