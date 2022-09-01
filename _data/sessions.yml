@@ -45,7 +45,7 @@
   speakers: [9]
  - 
   id: 10
-  title: "Composable's founder 0xbrainjar"
+  title: "Ledger Prime Portfolio Manager"
   description: ""
   speakers: [10]
  - 
@@ -103,5 +103,10 @@
   title: "Klima DAO's Marcus Aurelius"
   description: ""
   speakers: [20] 
+ -
+  id: 21
+  title: "Composable's founder 0xbrainjar"
+  description: ""
+  speakers: [21]
   
   
