@@ -8,10 +8,10 @@ modal: all
 {% include top-section.html %}
 
 {% if site.showSessions %}
+    {% include randomize.html %}
     {% include speakers-list.html %}
-    {% include randomize.html %}
 {% else %}
-    {% include speakers-list-2.html %}
     {% include randomize.html %}
+    {% include speakers-list-2.html %}
 {% endif %}
 
