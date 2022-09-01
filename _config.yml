@@ -40,6 +40,7 @@ c4sponsorsUrl: "https://docsend.com/view/jh5z7dyc9h9c4ngr"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/faq/", text: "FAQ"}
  - {permalink: "/team/", text: "Organizing Team"}
