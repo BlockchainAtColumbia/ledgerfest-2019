@@ -81,12 +81,12 @@
   rockstar: false
 -
   id: 10
-  name: "0xbrainjar"
-  surname: ""
-  company: ""
-  title: "founder and CEO"
-  bio: "0xbrainjar is Composable finance's founder and CEO. He's the anchor that ties together the complex thinking, deep understanding and technical expertise demanded of our ambitious goal to make DeFi readily accessible to all innovations and truly arrive at interoperability."
-  thumbnailUrl: 0xbrainjar.jpeg
+  name: "Zaheer"
+  surname: "Ebtikar"
+  company: "LedgerPrime"
+  title: "Portfolio Manager"
+  bio: "Zaheer Ebtikar is a Portfolio Manager at LedgerPrime, leading the firm's directional crypto trading and investing as well as helping the firm's venture capital focus. Previously, Zaheer was a Partner at Immutable Capital focusing on early-stage DeFi protocols and the trading business. Zaheer has been in the crypto space for more than 5 years now and has published research articles under Deribit Insights, been on numerous podcasts, and has been an early investor in a multitude of projects within the ecosystem."
+  thumbnailUrl: Zaheer.jpeg
   rockstar: false
 -
   id: 11
@@ -177,6 +177,15 @@
   title: "Core Team"
   bio: "Marcus Aurelius has been in the Web2 data world for almost a decade, but became fascinated by the opportunity to use smart contracts to revolutionize entire segments of the economy via novel coordination mechanisms. He's excited to leverage his skillsets to create an on-chain carbon credits market at KlimaDAO, fighting climate change with incentivized cooperation. His favorite part about working for a DAO is using his philosophical training to manage the treasury on the Policy Team, as well as formulate the strategic vision of KlimaDAO as a member of the Core Team."
   thumbnailUrl: MarcusAur.jpeg
+  rockstar: false
+-
+  id: 21
+  name: "0xbrainjar"
+  surname: ""
+  company: ""
+  title: "founder and CEO"
+  bio: "0xbrainjar is Composable finance's founder and CEO. He's the anchor that ties together the complex thinking, deep understanding and technical expertise demanded of our ambitious goal to make DeFi readily accessible to all innovations and truly arrive at interoperability."
+  thumbnailUrl: 0xbrainjar.jpeg
   rockstar: false
     
    
