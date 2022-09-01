@@ -9,12 +9,12 @@
   rockstar: true
 -
   id: 2
-  name: "George"
-  surname: "Beall"
-  company: "Commonwealth"
-  title: "Head of Business and Operations"
-  bio: "George Beall is the Head of Business and Operations for Commonwealth. Commonwealth is a leading DAO tooling company with 60K+ users and 700+ DAOs. Beall previously co-founded Everipedia."
-  thumbnailUrl: GeorgeBeall.jpg
+  name: "Stuart D."
+  surname: "Levi"
+  company: "Skadden"
+  title: "Partner, Web3 and Digital Assets"
+  bio: "Stuart D. Levi is co-head of Skadden’s Intellectual Property and Technology Group, and he coordinates the firm’s blockchain, outsourcing and privacy practices. Mr. Levi has been a recognized leader in the technology transaction field for over 30 years and has been named a National Law Journal Trailblazer in cryptocurrency, blockchain and fintech, as well as a Thought Leader by Who’s Who Legal: Fintech & Blockchain 2021. He has a broad and diverse practice that includes advising on blockchain and digital asset matters (including NFTs), as well as on outsourcing transactions, technology and intellectual property licensing, fintech representations, privacy and cybersecurity, branding and distribution agreements, technology transfers, strategic alliances and joint ventures. His background in computer science and the information technology industry allows Mr. Levi to understand the technology and business drivers underlying transactions and agreements in these areas."
+  thumbnailUrl: Levi-Stuart.jpeg
   rockstar: false
 -
   id: 3
@@ -135,12 +135,12 @@
   rockstar: false
 -
   id: 16
-  name: "Stuart D."
-  surname: "Levi"
-  company: "Skadden"
-  title: "Partner, Web3 and Digital Assets"
-  bio: "Stuart D. Levi is co-head of Skadden’s Intellectual Property and Technology Group, and he coordinates the firm’s blockchain, outsourcing and privacy practices. Mr. Levi has been a recognized leader in the technology transaction field for over 30 years and has been named a National Law Journal Trailblazer in cryptocurrency, blockchain and fintech, as well as a Thought Leader by Who’s Who Legal: Fintech & Blockchain 2021. He has a broad and diverse practice that includes advising on blockchain and digital asset matters (including NFTs), as well as on outsourcing transactions, technology and intellectual property licensing, fintech representations, privacy and cybersecurity, branding and distribution agreements, technology transfers, strategic alliances and joint ventures. His background in computer science and the information technology industry allows Mr. Levi to understand the technology and business drivers underlying transactions and agreements in these areas."
-  thumbnailUrl: Levi-Stuart.jpeg
+  name: "George"
+  surname: "Beall"
+  company: "Commonwealth"
+  title: "Head of Business and Operations"
+  bio: "George Beall is the Head of Business and Operations for Commonwealth. Commonwealth is a leading DAO tooling company with 60K+ users and 700+ DAOs. Beall previously co-founded Everipedia."
+  thumbnailUrl: GeorgeBeall.jpg
   rockstar: false
 -
   id: 17
