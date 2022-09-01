@@ -1,6 +1,6 @@
 - 
   date: "2022-09-23"
-  dateReadable: "September 24"
+  dateReadable: "September 23"
   tracks: 
     - {title: "Main Room", color: "#90be4e"}
     - {title: "Breakout 1", color: "#03a9f4"}
@@ -10,5 +10,25 @@
     - {
     	startTime: "9:00",
     	endTime: "10:00",
-    	sessionIds: [5, 6, 22]
+    	sessionIds: [5]
+    }
+    - {
+    	startTime: "10:00",
+    	endTime: "11:00",
+    	sessionIds: [22, 23]
+    }
+    - {
+    	startTime: "10:15",
+    	endTime: "11:00",
+    	sessionIds: [1]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "12:00",
+    	sessionIds: [24, 25, 26]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "1:00",
+    	sessionIds: [27]
     }

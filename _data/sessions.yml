@@ -110,5 +110,25 @@
   speakers: [21]
 -
   id: 22
-  title: " "
+  title: "Cross-chain Panel"
   description: " "
+-
+  id: 23
+  title: "Crypto X Climate"
+  description: ""
+-
+  id: 24
+  title: "Keynote"
+  description: "Polygon"
+-
+  id: 25
+  title: "Crypto x Regulation"
+  description: " "
+-
+  id: 26
+  title: "DeFi Infrastructure"
+  description: " "
+-
+  id: 27
+  title: "Lunch"
+  description: "The best time to talk with speakers and attendees"
