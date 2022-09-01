@@ -134,3 +134,8 @@
   place: "Glass Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
+-
+  id: 28
+  title: "Gitcoin's Scott Moore"
+  description: ""
+  speakers: [22]
