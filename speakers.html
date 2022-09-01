@@ -9,7 +9,9 @@ modal: all
 
 {% if site.showSessions %}
     {% include speakers-list.html %}
+    {% include randomize.html %}
 {% else %}
     {% include speakers-list-2.html %}
+    {% include randomize.html %}
 {% endif %}
 
