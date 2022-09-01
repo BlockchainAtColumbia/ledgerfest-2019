@@ -131,4 +131,6 @@
 -
   id: 27
   title: "Lunch"
+  place: "Glass Hall"
+  serivce: true
   description: "The best time to talk with speakers and attendees"
