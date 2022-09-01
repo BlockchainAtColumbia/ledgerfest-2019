@@ -196,6 +196,15 @@
   bio: ""
   thumbnailUrl: ""
   rockstar: false
+-
+  id: 22
+  name: "Scott"
+  surname: "Moore"
+  company: "Gitcoin"
+  title: "Co-Founder"
+  bio: "Scott is a co-founder at Gitcoin, an internet-native community for building and funding digital public goods. To date, they've facilitated over $50m in funding to open source software. Beyond Gitcoin, Scott has helped push forward a variety of related initiatives including Ethereum Foundation Grants, the Digital Public Goods Alliance, and SustainOSS."
+  thumbnailUrl: "ScottMoorepfp.jpeg"
+  rockstar: false
     
 
 #
