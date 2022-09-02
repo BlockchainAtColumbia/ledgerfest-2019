@@ -5,6 +5,7 @@
     - {name: "Degen Events", description: "Degen Events", link: "https://www.degen.events/?city=New+York&country=United+States", imageUrl: "de-logo-black.png"}
     - {name: "Eigenlayr", description: "Manta Network", link: "https://www.layrlabs.com/", imageUrl: "EigenLyayer_Logo.jpeg"}
     - {name: "Commonwealth", description: "Commonwealth", link: "https://commonwealth.im/", imageUrl: "Commonwealth_Logo.jpeg"}
+    - {name: "Galaxy", description: "Galaxy", link: "https://www.galaxy.com/", imageUrl: "Galaxy.jpeg"}
     - {name: "Manta Network", description: "Manta Network", link: "https://www.manta.network/", imageUrl: "Manta_Logo.jpeg"}
  -
    group: "Silver Sponsors"
