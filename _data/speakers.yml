@@ -205,6 +205,15 @@
   bio: "Scott is a co-founder at Gitcoin, an internet-native community for building and funding digital public goods. To date, they've facilitated over $50m in funding to open source software. Beyond Gitcoin, Scott has helped push forward a variety of related initiatives including Ethereum Foundation Grants, the Digital Public Goods Alliance, and SustainOSS."
   thumbnailUrl: "ScottMoorepfp.jpeg"
   rockstar: false
+-
+  id: 24
+  name: "Aditi"
+  surname: "Sriram"
+  company: "Celestia<>Bain Crypto"
+  title: "Product Manger and Scout"
+  bio: "Former product manager at The Graph and ConsenSys, with a background in developer growth"
+  thumbnailUrl: "Aditi.jpg"
+  rockstar: false
     
 
 #
