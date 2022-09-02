@@ -187,15 +187,15 @@
   bio: "0xbrainjar is Composable finance's founder and CEO. He's the anchor that ties together the complex thinking, deep understanding and technical expertise demanded of our ambitious goal to make DeFi readily accessible to all innovations and truly arrive at interoperability."
   thumbnailUrl: 0xbrainjar.jpeg
   rockstar: false
--
-  id: 22
-  name: "Speaker TBD"
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: ""
-  rockstar: false
+#-
+#  id: 22
+#  name: "Speaker TBD"
+#  surname: ""
+#  company: ""
+#  title: ""
+#  bio: ""
+#  thumbnailUrl: ""
+#  rockstar: false
 -
   id: 23
   name: "Scott"
