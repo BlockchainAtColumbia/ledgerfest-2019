@@ -214,6 +214,24 @@
   bio: "Former product manager at The Graph and ConsenSys, with a background in developer growth"
   thumbnailUrl: "Aditi.jpg"
   rockstar: false
+-
+  id: 24
+  name: "Prat"
+  surname: "Vallabhaneni"
+  company: "White & Case"
+  title: "Partner, Fintech"
+  bio: "Clients often call upon Prat to navigate novel Fintech issues that are complex and rapidly evolving. He is well known in the Fintech industry, having advised exchanges, brokers, payment processors, wallets, issuers, trust companies, security firms, and virtually every other major type of ecosystem participant.Prat often advises clients on precedent-setting matters in the blockchain industry. He has played a key role in the development of the Diem Association and the Novi wallet and most notably, serves as lead counsel to the Republic of El Salvador in respect of its incorporation of bitcoin as legal tender. Earlier in his career, during the global financial crisis, Prat served as an attorney at the FDIC, where he worked on numerous crisis-related, private equity-backed bank M&A transactions, bank receiverships and enforcement actions against banks, consumer finance firms, and directors and officers.He is a leading advisor in this space, ranked in Chambers USA for Blockchain & Cryptocurrencies, recognized in Legal 500 USA for Fintech, and named to the Who’s Who Legal guide for Blockchain and Fintech."
+  thumbnailUrl: "PratVallabhaneni.jpeg"
+  rockstar: false
+-
+  id: 25
+  name: "James"
+  surname: "Hu"
+  company: "White & Case"
+  title: "Partner, M&A"
+  bio: "James is a partner in White & Case’s Global Mergers & Acquisitions Practice and a member of the Private Equity Industry Group. James’s practice focuses on the representation of both public companies and financial sponsors engaged in domestic or cross-border M&A or private equity transactions. He has broad experience in complex business combinations, including public company mergers, portfolio company acquisitions or sales, corporate carve-outs, SPAC transactions and equity or joint venture arrangements. James represents clients across the industry spectrum, with substantial experience in M&A for technology companies, including crypto and other Fintech companies.James also serves as an adjunct professor at Cornell Law School and Cornell Tech, and as a member of Law360’s M&A Editorial Board."
+  thumbnailUrl: "JamesHu.jpeg"
+  rockstar: false
     
 
 #
