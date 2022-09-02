@@ -2,6 +2,7 @@
   group: "Bronze Sponsors"
   elements:
     - {name: "Algorand", description: "Algorand", link: "https://www.algorand.com/", imageUrl: "Algorand_logo.jpeg"}
+    - {name: "Degen Events", description: "Degen Events", link: "https://www.degen.events/?city=New+York&country=United+States", imageUrl: "de-logo-black.png"}
     - {name: "Eigenlayr", description: "Manta Network", link: "https://www.layrlabs.com/", imageUrl: "EigenLyayer_Logo.jpeg"}
     - {name: "Commonwealth", description: "Commonwealth", link: "https://commonwealth.im/", imageUrl: "Commonwealth_Logo.jpeg"}
     - {name: "Manta Network", description: "Manta Network", link: "https://www.manta.network/", imageUrl: "Manta_Logo.jpeg"}
