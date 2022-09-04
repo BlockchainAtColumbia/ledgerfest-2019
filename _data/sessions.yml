@@ -1,68 +1,87 @@
  -
   id: 1
-  title: ""
-  description: ""
-  speakers: [1]
+  title: "Breakfeast"
+  place: "The North Gallery"
+  service: true
+  description: "Breakfeast will be provided for all the early risers!"
  -
   id: 2
-  title: ""
-  description: ""
-  speakers: [2]
+  title: "Keynote"
+  description: "To Be Anounced"
+  subtype: Keynote
+  speakers: [5]
+  complexity: "Beginner to Intermediate"
+  video: ""
  - 
   id: 3
-  title: ""
+  title: "To Be Anounced"
   description: ""
-  speakers: [3]
+  subtype: presentation
+  speakers: [1]
+  complexity: "Beginner to Intermediate" 
+  presentation: ""
+  video: ""
  -
   id: 4
-  title: ""
-  description: ""
-  speakers: [4]
+  title: "Crosschain "
+  description: "What is Blockchain Interoperability? In its simplest terms, blockchain interoperability allows different blockchain protocols to actively communicate with each other. Therefore, different chains can interact and share data, which results in making it easier to use different blockchain networks."
+  subtype: Panel Discussion
+  speakers: [15,21]
+  complexity: "Intermediate" 
+  video: ""
  - 
   id: 5
-  title: "Opening Keynote"
-  description: "CEO of NEAR Foundation"
-  speakers: [5]
+  title: "MEV"
+  description: "Maximal extractable value (MEV) refers to the maximum value that can be extracted from block production in excess of the standard block reward and gas fees by including, excluding, and changing the order of transactions in a block."
+  speakers: [6,19]
+  subtype: Panel Discussion"
+  complexity: "Expert" 
+  video: "https://www.youtube.com/watch?v=mAmm51VHoL4"
+  Website: "https://ethereum.org/en/developers/docs/mev/"
  - 
   id: 6
-  title: ""
-  description: "" 
-  speakers: [6]
+  title: "Keynote"
+  description: "To Be Anounced"
+  subtype: Keynote
+  speakers: [5]
+  complexity: "Beginner to Intermediate"
+  video: ""
  - 
   id: 7
-  title: ""
+  title: "Crypto X Regulations"
   description: ""
   speakers: [7]
  -
   id: 8
-  title: ""
+  title: "DeFi vs CeFi"
   description: ""
-  speakers: [8]
+  speakers: [27,22,]
  - 
   id: 9
-  title: ""
-  description: ""
-  speakers: [9]
+  title: "Lunch"
+  place: "The North Gallery"
+  service: true
+  description: "Meal to be Anounced"
  - 
   id: 10
-  title: ""
-  description: ""
-  speakers: [10]
+  title: "Sunny Aggarwal"
+  description: "To Be Announced"
+  subtype: presentation
+  speakers: [3]
+  complexity: "Beginner to Intermediate" 
+  presentation: ""
+  video: ""
+  Website: "https://messari.io/asset/osmosis/profile"
  - 
   id: 11
-  title: ""
+  title: "NFTs"
   description: ""
   speakers: [11]
  - 
   id: 12
-  title: ""
+  title: "Trading/Markets"
   description: ""
-  speakers: [12]
-#- 
-#  id: 13
-#  title: "Z-cash's Eran Tromer"
-#  description: ""
-#  speakers: [13]
+  speakers: [10,22,22]
  - 
   id: 13
   title: ""
