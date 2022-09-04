@@ -49,7 +49,7 @@
   surname: "Miller"
   company: "FlashBots"
   title: "Principal"
-  bio: "Robert Miller Bert steward's products at Flashbots. Prior to Flashbots he built privacy preserving machine learning tools for healthcare at ConsenSys. He's also been a founder and CEO, as well as a quant at a hedge fund."
+  bio: 'Robert Miller Bert stewards products at <a href="https://www.flashbots.net/" target="_blank">Flashbots</a>. Prior to Flashbots he built privacy preserving machine learning tools for healthcare at ConsenSys. He has also been a founder and CEO, as well as a quant at a hedge fund.'
   thumbnailUrl: BertCMiller.jpeg
   rockstar: false
 -
@@ -238,7 +238,7 @@
   surname: "Nelle"
   company: "Empiric Network"
   title: "Co-Founder"
-  bio: "Jonas is one of the founders of Empiric Network, the first live oracle on StarkNet, and the leading provider of robust data feeds to the ecosystem today. The network is powered by data partners that include Alameda Research, Jane Street, Gemini, Flow Traders and CMT. By leveraging StarkNet's on-chain computation Empiric is also pioneering computational data feeds and will enable the next generation of DeFi protocols to go beyond what is possible today. Previously Jonas invested in companies at a Silicon Valley VC with >1 on BN AUM, wrote software at Palantir, and was head of product at a YC and Index Ventures-backed machine learning startup."
+  bio: 'Jonas is one of the founders of <a href="https://empiric.network/" target="_blank">Empiric Network</a>, the first live oracle on <a href="https://starkware.co/starknet/" target="_blank">StarkNet</a>, and the leading provider of robust data feeds to the ecosystem today. The network is powered by data partners that include Alameda Research, Jane Street, Gemini, Flow Traders and CMT. By leveraging StarkNet on-chain computation, Empiric is also pioneering computational data feeds and will enable the next generation of DeFi protocols to go beyond what is possible today. Previously Jonas invested in companies at a Silicon Valley VC with >1 on BN AUM, wrote software at Palantir, and was head of product at a YC and Index Ventures-backed machine learning startup.'
   thumbnailUrl: "1626872097115.jpeg"
   rockstar: false
 -
