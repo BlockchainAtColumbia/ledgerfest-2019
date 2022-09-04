@@ -37,7 +37,7 @@
   subtype: Panel Discussion"
   complexity: "Expert" 
   video: "https://www.youtube.com/watch?v=mAmm51VHoL4"
-  Website: "https://ethereum.org/en/developers/docs/mev/"
+  link: "https://ethereum.org/en/developers/docs/mev/"
  - 
   id: 6
   title: "Keynote"
@@ -71,7 +71,7 @@
   complexity: "Beginner to Intermediate" 
   presentation: ""
   video: ""
-  Link: "https://messari.io/asset/osmosis/profile"
+  link: "https://messari.io/asset/osmosis/profile"
  - 
   id: 11
   title: "NFTs"
