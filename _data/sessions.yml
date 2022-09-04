@@ -22,7 +22,7 @@
   video: ""
  -
   id: 4
-  title: "Crosschain "
+  title: "Crosschain"
   description: "What is Blockchain Interoperability? In its simplest terms, blockchain interoperability allows different blockchain protocols to actively communicate with each other. Therefore, different chains can interact and share data, which results in making it easier to use different blockchain networks."
   speakers: [15,21]
   complexity: "Intermediate" 
@@ -34,7 +34,6 @@
   speakers: [6,19]
   complexity: "Expert"
   video: ""
-  link: ""
  - 
   id: 6
   title: "Keypnote"
@@ -137,7 +136,6 @@
   complexity: "Beginner to Intermediate" 
   presentation: ""
   video: ""
-  link: ""
  -
   id: 24
   title: "To Be Announced"
@@ -157,7 +155,6 @@
   complexity: "Beginner to Intermediate" 
   presentation: ""
   video: ""
-  link: ""
  -
   id: 27
   title: "Why DAO's"
