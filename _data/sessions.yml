@@ -8,7 +8,7 @@
   id: 2
   title: "Keynote"
   description: "To Be Announced"
-  subtype: Keynote
+  subtype: keynote
   speakers: [5]
   complexity: "Beginner to Intermediate"
   video: ""
