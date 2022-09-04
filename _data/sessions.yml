@@ -68,9 +68,9 @@
   subtype: presentation
   speakers: [3]
   complexity: "Beginner to Intermediate" 
-  presentation: ""
+  presentation: "https://messari.io/asset/osmosis/profile""
   video: ""
-  link: "https://messari.io/asset/osmosis/profile"
+  link: ""
  - 
   id: 11
   title: "NFTs"
