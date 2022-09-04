@@ -7,14 +7,14 @@
  -
   id: 2
   title: "Keynote"
-  description: "To Be Anounced"
+  description: "To Be Announced"
   subtype: Keynote
   speakers: [5]
   complexity: "Beginner to Intermediate"
   video: ""
  - 
   id: 3
-  title: "To Be Anounced"
+  title: "To Be Announced"
   description: ""
   subtype: presentation
   speakers: [1]
@@ -41,7 +41,7 @@
  - 
   id: 6
   title: "Keynote"
-  description: "To Be Anounced"
+  description: "To Be Announced"
   subtype: Keynote
   speakers: [22]
   complexity: "Beginner to Intermediate"
@@ -89,7 +89,7 @@
   speakers: [22]
  - 
   id: 14
-  title: "Speaker To Be Anounced"
+  title: "Speaker To Be Announced"
   description: ""
   speakers: [22]
  - 
@@ -109,7 +109,7 @@
   speakers: [22]
  - 
   id: 18
-  title: "Speaker To Be Anounced"
+  title: "Speaker To Be Announced"
   description: ""
   speakers: [22]
  - 
@@ -124,13 +124,13 @@
   speakers: [26] 
  -
   id: 21
-  title: "Targeted Workshop To Be Anounced"
+  title: "Targeted Workshop To Be Announced"
   description: ""
   speakers: [22]
 -
   id: 22
-  title: "To Be Anounced"
-  description: "To Be Anounced"
+  title: "To Be Announced"
+  description: "To Be Announced"
   subtype: presentation
   speakers: [12]
   complexity: "Beginner to Intermediate"
@@ -151,12 +151,12 @@
   speakers: [22]
 -
   id: 25
-  title: "Targeted Workshop To Be Anounced"
+  title: "Targeted Workshop To Be Announced"
   description: " "
   speakers: [22]
 -
   id: 26
-  title: "To Be Anounced"
+  title: "To Be Announced"
   description: " "
   subtype: presentation
   speakers: [13]
@@ -177,13 +177,13 @@
   speakers: [18,8,22] 
 -
   id: 29
-  title: "Targeted Workshop To Be Anounced"
+  title: "Targeted Workshop To Be Announced"
   description: ""
   speakers: [22] 
 -
  id: 30
   title: "Keynote"
-  description: "To Be Anounced"
+  description: "To Be Announced"
   subtype: Keynote
   speakers: [5]
   complexity: "Beginner to Intermediate"
