@@ -68,7 +68,7 @@
   id: 11
   title: "NFTs"
   description: ""
-  speakers: [22,22,22]
+  speakers: [28,22,22]
  - 
   id: 12
   title: "Trading/Markets"
@@ -158,7 +158,7 @@
   id: 27
   title: "Why DAO's"
   description: "The best time to talk with speakers and attendees"
-  speakers: [23,21,22,22] 
+  speakers: [23,21,29,22] 
 
  -
   id: 28
