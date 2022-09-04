@@ -34,8 +34,9 @@
   title: "MEV"
   description: "Maximal extractable value (MEV) refers to the maximum value that can be extracted from block production in excess of the standard block reward and gas fees by including, excluding, and changing the order of transactions in a block."
   speakers: [6,19]
-  subtype: Panel Discussion"
-  complexity: "Expert" 
+  subtype: Panel Discussion
+  complexity: "Expert"
+  video: ""
   link: "https://ethereum.org/en/developers/docs/mev/"
  - 
   id: 6
@@ -141,6 +142,7 @@
   speakers: [14,11]
   complexity: "Beginner to Intermediate" 
   presentation: ""
+  video: "//www.youtube.com/embed/fOGdb1CTu5c"
   link: "https://hackernoon.com/eli5-zero-knowledge-proof-78a276db9eff"
  -
   id: 24
