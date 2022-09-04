@@ -133,10 +133,7 @@
   description: "To Be Announced"
   subtype: presentation
   speakers: [3]
-  complexity: "Beginner to Intermediate" 
-  presentation: ""
-  video: ""
-  link: ""
+  complexity: "Beginner to Intermediate"
 -
   id: 23
   title: "Zk"
