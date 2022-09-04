@@ -127,14 +127,14 @@
   title: "Targeted Workshop To Be Announced"
   description: ""
   speakers: [22]
--
+ -
   id: 22
   title: "To Be Announced"
   description: "To Be Announced"
   subtype: presentation
   speakers: [12]
   complexity: "Beginner to Intermediate"
--
+ -
   id: 23
   title: "Zk"
   description: "Zero Knowledge Protocol (or Zero Knowledge Password Proof, ZKP) is a way of doing authentication where no passwords are exchanged, which means they cannot be stolen. This is cool because it makes your communication so secure and protected that nobody else can find out what you’re communicating about or what files you are sharing with each other."
@@ -144,17 +144,17 @@
   presentation: ""
   video: "https://www.youtube.com/watch?v=fOGdb1CTu5c"
   link: "https://hackernoon.com/eli5-zero-knowledge-proof-78a276db9eff"
--
+ -
   id: 24
   title: "To Be Announced"
   description: ""
   speakers: [22]
--
+ -
   id: 25
   title: "Targeted Workshop To Be Announced"
   description: " "
   speakers: [22]
--
+ -
   id: 26
   title: "To Be Announced"
   description: " "
@@ -164,23 +164,23 @@
   presentation: ""
   video: ""
   link: "https://www.layrlabs.com/"
--
+ -
   id: 27
   title: "Why DAO's"
   description: "The best time to talk with speakers and attendees"
   speakers: [23,21,22,22] 
 
--
+ -
   id: 28
   title: "Venture Capital"
   description: ""
   speakers: [18,8,22] 
--
+ -
   id: 29
   title: "Targeted Workshop To Be Announced"
   description: ""
   speakers: [22] 
--
+ -
  id: 30
   title: "Keynote"
   description: "To Be Announced"
@@ -188,7 +188,7 @@
   speakers: [22]
   complexity: "Beginner to Intermediate"
   video: ""
--
+ -
  id: 31
   title: "Happy Hour"
   description: "Happy Hour and Apetizers!"
