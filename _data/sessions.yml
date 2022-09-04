@@ -71,7 +71,7 @@
   complexity: "Beginner to Intermediate" 
   presentation: ""
   video: ""
-  Website: "https://messari.io/asset/osmosis/profile"
+  Link: "https://messari.io/asset/osmosis/profile"
  - 
   id: 11
   title: "NFTs"
@@ -84,77 +84,104 @@
   speakers: [10,22,22]
  - 
   id: 13
-  title: ""
+  title: "Targeted Workshop To Be Anounced"
   description: ""
-  speakers: [13]
+  speakers: [22]
  - 
   id: 14
-  title: ""
+  title: "Speaker To Be Anounced"
   description: ""
   speakers: [14]
  - 
   id: 15
-  title: ""
+  title: "Energy, Climate, Mining"
   description: ""
   speakers: [15]
  - 
   id: 16
-  title: ""
+  title: "Energy, Climate, Mining"
   description: ""
   speakers: [16]
  - 
   id: 17
-  title: ""
+  title: "Targeted Workshop To Be Anounced"
   description: ""
   speakers: [17]
  - 
   id: 18
-  title: ""
+  title: "Speaker To Be Anounced"
   description: ""
   speakers: [18]
  - 
   id: 19
-  title: ""
+  title: "Metaverse"
   description: ""
   speakers: [19]
  - 
   id: 20
-  title: ""
+  title: "Careers/Alumni"
   description: ""
   speakers: [20] 
  -
   id: 21
-  title: ""
+  title: "Targeted Workshop To Be Anounced"
   description: ""
-  speakers: [21]
+  speakers: [22]
 -
   id: 22
-  title: ""
-  description: " "
+  title: "Tal Rabin"
+  description: "To Be Announced"
+  a
 -
   id: 23
-  title: ""
-  description: ""
+  title: "Zk"
+  description: "Zero Knowledge Protocol (or Zero Knowledge Password Proof, ZKP) is a way of doing authentication where no passwords are exchanged, which means they cannot be stolen. This is cool because it makes your communication so secure and protected that nobody else can find out what you’re communicating about or what files you are sharing with each other."
+  subtype: presentation
+  speakers: [14,11]
+  complexity: "Beginner to Intermediate" 
+  presentation: ""
+  video: "https://www.youtube.com/watch?v=fOGdb1CTu5c"
+  link: "https://hackernoon.com/eli5-zero-knowledge-proof-78a276db9eff"
 -
   id: 24
-  title: "Keynote"
-  description: "Polygon"
+  title: "To Be Announced"
+  description: ""
 -
   id: 25
-  title: ""
+  title: "Targeted Workshop To Be Anounced"
   description: " "
+  speakers: [22]
 -
   id: 26
-  title: ""
+  title: "To Be Anounced"
   description: " "
+  subtype: presentation
+  speakers: [13]
+  complexity: "Beginner to Intermediate" 
+  presentation: ""
+  video: ""
+  link: "https://www.layrlabs.com/"
 -
   id: 27
-  title: "Lunch"
-  place: "Glass Hall"
-  service: true
+  title: "Why DAO's"
   description: "The best time to talk with speakers and attendees"
+  speakers: [23,21,22,22] 
+
 -
   id: 28
-  title: ""
+  title: "Venture Capital"
+  description: ""
+  speakers: [18,8,22] 
+-
+  id: 29
+  title: "Targeted Workshop To Be Anounced"
   description: ""
   speakers: [22] 
+-
+ id: 30
+  title: "Keynote"
+  description: "To Be Anounced"
+  subtype: Keynote
+  speakers: [5]
+  complexity: "Beginner to Intermediate"
+  video: ""
