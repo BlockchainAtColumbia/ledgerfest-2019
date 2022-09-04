@@ -91,17 +91,17 @@
   id: 14
   title: "Speaker To Be Anounced"
   description: ""
-  speakers: [14]
+  speakers: [22]
  - 
   id: 15
-  title: "Energy, Climate, Mining"
+  title: "Panel to be Announced"
   description: ""
   speakers: [15]
  - 
   id: 16
   title: "Energy, Climate, Mining"
   description: ""
-  speakers: [16]
+  speakers: [20]
  - 
   id: 17
   title: "Targeted Workshop To Be Anounced"
@@ -121,7 +121,7 @@
   id: 20
   title: "Careers/Alumni"
   description: ""
-  speakers: [20] 
+  speakers: [26] 
  -
   id: 21
   title: "Targeted Workshop To Be Anounced"
@@ -131,7 +131,12 @@
   id: 22
   title: "Tal Rabin"
   description: "To Be Announced"
-  a
+  subtype: presentation
+  speakers: [3]
+  complexity: "Beginner to Intermediate" 
+  presentation: ""
+  video: ""
+  link: ""
 -
   id: 23
   title: "Zk"
