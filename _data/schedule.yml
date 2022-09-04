@@ -9,7 +9,7 @@
   timeslots:
     - {
     	startTime: "8:00",
-    	endTime: "10:00",
+    	endTime: "9:00",
     	sessionIds: [1]
     }
     - {
