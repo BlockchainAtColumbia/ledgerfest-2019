@@ -58,7 +58,7 @@
   surname: "Yorio"
   company: "Everyrealm"
   title: "CEO"
-  bio: "Janine Yorio leads Everyrealm, a metaverse innovation and investment platform. Republic Realm is among the largest owners of digital real estate  NFTs in several metaverses including Decentraland, The Sandbox and Axie Infinity, and among the most active developers of in-metaverse developments including the Metajuku shopping center and the Fantasy Islands ultra-luxury master-planned community NFT project. Janine was previously the CEO of Compound, a fintech app focused on real estate investing that was backed by leading VC firms NEA and Founders Fund, that was acquired by Republic in 2020. She also previously worked in private equity for Northstar Capital and in real estate and hotel development at The Standard Hotels. She is a graduate of Yale University."
+  bio: 'Janine Yorio leads <a href="https://everyrealm.com/" target="_blank">Everyrealm</a>, a metaverse innovation and investment platform. Republic Realm is among the largest owners of digital real estate  NFTs in several metaverses including Decentraland, The Sandbox and Axie Infinity, and among the most active developers of in-metaverse developments including the Metajuku shopping center and the Fantasy Islands ultra-luxury master-planned community NFT project. Janine was previously the CEO of Compound, a fintech app focused on real estate investing that was backed by leading VC firms NEA and Founders Fund, that was acquired by Republic in 2020. She also previously worked in private equity for Northstar Capital and in real estate and hotel development at The Standard Hotels. She is a graduate of Yale University.'
   thumbnailUrl: JanineYorio.pfp.png
   rockstar: false
 -
@@ -94,7 +94,7 @@
   surname: "Chu"
   company: "Manta Network"
   title: "Founder and CEO, Manta Network"
-  bio: "Shumo co-founded Manta Network with a goal of building the next generation of privacy preserving blockchain systems. Prior to Web3, Shumo graudated as a PhD from University of Washington Computer Science and Engineering, where he was advised by the great Dan Suciu."
+  bio: 'Shumo co-founded <a href="https://www.manta.network/" target="_blank">Manta Network</a> with a goal of building the next generation of privacy preserving blockchain systems. Prior to Web3, Shumo graudated as a PhD from University of Washington Computer Science and Engineering, where he was advised by the great Dan Suciu.'
   thumbnailUrl: shumo-chu.jpeg
   rockstar: false
 -
@@ -121,7 +121,7 @@
   surname: "Wu"
   company: "Aztec Network"
   title: "Head of Growth"
-  bio: "Jonathan Wu runs growth at Aztec Network, a network building scalable privacy on Ethereum that recently raised $17 million dollars from Paradigm. Before crypto, Jon Wu held positions at Google and Bain Capital and earned his MBA from Harvard Business School."
+  bio: 'Jonathan Wu runs growth at <a href="https://aztec.network/" target="_blank">Aztec Network</a>, a network building scalable privacy on Ethereum that recently raised $17 million dollars from Paradigm. Before crypto, Jon Wu held positions at Google and Bain Capital and earned his MBA from Harvard Business School.'
   thumbnailUrl: JonWu.jpeg
   rockstar: false
 -
@@ -193,7 +193,7 @@
   surname: "Moore"
   company: "Gitcoin"
   title: "Co-Founder"
-  bio: "Scott is a co-founder at Gitcoin, an internet-native community for building and funding digital public goods. To date, they've facilitated over $50m in funding to open source software. Beyond Gitcoin, Scott has helped push forward a variety of related initiatives including Ethereum Foundation Grants, the Digital Public Goods Alliance, and SustainOSS."
+  bio: 'Scott is a co-founder at <a href="https://gitcoin.co/" target="_blank">Gitcoin</a>, an internet-native community for building and funding digital public goods. To date, they have facilitated over $50m in funding to open source software. Beyond Gitcoin, Scott has helped push forward a variety of related initiatives including Ethereum Foundation Grants, the Digital Public Goods Alliance, and SustainOSS.'
   thumbnailUrl: "ScottMoorepfp.jpeg"
   rockstar: false
 -
@@ -220,7 +220,7 @@
   surname: "Hu"
   company: "White & Case"
   title: "Partner, M&A"
-  bio: "James is a partner in White & Case's Global Mergers & Acquisitions Practice and a member of the Private Equity Industry Group. James's practice focuses on the representation of both public companies and financial sponsors engaged in domestic or cross-border M&A or private equity transactions. He has broad experience in complex business combinations, including public company mergers, portfolio company acquisitions or sales, corporate carve-outs, SPAC transactions and equity or joint venture arrangements. James represents clients across the industry spectrum, with substantial experience in M&A for technology companies, including crypto and other Fintech companies.James also serves as an adjunct professor at Cornell Law School and Cornell Tech, and as a member of Law360's M&A Editorial Board."
+  bio: 'James is a partner in the <a href="https://www.whitecase.com/law/practices/mergers-acquisitions" target="_blank">White & Case Global Mergers & Acquisitions Practice</a> and a member of the Private Equity Industry Group. His practice focuses on the representation of both public companies and financial sponsors engaged in domestic or cross-border M&A or private equity transactions. He has broad experience in complex business combinations, including public company mergers, portfolio company acquisitions or sales, corporate carve-outs, SPAC transactions and equity or joint venture arrangements. James represents clients across the industry spectrum, with substantial experience in M&A for technology companies, including crypto and other Fintech companies. James also serves as an adjunct professor at Cornell Law School and Cornell Tech, and as a member of the Law360 M&A Editorial Board.'
   thumbnailUrl: "JamesHu.jpeg"
   rockstar: false
 -
