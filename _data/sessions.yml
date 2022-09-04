@@ -25,7 +25,7 @@
   id: 4
   title: "Crosschain "
   description: "What is Blockchain Interoperability? In its simplest terms, blockchain interoperability allows different blockchain protocols to actively communicate with each other. Therefore, different chains can interact and share data, which results in making it easier to use different blockchain networks."
-  subtype: Panel Discussion
+  subtype: panel discussion
   speakers: [15,21]
   complexity: "Intermediate" 
   video: ""
