@@ -182,14 +182,14 @@
   speakers: [22] 
  -
  id: 30
-  title: "Keynote"
-  description: "To Be Announced"
-  subtype: Keynote
-  speakers: [22]
-  complexity: "Beginner to Intermediate"
-  video: ""
+ title: "Keynote"
+ description: "To Be Announced"
+ subtype: Keynote
+ speakers: [22]
+ complexity: "Beginner to Intermediate"
+ video: ""
  -
  id: 31
-  title: "Happy Hour"
-  description: "Happy Hour and Apetizers!"
+ title: "Happy Hour"
+ description: "Happy Hour and Apetizers!"
   
