@@ -8,7 +8,6 @@
   id: 2
   title: "Keynote"
   description: "To Be Announced"
-  subtype: keynote
   speakers: [5]
   complexity: "Beginner to Intermediate"
   video: ""
@@ -37,12 +36,11 @@
   subtype: panel discussion
   complexity: "Expert"
   video: ""
-  link: "https://ethereum.org/en/developers/docs/mev/"
+  link: ""
  - 
   id: 6
   title: "Keypnote"
   description: "To Be Announced"
-  subtype: keynote
   speakers: [22]
   complexity: "Beginner to Intermediate"
   video: ""
@@ -141,7 +139,7 @@
   complexity: "Beginner to Intermediate" 
   presentation: ""
   video: ""
-  link: "https://hackernoon.com/eli5-zero-knowledge-proof-78a276db9eff"
+  link: ""
  -
   id: 24
   title: "To Be Announced"
@@ -161,7 +159,7 @@
   complexity: "Beginner to Intermediate" 
   presentation: ""
   video: ""
-  link: "https://www.layrlabs.com/"
+  link: ""
  -
   id: 27
   title: "Why DAO's"
@@ -182,7 +180,6 @@
   id: 30
   title: "Keynote"
   description: "To Be Announced"
-  subtype: keynote
   speakers: [22]
   complexity: "Beginner to Intermediate"
   video: ""
