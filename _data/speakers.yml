@@ -248,7 +248,25 @@
   company: ""
   title: ""  
   bio: ""
-  thumbnailUrl: "lion-face (1).png" 
+  thumbnailUrl: "LionEmoji.jpeg" 
+  rockstar: false
+-
+  id: 28
+  name: "Raghu"
+  surname: "Hariharan"
+  company: "OpenSea"
+  title: "Creator Marketing & Product Marketing"
+  bio: 'Raghu leads the Creator Marketing & Product Marketing teams at <a href="https://opensea.io/" target="_blank">OpenSea</a>. He is passionate about building monetization mechanisms that reward the people & teams creating content beloved by millions. Prior to OpenSea, he spent nearly 6 years at Meta building out product, marketing & strategy teams focused on Facebook, focused particularly on unlocking value for long tail & emerging creator talent. Raghu earned an MBA from the Wharton School of the University of Pennsylvania and a BA from Washington University in St. Louis. Raghu lives in NYC with his family & spends his free time running up and down the West Side Highway, learning Spanish & experimenting with new cookbooks.'
+  thumbnailUrl: "RaghuHariharan.jpeg"
+  rockstar: false
+-
+  id: 29
+  name: "Amit"
+  surname: "Mukherjee.jpeg"
+  company: "Chainforest"
+  title: "Founder"
+  bio: 'Amit Mukherjee is the founder of <a href="https://mobile.twitter.com/chainforestxyz" target="_blank">Chainforest</a>, a community-native VC fund supported by a group of 400 exceptional, curated web3 natives. Amit also is the Treasury Co-Lead at Friends With Benefits. Before going all-in on web3, Amit Mukherjee was the youngest Partner at the multi-billion dollar VC firm NEA, where he was named to the Forbes 30under30 list and invested in companies such as Duolingo, Masterclass, Uber, Snap and Bytedance.'
+  thumbnailUrl: "AmitMukherjee.jpeg"
   rockstar: false
 
 #
