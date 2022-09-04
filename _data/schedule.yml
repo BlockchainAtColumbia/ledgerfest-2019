@@ -5,7 +5,7 @@
     - {title: "Main Room", color: "#90be4e"}
     - {title: "Breakout 1", color: "#03a9f4"}
     - {title: "Breakout 2", color: "#e91e63"}
-    - {title: "Workshop Room", color: "#e91e63"}
+    - {title: "Workshop Room", color: "#e91e63"} 
   timeslots:
     - {
     	startTime: "8:00",
