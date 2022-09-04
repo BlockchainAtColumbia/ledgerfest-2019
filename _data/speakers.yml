@@ -13,7 +13,7 @@
   surname: "Levi"
   company: "Skadden"
   title: "Partner, Web3 and Digital Assets"
-  bio: "Stuart D. Levi is co-head of Skadden's Intellectual Property and Technology Group, and he coordinates the firm's blockchain, outsourcing and privacy practices. Mr. Levi has been a recognized leader in the technology transaction field for over 30 years and has been named a National Law Journal Trailblazer in cryptocurrency, blockchain and fintech, as well as a Thought Leader by Who’s Who Legal: Fintech & Blockchain 2021. He has a broad and diverse practice that includes advising on blockchain and digital asset matters (including NFTs), as well as on outsourcing transactions, technology and intellectual property licensing, fintech representations, privacy and cybersecurity, branding and distribution agreements, technology transfers, strategic alliances and joint ventures. His background in computer science and the information technology industry allows Mr. Levi to understand the technology and business drivers underlying transactions and agreements in these areas."
+  bio: 'Stuart D. Levi is co-head of the <a href="https://www.skadden.com/capabilities/practices/intellectual-property-and-technology/cc/intellectual-property-and-technology" target="_blank">Intellectual Property and Technology Group at Skadden</a>, and he coordinates the blockchain, outsourcing and privacy practices of the firm. Mr. Levi has been a recognized leader in the technology transaction field for over 30 years and has been named a National Law Journal Trailblazer in cryptocurrency, blockchain and fintech, as well as a Thought Leader by Who is Who Legal: Fintech & Blockchain 2021. He has a broad and diverse practice that includes advising on blockchain and digital asset matters (including NFTs), as well as on outsourcing transactions, technology and intellectual property licensing, fintech representations, privacy and cybersecurity, branding and distribution agreements, technology transfers, strategic alliances and joint ventures. His background in computer science and the information technology industry allows Mr. Levi to understand the technology and business drivers underlying transactions and agreements in these areas.'
   thumbnailUrl: Levi-Stuart.jpeg
   rockstar: false
 -
@@ -148,7 +148,7 @@
   surname: "Drylewski"
   company: "Skadden"
   title: "Partner, Complex Litigiation and Trials"
-  bio: "Alex Drylewski is co-chair of Skadden’s Web3 and Digital Assets Group. His practice focuses on high-stakes complex commercial litigation around the world, and he has represented companies and individuals across nearly every type of industry and dispute, including high-profile commercial litigation involving emerging technologies, government investigations, securities class actions, trials and appeals."
+  bio: 'Alex Drylewski is co-chair of the <a href="https://www.skadden.com/capabilities/practices/web3-and-digital-assets" target="_blank">Skadden Web3 and Digital Assets Group</a>. His practice focuses on high-stakes complex commercial litigation around the world, and he has represented companies and individuals across nearly every type of industry and dispute, including high-profile commercial litigation involving emerging technologies, government investigations, securities class actions, trials and appeals.'
   thumbnailUrl: drylewski_alex.jpeg
   rockstar: false
 -
@@ -211,7 +211,7 @@
   surname: "Vallabhaneni"
   company: "White & Case"
   title: "Partner, Fintech"
-  bio: "Clients often call upon Prat to navigate novel Fintech issues that are complex and rapidly evolving. He is well known in the Fintech industry, having advised exchanges, brokers, payment processors, wallets, issuers, trust companies, security firms, and virtually every other major type of ecosystem participant.Prat often advises clients on precedent-setting matters in the blockchain industry. He has played a key role in the development of the Diem Association and the Novi wallet and most notably, serves as lead counsel to the Republic of El Salvador in respect of its incorporation of bitcoin as legal tender. Earlier in his career, during the global financial crisis, Prat served as an attorney at the FDIC, where he worked on numerous crisis-related, private equity-backed bank M&A transactions, bank receiverships and enforcement actions against banks, consumer finance firms, and directors and officers.He is a leading advisor in this space, ranked in Chambers USA for Blockchain & Cryptocurrencies, recognized in Legal 500 USA for Fintech, and named to the Who’s Who Legal guide for Blockchain and Fintech."
+  bio: 'Clients often call upon Prat to navigate novel Fintech issues that are complex and rapidly evolving. He is well known in the Fintech industry, having advised exchanges, brokers, payment processors, wallets, issuers, trust companies, security firms, and virtually every other major type of ecosystem participant. Prat often advises clients on precedent-setting matters in the blockchain industry. He has played a key role in the development of the <a href="https://www.diem.com/en-us/" target="_blank">Diem Association</a> and the Novi wallet and most notably, serves as lead counsel to the Republic of El Salvador in respect of its incorporation of bitcoin as legal tender. Earlier in his career, during the global financial crisis, Prat served as an attorney at the FDIC, where he worked on numerous crisis-related, private equity-backed bank M&A transactions, bank receiverships and enforcement actions against banks, consumer finance firms, and directors and officers. He is a leading advisor in this space, ranked in Chambers USA for Blockchain & Cryptocurrencies, recognized in Legal 500 USA for Fintech, and named to the Who is Who Legal guide for Blockchain and Fintech.'
   thumbnailUrl: "PratVallabhaneni.jpeg"
   rockstar: false
 -
@@ -220,7 +220,7 @@
   surname: "Hu"
   company: "White & Case"
   title: "Partner, M&A"
-  bio: "James is a partner in White & Case's Global Mergers & Acquisitions Practice and a member of the Private Equity Industry Group. James's practice focuses on the representation of both public companies and financial sponsors engaged in domestic or cross-border M&A or private equity transactions. He has broad experience in complex business combinations, including public company mergers, portfolio company acquisitions or sales, corporate carve-outs, SPAC transactions and equity or joint venture arrangements. James represents clients across the industry spectrum, with substantial experience in M&A for technology companies, including crypto and other Fintech companies.James also serves as an adjunct professor at Cornell Law School and Cornell Tech, and as a member of Law360’s M&A Editorial Board."
+  bio: "James is a partner in White & Case's Global Mergers & Acquisitions Practice and a member of the Private Equity Industry Group. James's practice focuses on the representation of both public companies and financial sponsors engaged in domestic or cross-border M&A or private equity transactions. He has broad experience in complex business combinations, including public company mergers, portfolio company acquisitions or sales, corporate carve-outs, SPAC transactions and equity or joint venture arrangements. James represents clients across the industry spectrum, with substantial experience in M&A for technology companies, including crypto and other Fintech companies.James also serves as an adjunct professor at Cornell Law School and Cornell Tech, and as a member of Law360's M&A Editorial Board."
   thumbnailUrl: "JamesHu.jpeg"
   rockstar: false
 -
@@ -275,7 +275,7 @@
 #   surname: "Toberoff"
 #   company: "Blockchain at Columbia"
 #   title: "President of Blockchain at Columbia"
-#   bio: "Student at Columbia University"
+#   bio: "dent at Columbia University"
 #   thumbnailUrl: temp.jpg
 #   rockstar: false
 # -
