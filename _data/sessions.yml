@@ -36,7 +36,7 @@
   speakers: [6,19]
   subtype: Panel Discussion"
   complexity: "Expert" 
-  video: "https://www.youtube.com/watch?v=mAmm51VHoL4"
+  video: "//www.youtube.com/watch?v=mAmm51VHoL4"
   link: "https://ethereum.org/en/developers/docs/mev/"
  - 
   id: 6
@@ -142,7 +142,7 @@
   speakers: [14,11]
   complexity: "Beginner to Intermediate" 
   presentation: ""
-  video: "https://www.youtube.com/watch?v=fOGdb1CTu5c"
+  video: "//www.youtube.com/watch?v=fOGdb1CTu5c"
   link: "https://hackernoon.com/eli5-zero-knowledge-proof-78a276db9eff"
  -
   id: 24
