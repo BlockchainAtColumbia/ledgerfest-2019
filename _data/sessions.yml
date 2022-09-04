@@ -129,10 +129,10 @@
   speakers: [22]
 -
   id: 22
-  title: "Tal Rabin"
-  description: "To Be Announced"
+  title: "To Be Anounced"
+  description: "To Be Anounced"
   subtype: presentation
-  speakers: [3]
+  speakers: [12]
   complexity: "Beginner to Intermediate"
 -
   id: 23
