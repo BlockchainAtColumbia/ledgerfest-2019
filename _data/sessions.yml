@@ -42,7 +42,7 @@
   id: 6
   title: "Keypnote"
   description: "To Be Announced"
-  subtype: Keynote
+  subtype: keynote
   speakers: [22]
   complexity: "Beginner to Intermediate"
   video: ""
@@ -155,7 +155,7 @@
  -
   id: 26
   title: "To Be Announced"
-  description: " "
+  description: ""
   subtype: presentation
   speakers: [13]
   complexity: "Beginner to Intermediate" 
@@ -182,7 +182,7 @@
   id: 30
   title: "Keynote"
   description: "To Be Announced"
-  subtype: Keynote
+  subtype: keynote
   speakers: [22]
   complexity: "Beginner to Intermediate"
   video: ""
