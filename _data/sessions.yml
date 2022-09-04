@@ -106,7 +106,7 @@
   id: 17
   title: "Targeted Workshop To Be Anounced"
   description: ""
-  speakers: [17]
+  speakers: [22]
  - 
   id: 18
   title: "Speaker To Be Anounced"
@@ -116,7 +116,7 @@
   id: 19
   title: "Metaverse"
   description: ""
-  speakers: [19]
+  speakers: [4,7]
  - 
   id: 20
   title: "Careers/Alumni"
