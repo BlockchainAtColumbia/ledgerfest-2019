@@ -187,15 +187,6 @@
   bio: "0xbrainjar is Composable finance's founder and CEO. He's the anchor that ties together the complex thinking, deep understanding and technical expertise demanded of our ambitious goal to make DeFi readily accessible to all innovations and truly arrive at interoperability."
   thumbnailUrl: 0xbrainjar.jpeg
   rockstar: false
-#-
-#  id: 22
-#  name: "Speaker TBD"
-#  surname: ""
-#  company: ""
-#  title: ""
-#  bio: ""
-#  thumbnailUrl: ""
-#  rockstar: false
 -
   id: 23
   name: "Scott"
@@ -240,6 +231,24 @@
   title: "Head of Research"
   bio: "Aryan Sheikhalian is the Head of Research and helps with deal sourcing and due diligence at CMT Digital. Aryan joined CMT Digital in the summer of 2021 during Fund II to focus on blockchain research and venture. Aryan started his career at Accenture prior to starting college as part of the 'Horizons scholar' program. He then worked and published research throughout his time at college with the Blockchain Research Institute under the leadership of Don Tapscott. He graduated from Columbia University in the City of New York with a B.A in Economics and Mathematics, where he also co-founded the Blockchain Club in the Fall of 2017."
   thumbnailUrl: "AryanHeadshot-jpg-1657301367409.jpeg"
+  rockstar: false
+-
+  id: 27
+  name: "Jonas"
+  surname: "Nelle"
+  company: "Empiric Network"
+  title: "Co-Founder"
+  bio: "Jonas is one of the founders of Empiric Network, the first live oracle on StarkNet, and the leading provider of robust data feeds to the ecosystem today. The network is powered by data partners that include Alameda Research, Jane Street, Gemini, Flow Traders and CMT. By leveraging StarkNet‘s on-chain computation Empiric is also pioneering computational data feeds and will enable the next generation of DeFi protocols to go beyond what is possible today. Previously Jonas invested in companies at a Silicon Valley VC with >1 on BN AUM, wrote software at Palantir, and was head of product at a YC and Index Ventures-backed machine learning startup."
+  thumbnailUrl: "unnamed.jpeg"
+  rockstar: false
+-
+  id: 22
+  name: "Speaker TBD"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: "lion-face (1).png"
   rockstar: false
   
 
