@@ -268,7 +268,32 @@
   bio: 'Amit Mukherjee is the founder of <a href="https://mobile.twitter.com/chainforestxyz" target="_blank">Chainforest</a>, a community-native VC fund supported by a group of 400 exceptional, curated web3 natives. Amit also is the Treasury Co-Lead at Friends With Benefits. Before going all-in on web3, Amit Mukherjee was the youngest Partner at the multi-billion dollar VC firm NEA, where he was named to the Forbes 30under30 list and invested in companies such as Duolingo, Masterclass, Uber, Snap and Bytedance.'
   thumbnailUrl: "AmitMukherjee.jpeg"
   rockstar: false
-
+-
+  id: 31
+  name: "Noel"
+  surname: "Turlington"
+  company: "Student"
+  title: "Club President and Defi Governance Lead"
+  bio: ''
+  thumbnailUrl: "1646197814496.jpeg"
+  rockstar: false
+- 
+  id: 32
+  name: "Quintus"
+  surname: "Kilbourn"
+  title: "Alumni Relations/Researcher"
+  company: "Flashbots"
+  bio: ""
+  thumbnailUrl: Quintuspfp.jpeg
+- 
+  id: 33
+  name: "Abraham"
+  surname: "Logan"
+  title: "LionDAO and Events"
+  company: "Coterie Capital/Reidar DAO
+  bio:
+  thumbnailUrl: Abrahampfp.jpeg
+ 
 #
 #  id: 13
 #  name: "Eran"
