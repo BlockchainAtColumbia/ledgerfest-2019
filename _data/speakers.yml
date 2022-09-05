@@ -328,7 +328,25 @@
   bio: ""
   thumbnailUrl: "veefriends.png" 
   rockstar: false
- 
+-
+  id: 38
+  name: "Uniswap"
+  surname: ""
+  company: ""
+  title: ""  
+  bio: ""
+  thumbnailUrl: "uniswap.png" 
+  rockstar: false
+-
+  id: 39
+  name: "Lido"
+  surname: ""
+  company: ""
+  title: ""  
+  bio: ""
+  thumbnailUrl: "lido.jpeg"
+  rockstar: false
+
 #
 #  id: 13
 #  name: "Eran"
