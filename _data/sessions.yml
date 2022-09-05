@@ -181,4 +181,14 @@
   id: 31
   title: "Happy Hour"
   description: "Happy Hour and Apetizers!"
+ - 
+  id: 32
+  title: "Targeted Workshop To Be Anounced"
+  description: ""
+  speakers: [22]
+ - 
+  id: 33
+  title: "Targeted Workshop To Be Anounced"
+  description: ""
+  speakers: [22]
   
