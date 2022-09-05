@@ -51,6 +51,15 @@
                                                         <span class="speaker-position">{{ speaker.company }}</span>
                                                     </p>
                                                     </li>
+                                        <ul class="slot-teammoderator">
+                                            {% for moderator in site.data.team %}
+                                                {% for session_moderator in session.teammoderator %}
+                                                    {% if session_moderator == team.id %}
+                                                    <li itemprop="performer"><div class="teammoderator-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: team.thumbnailUrl }})"></div>
+                                                    <p class="teammoderator-name">{{ moderator.name }} {{ team-moderator.surname }}
+                                                        <span class="teammoderator-position">{{ team.title }}</span>
+                                                    </p>
+                                                    </li>
                                                     {% endif %}
                                                 {% endfor %}    
                                             {% endfor %}
