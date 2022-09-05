@@ -31,7 +31,7 @@
   id: 5
   title: "MEV"
   description: "Maximal extractable value (MEV) refers to the maximum value that can be extracted from block production in excess of the standard block reward and gas fees by including, excluding, and changing the order of transactions in a block."
-  speakers: [6,19,101]
+  speakers: [6,19,32]
   complexity: "Expert"
   video: "//www.youtube.com/embed/mAmm51VHoL4"
  - 
@@ -45,7 +45,7 @@
   id: 7
   title: "Crypto X Regulations"
   description: ""
-  speakers: [24,25,2,17]
+  speakers: [24,25,2,17,33]
  -
   id: 8
   title: "DeFi vs CeFi"
@@ -113,7 +113,7 @@
   id: 20
   title: "Careers/Alumni"
   description: ""
-  speakers: [26] 
+  speakers: [26,31] 
  -
   id: 21
   title: "Targeted Workshop To Be Announced"
@@ -158,7 +158,7 @@
   id: 27
   title: "Why DAO's"
   description: "The best time to talk with speakers and attendees"
-  speakers: [23,29] 
+  speakers: [23,29,33] 
 
  -
   id: 28
