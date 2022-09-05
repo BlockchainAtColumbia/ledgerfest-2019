@@ -283,8 +283,8 @@
   surname: "Kilbourn"
   title: "Alumni Relations/Researcher"
   company: "Flashbots"
-  bio: ' '
-  thumbnailUrl: Quintuspfp.jpeg
+  bio: ''
+  thumbnailUrl: "Quintuspfp.jpeg"
 - 
   id: 33
   name: "Abraham"
@@ -292,7 +292,7 @@
   title: "LionDAO and Events"
   company: "Coterie Capital/Reidar DAO
   bio: ' '
-  thumbnailUrl: Abrahampfp.jpeg
+  thumbnailUrl: "Abrahampfp.jpeg"
  
 #
 #  id: 13
