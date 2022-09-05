@@ -310,7 +310,24 @@
   bio: ""
   thumbnailUrl: "polygon.png" 
   rockstar: false
-
+-
+  id: 36
+  name: "SuperRare"
+  surname: ""
+  company: ""
+  title: ""  
+  bio: ""
+  thumbnailUrl: "superrare.png" 
+  rockstar: false
+-
+  id: 37
+  name: "VeeFriends"
+  surname: ""
+  company: ""
+  title: ""  
+  bio: ""
+  thumbnailUrl: "veefriends.png" 
+  rockstar: false
  
 #
 #  id: 13
