@@ -8,27 +8,27 @@
     - {title: "The North Boardroom", color: "#e91e63"} 
   timeslots:
     - {
-    	startTime: "8am", 
-    	endTime: "10am",
+    	startTime: "8:00", 
+    	endTime: "10:00",
     	sessionIds: [1]
     }
     - {
-    	startTime: "9am",
-    	endTime: "10am",
+    	startTime: "9:00",
+    	endTime: "10:00",
     	sessionIds: [2]
     }
     - { 
-    	startTime: "10am",
-    	endTime: "11am",
+    	startTime: "10:00",
+    	endTime: "11:00",
     	sessionIds: [3,4,5,32]
     }
     - {
-    	startTime: "11am",
-    	endTime: "12pm",
+    	startTime: "11:00",
+    	endTime: "12:00",
     	sessionIds: [6,7,8,33]
     }
     - {
-    	startTime: "12pm",
+    	startTime: "12:00",
     	endTime: "1:00pm",
     	sessionIds: [9]
     }
