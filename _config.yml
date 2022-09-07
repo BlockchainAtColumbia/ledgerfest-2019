@@ -51,7 +51,7 @@ rightNavigationButtons:
  - {link: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537", text: "Register"}
 
 # Hero Block
-heroImage: "cuview.jpg"
+heroImage: "crypto_ny.jpg"
 heroTitle: "LedgerFest <typeout>"
 eventDate: "September 23rd, 2022"
 typeoutTextValues: '"", "2022"'
@@ -105,10 +105,10 @@ venueFeatures: ["All Rooms", "1 Liberty St, New York, NY 10006"]
 # Tweets Feed Block
 tweetsFeedImage: "EmpireSkyline.jpeg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "ledgerfest22"  
+twitterHashTag: "ledgerfest22"
 
 # Partners Block
-organizersTitle: "Organizers" 
+organizersTitle: "Organizers"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a Sponsor"
 buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
