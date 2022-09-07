@@ -1,4 +1,16 @@
  -
+   group: "Platinum Sponsors"
+   elements:
+     - {name: "Near", description: "Near", link: "https://near.org/", imageUrl: "Near.jpeg"}
+ -
+   group: "Gold Sponsors"
+   elements:
+     - {name: "", description: "", link: "", imageUrl: ""}
+ -
+   group: "Silver Sponsors"
+   elements:
+     - {name: "Lido", description: "Lido", link: "https://lido.fi/", imageUrl: "Lido.jpeg"}
+ -
   group: "Bronze Sponsors"
   elements:
     - {name: "Algorand", description: "Algorand", link: "https://www.algorand.com/", imageUrl: "Algorand_logo.jpeg"}
@@ -7,15 +19,3 @@
     - {name: "Commonwealth", description: "Commonwealth", link: "https://commonwealth.im/", imageUrl: "Commonwealth_Logo.jpeg"}
     - {name: "Galaxy", description: "Galaxy", link: "https://www.galaxy.com/", imageUrl: "Galaxy.jpeg"}
     - {name: "Manta Network", description: "Manta Network", link: "https://www.manta.network/", imageUrl: "Manta_Logo.jpeg"}
- -
-   group: "Silver Sponsors"
-   elements:
-     - {name: "Lido", description: "Lido", link: "https://lido.fi/", imageUrl: "Lido.jpeg"}
- -
-   group: "Gold Sponsors"
-   elements:
-     - {name: "", description: "", link: "", imageUrl: ""}
- -
-   group: "Platinum Sponsors"
-   elements:
-     - {name: "Near", description: "Near", link: "https://near.org/", imageUrl: "Near.jpeg"}
