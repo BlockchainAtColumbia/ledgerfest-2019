@@ -2,8 +2,9 @@
   id: 1
   name: "Tim"
   surname: "Roughgarden"
-  company: "Andreessen Horowitz/Columbia University"
-  title: "Head of Research/Professor of Computer Science"
+  company: "Head of Research @ Andreessen Horowitz"
+  title: "Professor @ Columbia University"
+  multiTitle: true
   bio: "For twenty years, as a researcher and computer science professor at Stanford and Columbia, Tim has led the development of Algorithmic Game Theory, a field that brings together ideas from Computer Science and Economics to solve real-world computing problems. He wrote the definitive textbooks and courses on the field. "
   thumbnailUrl: TimRoughgarden.jpg
   rockstar: true
@@ -12,7 +13,8 @@
   name: "Stuart D."
   surname: "Levi"
   company: "Skadden"
-  title: "Partner, Web3 and Digital Assets"
+  title: "Partner, Web3 and Digital Assets @"
+  multiTitle: true
   bio: 'Stuart D. Levi is co-head of the <a href="https://www.skadden.com/capabilities/practices/intellectual-property-and-technology/cc/intellectual-property-and-technology" target="_blank">Intellectual Property and Technology Group at Skadden</a>, and he coordinates the blockchain, outsourcing and privacy practices of the firm. Mr. Levi has been a recognized leader in the technology transaction field for over 30 years and has been named a National Law Journal Trailblazer in cryptocurrency, blockchain and fintech, as well as a Thought Leader by Who is Who Legal: Fintech & Blockchain 2021. He has a broad and diverse practice that includes advising on blockchain and digital asset matters (including NFTs), as well as on outsourcing transactions, technology and intellectual property licensing, fintech representations, privacy and cybersecurity, branding and distribution agreements, technology transfers, strategic alliances and joint ventures. His background in computer science and the information technology industry allows Mr. Levi to understand the technology and business drivers underlying transactions and agreements in these areas.'
   thumbnailUrl: Levi-Stuart.jpeg
   rockstar: false
@@ -23,14 +25,14 @@
   company: "Osmosis, Epicenter"
   title: "Co-Founder"
   bio: 'Sunny Aggarwal is a Co-Founder of <a href="https://messari.io/asset/osmosis/profile" target="_blank">Osmosis Labs</a>, a developer team building the Osmosis Zone AMM laboratory on the Cosmos SDK. Osmosis is an advanced Automated Market-Making (AMM) protocol focused on privacy, AMM design, and the rapidly expanding interchain. Privacy is a fundamental right, and to protect users from MEV (“Miner” Extractable Value), Osmosis is developing cutting-edge techniques to encrypt transactions in the mempool and assure fair execution without frontrunning. An OG of the industry, Sunny has been developing blockchain technologies since he was an engineering student at UC Berkeley, where he co-founded the world-renowned Blockchain at Berkeley student org.'
-  thumbnailUrl: SunnyArggwal.jpg 
+  thumbnailUrl: SunnyArggwal.jpg
   rockstar: true
 -
   id: 4
   name: "Jeff"
   surname: "Zirlin"
   company: "Axie Infinity"
-  title: "Co-Founder and Growth Lead"
+  title: "Co-Founder and Growth Lead @"
   bio: "Jeff AKA 'Jihoz' is responsible for growth and community development. He also spearheads token design and works closely with the product team. Jeff grew up collecting fossils and insects; he uses this experience when thinking about the collector side of NFTS. Jeff was a member of a top-ranked USA Horde guild in vanilla World of Warcraft; he spent much of his childhood/adolescence in raids. Academically, he studied military and economic history at Yale where he wrote his thesis on the ideological origins of Alexander Hamilton's debt restructuring plan."
   thumbnailUrl: jiho-profile-pic-Albert-Takagi-e1654329484387-680x680.jpeg
   rockstar: false
@@ -74,7 +76,7 @@
   id: 9
   name: "Paul"
   surname: "Lei"
-  company: ""
+  company: "Gauntlet"
   title: "Protocol Program Manager"
   bio: "Before joining Gauntlet, Paul was an investment banker at Goldman Sachs where he was responsible for covering clients in the financial services sector. Paul graduated from Harvard with a degree in Statistics."
   thumbnailUrl: PaulLeiDrawing.jpeg
@@ -93,7 +95,7 @@
   name: "Shumo"
   surname: "Chu"
   company: "Manta Network"
-  title: "Founder and CEO, Manta Network"
+  title: "Founder, CEO"
   bio: 'Shumo co-founded <a href="https://www.manta.network/" target="_blank">Manta Network</a> with a goal of building the next generation of privacy preserving blockchain systems. Prior to Web3, Shumo graudated as a PhD from University of Washington Computer Science and Engineering, where he was advised by the great Dan Suciu.'
   thumbnailUrl: shumo-chu.jpeg
   rockstar: false
@@ -101,7 +103,7 @@
   id: 12
   name: "Tal"
   surname: "Rabin"
-  company: "Algorand Centre for Excellence"
+  company: "Algorand Foundation"
   title: "Head of Research"
   bio: 'Tal Rabin is the Head of Research at <a href="https://www.algorand.foundation/" target="_blank">Algorand Foundation</a>. Prior to joining the foundation Tal was a Distinguished Research Staff Member and the Manager of the Cryptographic Research Group at the IBM T.J. Watson Research Center. Her research focuses on the general area of cryptography and more specifically on secure multiparty computation and privacy preserving computations. She has a Ph.D. from the Hebrew University. Rabin is an ACM Fellow, an IACR (International Association of Cryptologic Research) Fellow and member of the American Academy of Arts and Sciences. She was named by Forbes as one of the Top 50 Women in Tech, 2018. She has served as the Program and General Chair of leading cryptography conferences and is an Editor of the Journal of Cryptology. At RSA Conference 2019, Tal was the recipient of the RSAC Award for Excellence in Mathematics.'
   thumbnailUrl: trabin.jpeg
@@ -129,7 +131,8 @@
   name: "Yorke"
   surname: "Rhodes"
   company: "Abacus Network"
-  title: "Smart Contract Engineer"
+  title: "Smart Contract Engineer@"
+  multiTitle: true
   bio: 'Yorke is a Smart Contract Enginner focused on distributed systems, cryptography, and economics to build a trustless future. Before Abacus, Yorke held positions at <a href="https://gauntlet.network/" target="_blank">Gauntlet</a>, <a href="https://celo.org/" target="_blank">Celo</a>, and <a href="https://consensys.net/" target="_blank">Consensys</a>. He graduated from Rice University with a BSE in Computer Science.'
   thumbnailUrl: YorkeRhodes.jpeg
   rockstar: false
@@ -138,7 +141,8 @@
   name: "George"
   surname: "Beall"
   company: "Commonwealth"
-  title: "Head of Business and Operations"
+  title: "Head of Business and Operations @"
+  multiTitle: true
   bio: "George Beall is the Head of Business and Operations for Commonwealth. Commonwealth is a leading DAO tooling company with 60K+ users and 700+ DAOs. Beall previously co-founded Everipedia."
   thumbnailUrl: GeorgeBeall.jpg
   rockstar: false
@@ -147,7 +151,8 @@
   name: "Alexander C."
   surname: "Drylewski"
   company: "Skadden"
-  title: "Partner, Complex Litigiation and Trials"
+  title: "Partner, Co-Chair, Web3 and Digital Assets @"
+  multiTitle: true
   bio: 'Alex Drylewski is co-chair of the <a href="https://www.skadden.com/capabilities/practices/web3-and-digital-assets" target="_blank">Skadden Web3 and Digital Assets Group</a>. His practice focuses on high-stakes complex commercial litigation around the world, and he has represented companies and individuals across nearly every type of industry and dispute, including high-profile commercial litigation involving emerging technologies, government investigations, securities class actions, trials and appeals.'
   thumbnailUrl: drylewski_alex.jpeg
   rockstar: false
@@ -155,8 +160,9 @@
   id: 18
   name: "Jenny"
   surname: "Fielding"
-  company: "The Fund"
-  title: "General Partner"
+  company: "General Partner @ The Fund"
+  title: "Professor @ Columbia University"
+  multiTitle: true
   bio: "Jenny Fielding is a pre-seed investor and startup coach to hundreds of founders around the world. She's a 2x entrepreneur and knows the challenges it takes to build a great company. Some of her portofolio companies include: Latch (LTCH), Chainalysis, Tempo Automation, Alloy, Headway, Supergreat, Contra, Particle Health, Bloomscape, Simple Health, Pair Eyewear, Solo Funds, Halp, Minded, Talent Hack, Rupa Health, Morty, Wagmo, Smarthop, Solid, Remesh, Cube, Dash, OnePipe, Union Crate, Parsley and many more! Fielding is currently an Adjunct Professor at Columbia University."
   thumbnailUrl: JennyFielding.jpeg
   rockstar: false
@@ -183,7 +189,7 @@
   name: "0xbrainjar"
   surname: ""
   company: "Composable Finance"
-  title: "Founder and CEO"
+  title: "Founder, CEO"
   bio: '0xbrainjar is the founder and CEO of <a href="https://www.composable.finance/" target="_blank">Composable Finance</a>. He is the anchor that ties together the complex thinking, deep understanding and technical expertise demanded of our ambitious goal to make DeFi readily accessible to all innovations and truly arrive at interoperability.'
   thumbnailUrl: 0xbrainjar.jpeg
   rockstar: false
@@ -200,8 +206,9 @@
   id: 28
   name: "Aditi"
   surname: "Sriram"
-  company: "Celestia<>Bain Crypto"
-  title: "Product Manger and Scout"
+  company: "Celestia <> Bain Crypto"
+  title: "Product Manger, Scout @"
+  multiTitle: true
   bio: "Former product manager at The Graph and ConsenSys, with a background in developer growth"
   thumbnailUrl: "Aditi.jpg"
   rockstar: false
@@ -246,9 +253,9 @@
   name: "Speaker TBD"
   surname: ""
   company: ""
-  title: ""  
+  title: ""
   bio: ""
-  thumbnailUrl: "LionEmoji.jpeg" 
+  thumbnailUrl: "LionEmoji.jpeg"
   rockstar: false
 -
   id: 30
@@ -268,73 +275,73 @@
   bio: 'Amit Mukherjee is the founder of <a href="https://mobile.twitter.com/chainforestxyz" target="_blank">Chainforest</a>, a community-native VC fund supported by a group of 400 exceptional, curated web3 natives. Amit also is the Treasury Co-Lead at Friends With Benefits. Before going all-in on web3, Amit Mukherjee was the youngest Partner at the multi-billion dollar VC firm NEA, where he was named to the Forbes 30under30 list and invested in companies such as Duolingo, Masterclass, Uber, Snap and Bytedance.'
   thumbnailUrl: "AmitMukherjee.jpeg"
   rockstar: false
--
-  id: 31
-  name: "Noel"
-  surname: "Turlington"
-  company: "Student"
-  title: "Club President and Defi Governance Lead"
-  bio: ''
-  thumbnailUrl: "1646197814496.jpeg"
-  rockstar: false
-- 
-  id: 32
-  name: "Quintus"
-  surname: "Kilbourn"
-  title: "Alumni Relations/Researcher"
-  company: "Flashbots"
-  bio: ''
-  thumbnailUrl: "Quintuspfp.jpeg"
-- 
-  id: 33
-  name: "Abraham"
-  surname: "Logan"
-  title: "LionDAO and Events"
-  company: "Coterie Capital/Reidar DAO"
-  bio: ' '
-  thumbnailUrl: "Abrahampfp.jpeg"
+# -
+#   id: 31
+#   name: "Noel"
+#   surname: "Turlington"
+#   company: "Student"
+#   title: "Club President and Defi Governance Lead"
+#   bio: ''
+#   thumbnailUrl: "1646197814496.jpeg"
+#   rockstar: false
+# -
+#   id: 32
+#   name: "Quintus"
+#   surname: "Kilbourn"
+#   title: "Alumni Relations/Researcher"
+#   company: "Flashbots"
+#   bio: ''
+#   thumbnailUrl: "Quintuspfp.jpeg"
+# -
+#   id: 33
+#   name: "Abraham"
+#   surname: "Logan"
+#   title: "LionDAO and Events"
+#   company: "Coterie Capital/Reidar DAO"
+#   bio: ' '
+#   thumbnailUrl: "Abrahampfp.jpeg"
 -
   id: 35
   name: "Polygon"
   surname: ""
   company: "Polygon"
-  title: ""  
+  title: ""
   bio: ""
-  thumbnailUrl: "polygon.png" 
+  thumbnailUrl: "polygon.png"
   rockstar: false
 -
   id: 36
   name: "SuperRare"
   surname: ""
   company: ""
-  title: ""  
+  title: ""
   bio: ""
-  thumbnailUrl: "superrare.png" 
+  thumbnailUrl: "superrare.png"
   rockstar: false
 -
   id: 37
   name: "VeeFriends"
   surname: ""
   company: ""
-  title: ""  
+  title: ""
   bio: ""
-  thumbnailUrl: "veefriends.png" 
+  thumbnailUrl: "veefriends.png"
   rockstar: false
 -
   id: 38
   name: "Uniswap"
   surname: ""
   company: ""
-  title: ""  
+  title: ""
   bio: ""
-  thumbnailUrl: "uniswap.png" 
+  thumbnailUrl: "uniswap.png"
   rockstar: false
 -
   id: 39
   name: "Lido"
   surname: ""
   company: ""
-  title: ""  
+  title: ""
   bio: ""
   thumbnailUrl: "lido.jpeg"
   rockstar: false
