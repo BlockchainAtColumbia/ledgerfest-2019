@@ -145,7 +145,6 @@ socialLinks:
  - {link: "https://www.facebook.com/BlockchainatColumbia/?ref=bookmarks", icon: "facebook"}
  - {link: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537", icon: "rss"}
  - {link: "https://blockchainatcolumbia.org/", icon: "site"}
- - {link: "https://blockchainatcolumbia.org/", icon: "site"}
 footerBlocks:
  -
   title: "Links"
