@@ -2,7 +2,7 @@
   id: 1
   name: "Tim"
   surname: "Roughgarden"
-  company: 'Head of Research @ <a href="https://a16z.com/" target="_blank"> a16z </a> '
+  company: "Head of Research @ Andreessen Horowitz"
   title: "Professor @ Columbia University"
   multiTitle: true
   bio: "For twenty years, as a researcher and computer science professor at Stanford and Columbia, Tim has led the development of Algorithmic Game Theory, a field that brings together ideas from Computer Science and Economics to solve real-world computing problems. He wrote the definitive textbooks and courses on the field. "
@@ -22,18 +22,17 @@
   id: 3
   name: "Sunny"
   surname: "Aggarwal"
-  company: '<a href="https://osmosis.zone/" target="_blank">Osmosis,</a> <a href="https://epicenter.tv/" target="_blank">Epicenter</a>'
+  company: "Osmosis, Epicenter"
   title: "Co-Founder"
   bio: 'Sunny Aggarwal is a Co-Founder of <a href="https://messari.io/asset/osmosis/profile" target="_blank">Osmosis Labs</a>, a developer team building the Osmosis Zone AMM laboratory on the Cosmos SDK. Osmosis is an advanced Automated Market-Making (AMM) protocol focused on privacy, AMM design, and the rapidly expanding interchain. Privacy is a fundamental right, and to protect users from MEV (“Miner” Extractable Value), Osmosis is developing cutting-edge techniques to encrypt transactions in the mempool and assure fair execution without frontrunning. An OG of the industry, Sunny has been developing blockchain technologies since he was an engineering student at UC Berkeley, where he co-founded the world-renowned Blockchain at Berkeley student org.'
   thumbnailUrl: SunnyArggwal.jpg
   rockstar: true
 -
   id: 4
-  name: "Jeff" 
+  name: "Jeff"
   surname: "Zirlin"
-  company: '<a href="https://axieinfinity.com/" target="_blank">Axie Infinity</a>'
-  title: "Co-Founder and Growth Lead @ Axie Infinity"
-  multiTitle: true
+  company: "Axie Infinity"
+  title: "Co-Founder and Growth Lead @"
   bio: "Jeff AKA 'Jihoz' is responsible for growth and community development. He also spearheads token design and works closely with the product team. Jeff grew up collecting fossils and insects; he uses this experience when thinking about the collector side of NFTS. Jeff was a member of a top-ranked USA Horde guild in vanilla World of Warcraft; he spent much of his childhood/adolescence in raids. Academically, he studied military and economic history at Yale where he wrote his thesis on the ideological origins of Alexander Hamilton's debt restructuring plan."
   thumbnailUrl: jiho-profile-pic-Albert-Takagi-e1654329484387-680x680.jpeg
   rockstar: false
@@ -98,7 +97,7 @@
   company: "Manta Network"
   title: "Founder, CEO"
   bio: 'Shumo co-founded <a href="https://www.manta.network/" target="_blank">Manta Network</a> with a goal of building the next generation of privacy preserving blockchain systems. Prior to Web3, Shumo graudated as a PhD from University of Washington Computer Science and Engineering, where he was advised by the great Dan Suciu.'
-  thumbnailUrl: "Shumo.jpg"
+  thumbnailUrl: shumo-chu.jpeg
   rockstar: false
 -
   id: 12
@@ -359,7 +358,7 @@
   id: 41
   name: "Maher"
   surname: "Latif"
-  company: '<a href="https://www.jumptrading.com/" target="_blank">Jump Trading</a>'
+  company: 'Jump Trading'
   title: "Researcher"
   bio: 'Maher Latif researcher at <a href="https://www.jumptrading.com/" target="_blank">Jump Trading</a>.'
   thumbnailUrl: "MaheerLatif.jpg"
@@ -368,16 +367,16 @@
   id: 42
   name: "Joe"
   surname: "Howarth"
-  company: '<a href="https://www.jumptrading.com/" target="_blank">Jump Trading</a>'
+  company: 'Jump Trading'
   title: ""
   bio: ''
-  thumbnailUrl: "JoeHowarth.jpg"
+  thumbnailUrl: "JowHowarth.jpg"
   rockstar: false
 -
   id: 43
   name: "Rahul"
   surname: "Maganti"
-  company: '<a href="https://www.jumptrading.com/" target="_blank">Jump Trading</a>'
+  company: 'Jump Trading'
   title: ""
   bio: ''
   thumbnailUrl: "RahulMaganti.jpg"
