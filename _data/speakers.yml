@@ -33,6 +33,7 @@
   surname: "Zirlin"
   company: '<a href="https://axieinfinity.com/" target="_blank">Axie Infinity</a>'
   title: "Co-Founder and Growth Lead @ Axie Infinity"
+  multiTitle: true
   bio: "Jeff AKA 'Jihoz' is responsible for growth and community development. He also spearheads token design and works closely with the product team. Jeff grew up collecting fossils and insects; he uses this experience when thinking about the collector side of NFTS. Jeff was a member of a top-ranked USA Horde guild in vanilla World of Warcraft; he spent much of his childhood/adolescence in raids. Academically, he studied military and economic history at Yale where he wrote his thesis on the ideological origins of Alexander Hamilton's debt restructuring plan."
   thumbnailUrl: jiho-profile-pic-Albert-Takagi-e1654329484387-680x680.jpeg
   rockstar: false
