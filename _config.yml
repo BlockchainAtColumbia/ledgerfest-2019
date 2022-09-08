@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "LedgerFest 2022"
 email: "blockchain@columbia.edu"
-description: "LedgerFest is Blockchain@Columbia's annual crypto conference."
+description: "LedgerFest is B@C's annual crypto conference."
 baseurl: ""
 url: "https://ledgerfest.info"
 permalink: "/blog/:title"
@@ -27,7 +27,7 @@ organizerLink: "https://blockchainatcolumbia.org/"
 
 # Head
 metaKeywords: "blockchain, conference,LedgerFest,Web3,Crypto"
-twitterAccount: "@DevFest"
+twitterAccount: "@BlockchainatCU"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcTelegram: "/img/seo/sharing-telegram.png"
@@ -53,7 +53,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "Ledgerfest blue.jpeg"
 heroTitle: "LedgerFest <typeout>"
-eventDate: "September 23rd, 2022"
+eventDate: "September 23rd"
 typeoutTextValues: '"", "2022"'
 typeoutFallback: "2022"
 heroButtons:
