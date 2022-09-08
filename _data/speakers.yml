@@ -97,7 +97,7 @@
   company: "Manta Network"
   title: "Founder, CEO"
   bio: 'Shumo co-founded <a href="https://www.manta.network/" target="_blank">Manta Network</a> with a goal of building the next generation of privacy preserving blockchain systems. Prior to Web3, Shumo graudated as a PhD from University of Washington Computer Science and Engineering, where he was advised by the great Dan Suciu.'
-  thumbnailUrl: shumo-chu.jpeg
+  thumbnailUrl: Shumo.jpg
   rockstar: false
 -
   id: 12
@@ -370,7 +370,7 @@
   company: 'Jump Trading'
   title: ""
   bio: ''
-  thumbnailUrl: "JowHowarth.jpg"
+  thumbnailUrl: "JoeHowarth.jpg"
   rockstar: false
 -
   id: 43
