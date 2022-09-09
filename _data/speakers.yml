@@ -354,8 +354,8 @@
   name: "Lucien"
   surname: "Smith"
   company: "Lobus"
-  title: "Director of Cultural Innovations Lab"
-  multiTitle: false
+  title: "Director of Cultural Innovations Lab @"
+  multiTitle: true
   bio: 'Shortly after earning a Fine Art degree from The Cooper Union, Lucien quickly rose to fame for his mostly abstract paintings which received international success and praise. The New York Times named him “the art world wunderkind”, Vanity Fair called him the “Art World Darling”, and Forbes featured Smith in their 30 Under 30 list two years in a row in 2013 and 2014. His work has been exhibited in galleries across the world and fetched six figure sums in auction houses such as Sothebys and Christies. Following the seemingly overnight success, Smith battled with some of the pitfalls of gaining notoriety at a young age. It was during this time that he launched Serving the People, a non-profit incubator whose mission is to provide young artists with opportunity and support. In 2021, Smith joined <a href="https://www.lobus.io/" target="_blank">Lobus</a> as the Director of NFTs and Cultural Innovation Lab. Lobus is an equity management firm currently handling over $9 billion worth of art assets. They aim to leverage blockchain technology into their asset management model in order to help clients collect automatic payments on the secondary market through NFT smart contracts and fractionalized ownership. Nowadays, Smith splits time between NYC and his secluded workshop/home in Montauk.'
   thumbnailUrl: "lucien.png"
   rockstar: false
