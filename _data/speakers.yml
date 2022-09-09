@@ -318,9 +318,9 @@
   id: 36
   name: "Vinny"
   surname: "Valenzuela"
-  company: "SuperRare"
+  company: "SuperRare Labs"
   title: "Managing Editor"
-  bio: 'Virginia Valenzuela is the Managing Editor at SuperRare Magazine, where she writes and commissions pieces on NFT artists and topics related to Web3 and the metaverse. Based in New York, her writing has been published in Wired, The Independent, High Times, Right Click Save, and the Best American Poetry Blog. She received a dual MFA in Creative Writing from the New School, where she was Research Assistant to David Lehman. She was also recently awarded the 2022 Future Art Writers Award from MOZAIK Philanthropy, and invited as a juror for their next exhibition, “The Digital Awakening.” She is currently tokenizing her poetry and writing her debut novel.'
+  bio: 'Virginia Valenzuela is the Managing Editor at <a href="https://superrare.com/magazine/" target="_blank">SuperRare Magazine</a>, where she writes and commissions pieces on NFT artists and topics related to Web3 and the metaverse. Based in New York, her writing has been published in Wired, The Independent, High Times, Right Click Save, and the Best American Poetry Blog. She received a dual MFA in Creative Writing from the New School, where she was Research Assistant to David Lehman. She was also recently awarded the 2022 Future Art Writers Award from MOZAIK Philanthropy, and invited as a juror for their next exhibition, “The Digital Awakening.” She is currently tokenizing her poetry and writing her debut novel.'
   thumbnailUrl: "Vinny.jpg"
   rockstar: false
 -
@@ -375,8 +375,8 @@
   name: "Joe"
   surname: "Howarth"
   company: 'Jump Trading'
-  title: ""
-  bio: ''
+  title: "Research and Development"
+  bio: 'Joe Howarth contributes to R&D efforts at <a href="https://www.jumptrading.com/" target="_blank">Jump Trading</a>. He’s focused on cross-chain applications powered by the Wormhole Network - particularly solving generic relaying of contract invocations to and from Solana. Outside of crypto, Joe has a long-standing love of agent-based historical society simulation, pure functional programming and skiing.'
   thumbnailUrl: "JoeHowarth.jpg"
   rockstar: false
 -
@@ -455,7 +455,7 @@
   company: "Galaxy" 
   title: "Mining Analyst" 
   multiTitle: false 
-  bio: 'Simrit is an Analyst on Galaxy’s Mining team. He previously worked at Citigroup as an Analyst on the US Treasury trading desk and Agency CMBS trading desk where he priced and hedged various types of trades in both markets. Simrit graduated from Carnegie Mellon University with a major in Finance and minor in Computer Science.'
+  bio: 'Simrit is an Analyst on <a href="https://www.galaxy.com/" target="_blank">Galaxy's</a> Mining team. He previously worked at Citigroup as an Analyst on the US Treasury trading desk and Agency CMBS trading desk where he priced and hedged various types of trades in both markets. Simrit graduated from Carnegie Mellon University with a major in Finance and minor in Computer Science.'
   thumbnailUrl: Simrit.png
   rockstar: false
  
