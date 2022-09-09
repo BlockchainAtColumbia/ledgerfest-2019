@@ -41,7 +41,7 @@
   id: 6
   title: "Keynote"
   description: "To Be Announced"
-  speakers: [41]
+  speakers: [44]
   complexity: "Beginner to Intermediate"
  -
   id: 7 
@@ -175,7 +175,7 @@
   id: 30
   title: "Keynote"
   description: "To Be Announced"
-  speakers: [44]
+  speakers: [41]
   complexity: "Beginner to Intermediate"
  -
   id: 31
