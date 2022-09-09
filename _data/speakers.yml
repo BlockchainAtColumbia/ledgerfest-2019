@@ -40,8 +40,8 @@
   id: 5
   name: "Marieke"
   surname: "Flament"
-  company: "NEAR Foundation"
-  title: "CEO @"
+  company: "CEO @ NEAR Foundation"
+  title: ""
   multiTitle: true
   bio: "Marieke is a French-born computer engineer who has worked across the globe in a diverse range of companies from the luxury giant LVMH of Louis Vuitton fame to Boston Consulting Group and Expedia's Hotels.com and crypto giant Circle. At Hotels.com she was in charge of Europe, Middle East and Africa Region, a $2bn P&L. In her last role she was Managing Director of Europe and Global CMO for Circle, one of the largest crypto company. At Circle she pioneered the consumer application of blockchain taking to market several products, building from scratch a user base of over 2M users in less than 2 years. She also helped move the blockchain agenda forward working with key decision makers, including governments and financial policy makers across Europe."
   thumbnailUrl: marieke-flament-headshot.jpeg
@@ -359,8 +359,8 @@
   id: 41
   name: "Maher"
   surname: "Latif"
-  company: 'Jump Crypto'
-  title: "Researcher @"
+  company: 'Researcher @ Jump Crypto'
+  title: ""
   multiTitle: true
   bio: 'Maher Latif researcher at <a href="https://www.jumptrading.com/" target="_blank">Jump Trading</a>.'
   thumbnailUrl: "MaheerLatif.jpg"
@@ -387,8 +387,8 @@
   id: 44
   name: "Mihalio"
   surname: "Bjelic"
-  company: 'Polygon'
-  title: "Co-Founder @"
+  company: 'Co-Founder @ Polygon'
+  title: ""
   multiTitle: true
   bio: ''
   thumbnailUrl: MihalioBjelic.jpg
