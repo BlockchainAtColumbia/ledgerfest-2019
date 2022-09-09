@@ -41,8 +41,8 @@
   id: 5
   name: "Marieke"
   surname: "Flament"
-  company: "NEAR Foundation"
-  title: "CEO"
+  company: "CEO @ NEAR Foundation"
+  title: ""
   multiTitle: false
   bio: "Marieke is a French-born computer engineer who has worked across the globe in a diverse range of companies from the luxury giant LVMH of Louis Vuitton fame to Boston Consulting Group and Expedia's Hotels.com and crypto giant Circle. At Hotels.com she was in charge of Europe, Middle East and Africa Region, a $2bn P&L. In her last role she was Managing Director of Europe and Global CMO for Circle, one of the largest crypto company. At Circle she pioneered the consumer application of blockchain taking to market several products, building from scratch a user base of over 2M users in less than 2 years. She also helped move the blockchain agenda forward working with key decision makers, including governments and financial policy makers across Europe."
   thumbnailUrl: marieke-flament-headshot.jpeg
@@ -392,8 +392,8 @@
   id: 44
   name: "Mihalio"
   surname: "Bjelic"
-  company: 'Polygon'
-  title: "Co-founder"
+  company: 'Co-founder @ Polygon'
+  title: ""
   multiTitle: false
   bio: ''
   thumbnailUrl: MihalioBjelic.jpg
@@ -403,7 +403,7 @@
   name: "Sergey"
   surname: "Gorbunov"
   company: "Axelar"
-  title: "CEO and Co-Founder"
+  title: "CEO and Co-founder"
   multiTitle: false
   bio: 'Sergey is the co-founder and CEO of <a href="https://axelar.network/" target="_blank">Axelar</a>, a decentralized blockchain interoperability network. He received a Ph.D. from MIT, where he was a Microsoft Ph.D. fellow. His Ph.D. dissertation was on designing cryptographic tools for the cloud using lattice-based cryptography for which he received the Sprowls Doctoral Thesis Award for best thesis in CS at MIT. Sergey is a co-author of many cryptographic protocols, standards, and systems. He is an Assistant Professor at the University of Waterloo and was on the founding team of Algorand, where he worked on the core platform design and development and led the cryptography group.'
   thumbnailUrl: "SergeyGorbunov.jpg"
