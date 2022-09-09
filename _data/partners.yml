@@ -3,7 +3,7 @@
    elements:
      - {name: "Near", description: "Near", link: "https://near.org/", imageUrl: "Near.jpeg"}
      - {name: "Jane Street", description: "Jane Street", link: "https://www.janestreet.com/", imageUrl: "janestreet.jpeg"}
-     - {name: "Jump Crypto", description: "Jump Crypto", link: "https://jumpcrypto.com/", imageUrl: "Jump.jpeg"}
+     - {name: "Jump Crypto", description: "Jump Crypto", link: "https://jumpcrypto.com/", imageUrl: "Color@2x.png"}
  -
    group: "Gold Sponsors"
    elements:
