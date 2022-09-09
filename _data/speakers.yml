@@ -361,7 +361,7 @@
   surname: "Latif"
   company: 'Researcher @ Jump Crypto'
   title: ""
-  multiTitle: true
+  multiTitle: false
   bio: 'Maher Latif researcher at <a href="https://www.jumptrading.com/" target="_blank">Jump Trading</a>.'
   thumbnailUrl: "MaheerLatif.jpg"
   rockstar: True
@@ -389,7 +389,7 @@
   surname: "Bjelic"
   company: 'Co-Founder @ Polygon'
   title: ""
-  multiTitle: true
+  multiTitle: false
   bio: ''
   thumbnailUrl: MihalioBjelic.jpg
   rockstar: true
