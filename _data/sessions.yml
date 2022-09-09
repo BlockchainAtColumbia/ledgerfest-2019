@@ -44,7 +44,7 @@
   speakers: [41]
   complexity: "Beginner to Intermediate"
  -
-  id: 7
+  id: 7 
   title: "Crypto X Regulations"
   description: ""
   speakers: [24,25,17,33]
@@ -115,7 +115,7 @@
   id: 20
   title: "Careers/Alumni"
   description: ""
-  speakers: [26,31]
+  speakers: [26,48]
  -
   id: 21
   title: "Targeted Workshop To Be Announced"
