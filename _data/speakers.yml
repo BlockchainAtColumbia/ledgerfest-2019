@@ -2,14 +2,14 @@
   id: 1
   name: "Tim"
   surname: "Roughgarden"
-  company: "Head of Research @ Andreessen Horowitz"
+  company: "Head of Research @ a16z"
   title: "Professor @ Columbia University"
   multiTitle: true
   bio: "For twenty years, as a researcher and computer science professor at Stanford and Columbia, Tim has led the development of Algorithmic Game Theory, a field that brings together ideas from Computer Science and Economics to solve real-world computing problems. He wrote the definitive textbooks and courses on the field. "
   thumbnailUrl: TimRoughgarden.jpg
   rockstar: true
 -
-  id: 2
+  id: 2 
   name: "Stuart D."
   surname: "Levi"
   company: "Skadden"
@@ -26,13 +26,14 @@
   title: "Co-Founder"
   bio: 'Sunny Aggarwal is a Co-Founder of <a href="https://messari.io/asset/osmosis/profile" target="_blank">Osmosis Labs</a>, a developer team building the Osmosis Zone AMM laboratory on the Cosmos SDK. Osmosis is an advanced Automated Market-Making (AMM) protocol focused on privacy, AMM design, and the rapidly expanding interchain. Privacy is a fundamental right, and to protect users from MEV (“Miner” Extractable Value), Osmosis is developing cutting-edge techniques to encrypt transactions in the mempool and assure fair execution without frontrunning. An OG of the industry, Sunny has been developing blockchain technologies since he was an engineering student at UC Berkeley, where he co-founded the world-renowned Blockchain at Berkeley student org.'
   thumbnailUrl: SunnyArggwal.jpg
-  rockstar: true
+  rockstar: false
 -
   id: 4
   name: "Jeff"
   surname: "Zirlin"
   company: "Axie Infinity"
   title: "Co-Founder and Growth Lead @"
+  multiTitle: true
   bio: "Jeff AKA 'Jihoz' is responsible for growth and community development. He also spearheads token design and works closely with the product team. Jeff grew up collecting fossils and insects; he uses this experience when thinking about the collector side of NFTS. Jeff was a member of a top-ranked USA Horde guild in vanilla World of Warcraft; he spent much of his childhood/adolescence in raids. Academically, he studied military and economic history at Yale where he wrote his thesis on the ideological origins of Alexander Hamilton's debt restructuring plan."
   thumbnailUrl: jiho-profile-pic-Albert-Takagi-e1654329484387-680x680.jpeg
   rockstar: false
@@ -42,6 +43,7 @@
   surname: "Flament"
   company: "NEAR Foundation"
   title: "CEO"
+  multiTitle: true
   bio: "Marieke is a French-born computer engineer who has worked across the globe in a diverse range of companies from the luxury giant LVMH of Louis Vuitton fame to Boston Consulting Group and Expedia's Hotels.com and crypto giant Circle. At Hotels.com she was in charge of Europe, Middle East and Africa Region, a $2bn P&L. In her last role she was Managing Director of Europe and Global CMO for Circle, one of the largest crypto company. At Circle she pioneered the consumer application of blockchain taking to market several products, building from scratch a user base of over 2M users in less than 2 years. She also helped move the blockchain agenda forward working with key decision makers, including governments and financial policy makers across Europe."
   thumbnailUrl: marieke-flament-headshot.jpeg
   rockstar: true
@@ -77,7 +79,8 @@
   name: "Paul"
   surname: "Lei"
   company: "Gauntlet"
-  title: "Protocol Program Manager"
+  title: "Protocol Program Manager @"
+  multiTitle: true
   bio: "Before joining Gauntlet, Paul was an investment banker at Goldman Sachs where he was responsible for covering clients in the financial services sector. Paul graduated from Harvard with a degree in Statistics."
   thumbnailUrl: PaulLeiDrawing.jpeg
   rockstar: false
@@ -97,7 +100,7 @@
   company: "Manta Network"
   title: "Founder, CEO"
   bio: 'Shumo co-founded <a href="https://www.manta.network/" target="_blank">Manta Network</a> with a goal of building the next generation of privacy preserving blockchain systems. Prior to Web3, Shumo graudated as a PhD from University of Washington Computer Science and Engineering, where he was advised by the great Dan Suciu.'
-  thumbnailUrl: shumo-chu.jpeg
+  thumbnailUrl: Shumo.jpg
   rockstar: false
 -
   id: 12
@@ -105,9 +108,10 @@
   surname: "Rabin"
   company: "Algorand Foundation"
   title: "Head of Research"
+  multiTitle: false
   bio: 'Tal Rabin is the Head of Research at <a href="https://www.algorand.foundation/" target="_blank">Algorand Foundation</a>. Prior to joining the foundation Tal was a Distinguished Research Staff Member and the Manager of the Cryptographic Research Group at the IBM T.J. Watson Research Center. Her research focuses on the general area of cryptography and more specifically on secure multiparty computation and privacy preserving computations. She has a Ph.D. from the Hebrew University. Rabin is an ACM Fellow, an IACR (International Association of Cryptologic Research) Fellow and member of the American Academy of Arts and Sciences. She was named by Forbes as one of the Top 50 Women in Tech, 2018. She has served as the Program and General Chair of leading cryptography conferences and is an Editor of the Journal of Cryptology. At RSA Conference 2019, Tal was the recipient of the RSAC Award for Excellence in Mathematics.'
   thumbnailUrl: trabin.jpeg
-  rockstar: true
+  rockstar: false
 -
   id: 13
   name: "Sreeram"
@@ -131,7 +135,7 @@
   name: "Yorke"
   surname: "Rhodes"
   company: "Abacus Network"
-  title: "Smart Contract Engineer@"
+  title: "Smart Contract Engineer @"
   multiTitle: true
   bio: 'Yorke is a Smart Contract Enginner focused on distributed systems, cryptography, and economics to build a trustless future. Before Abacus, Yorke held positions at <a href="https://gauntlet.network/" target="_blank">Gauntlet</a>, <a href="https://celo.org/" target="_blank">Celo</a>, and <a href="https://consensys.net/" target="_blank">Consensys</a>. He graduated from Rice University with a BSE in Computer Science.'
   thumbnailUrl: YorkeRhodes.jpeg
@@ -262,7 +266,8 @@
   name: "Raghu"
   surname: "Hariharan"
   company: "OpenSea"
-  title: "Creator Marketing & Product Marketing"
+  title: "Head of Creator Marketing @"
+  multiTitle: true
   bio: 'Raghu leads the Creator Marketing & Product Marketing teams at <a href="https://opensea.io/" target="_blank">OpenSea</a>. He is passionate about building monetization mechanisms that reward the people & teams creating content beloved by millions. Prior to OpenSea, he spent nearly 6 years at Meta building out product, marketing & strategy teams focused on Facebook, focused particularly on unlocking value for long tail & emerging creator talent. Raghu earned an MBA from the Wharton School of the University of Pennsylvania and a BA from Washington University in St. Louis. Raghu lives in NYC with his family & spends his free time running up and down the West Side Highway, learning Spanish & experimenting with new cookbooks.'
   thumbnailUrl: "RaghuHariharan.jpeg"
   rockstar: false
@@ -350,11 +355,111 @@
   name: "Lucien"
   surname: "Smith"
   company: "Lobus"
-  title: ""
+  title: "Director of Cultural Innovations Lab @"
+  multiTitle: true
   bio: 'Shortly after earning a Fine Art degree from The Cooper Union, Lucien quickly rose to fame for his mostly abstract paintings which received international success and praise. The New York Times named him “the art world wunderkind”, Vanity Fair called him the “Art World Darling”, and Forbes featured Smith in their 30 Under 30 list two years in a row in 2013 and 2014. His work has been exhibited in galleries across the world and fetched six figure sums in auction houses such as Sothebys and Christies. Following the seemingly overnight success, Smith battled with some of the pitfalls of gaining notoriety at a young age. It was during this time that he launched Serving the People, a non-profit incubator whose mission is to provide young artists with opportunity and support. In 2021, Smith joined <a href="https://www.lobus.io/" target="_blank">Lobus</a> as the Director of NFTs and Cultural Innovation Lab. Lobus is an equity management firm currently handling over $9 billion worth of art assets. They aim to leverage blockchain technology into their asset management model in order to help clients collect automatic payments on the secondary market through NFT smart contracts and fractionalized ownership. Nowadays, Smith splits time between NYC and his secluded workshop/home in Montauk.'
   thumbnailUrl: "lucien.png"
   rockstar: false
-
+-
+  id: 41
+  name: "Maher"
+  surname: "Latif"
+  company: 'Jump Crypto'
+  title: "Researcher"
+  multiTitle: false
+  bio: 'Maher Latif researcher at <a href="https://www.jumptrading.com/" target="_blank">Jump Trading</a>.'
+  thumbnailUrl: "MaheerLatif.jpg"
+  rockstar: True
+-
+  id: 42
+  name: "Joe"
+  surname: "Howarth"
+  company: 'Jump Trading'
+  title: ""
+  bio: ''
+  thumbnailUrl: "JoeHowarth.jpg"
+  rockstar: false
+-
+  id: 43
+  name: "Rahul"
+  surname: "Maganti"
+  company: 'Jump Trading'
+  title: ""
+  bio: ''
+  thumbnailUrl: "RahulMaganti.jpg"
+  rockstar: false
+-
+  id: 44
+  name: "Mihalio"
+  surname: "Bjelic"
+  company: 'Polygon'
+  title: "Co-founder"
+  multiTitle: false
+  bio: ''
+  thumbnailUrl: MihalioBjelic.jpg
+  rockstar: true
+-
+  id: 45
+  name: "Sergey"
+  surname: "Gorbunov"
+  company: "Axelar"
+  title: "CEO and Co-Founder"
+  multiTitle: false
+  bio: 'Sergey is the co-founder and CEO of <a href="https://axelar.network/" target="_blank">Axelar</a>, a decentralized blockchain interoperability network. He received a Ph.D. from MIT, where he was a Microsoft Ph.D. fellow. His Ph.D. dissertation was on designing cryptographic tools for the cloud using lattice-based cryptography for which he received the Sprowls Doctoral Thesis Award for best thesis in CS at MIT. Sergey is a co-author of many cryptographic protocols, standards, and systems. He is an Assistant Professor at the University of Waterloo and was on the founding team of Algorand, where he worked on the core platform design and development and led the cryptography group.'
+  thumbnailUrl: "SergeyGorbunov.jpg"
+  rockstar: false
+-
+  id: 46
+  name: "Carl"
+  surname: "Bergman"
+  company: "Reverie"
+  title: "Governance"
+  multiTitle: false
+  bio: 'Carl Bergman helps run Governance at <a href="https://www.reverie.ooo/" target="_blank">Reverie</a>, he completed his undergradute studies at NYU, and prior to Reverie he spent his time at Genesis Trading'
+  thumbnailUrl: CarlBergman.jpeg
+  rockstar: false
+-
+  id: 47
+  name: "Jae"
+  surname: "Chung"
+  company: "Mainfold"
+  title: "Co-Founder"
+  multiTitle: false
+  bio: 'Jae is a crypto-native builder and angel investor with a strong traditional academic background. He won Silver in the Hong Kong National Math Olympiad and achieved a Top 10 ranking in the Southeast Asian Mathematics Competition. Jae started working with smart contracts pre-2017, and is a bug bounty recipient for AppLovin, Tinder and EOS, a multi-billion-dollar network. He ran validators across several chains and created a P2P cryptocurrency OTC desk, which was sold to a major exchange. He has built his own DeFi and NFT platforms, including Jenny DAO, which received investment from Animoca Brands, Paris Hilton, and Mr. Beast. He was an early investor in top Web 3 venture deals and funds, including Alien Worlds, Dynamic, and Multicoin Capital. Jae dropped out of the prestigious Jerome Fisher M&T program at the University of Pennslyvania’s Wharton School and SEAS (Dual-Degree) to start<a href="https://www.manifoldtrading.com/" target="_blank"> Manifold</a>. '
+  thumbnailUrl: jaechung.jpeg
+  rockstar: false
+-
+  id: 48
+  name: "Sam"
+  surname: "Hatem"
+  company: "Slide"
+  title: "Co-Founder"
+  multiTitle: false
+  bio: 'Sam Hatem is the co-founder and Chief Technology Officer (CTO) of <a href="https://www.slide.so" target="_blank"> Slide</a>. Slide builds products to make web3 as effortless as web2 and bring the space to the masses for the first time. They raised $12.5M from top crypto funds (Polychain (from Olaf himself), Coinbase, Circle, etc.) and angels ranging from Balaji Srinivasan to Stripe executives. Previous to Slide, Sam was a blockchain developer at Polymarket, built one of the first decentralized blogging platforms, worked as a tech lead at a venture backed NFT marketplace, and studied computer science at Columbia.'
+  thumbnailUrl: SamHatem.jpg
+  rockstar: false
+-
+  id: 49
+  name: "Nir"
+  surname: "Kabessa"
+  company: "YUP"
+  title: "CEO and Co-Founder"
+  multiTitle: false
+  bio: 'Nir Kabessa has established himself as a leader in the blockchain community of New York City. Kabessa participated in initial coin offerings of projects such as iExec, Basic Attention Token, and Ontology. In the wake of this, he assembled two structures: Eden Block - a research and investment vehicle based in Tel Aviv focused on early stage startups and The Block - an international community and media publication designed to produce content and commentary. Eden Block is partnered with entities such as Neo Global Capital, Ontology, Polyswarm, and TomoChain. The Block has significant readership online. Its writers have been featured on Hacker Noon, Investopedia, and Furtherfield. In the beginning of 2018, Nir was elected as President of Blockchain at Columbia and continues to serve in this position. Shortly thereafter, Nir joined Taureon, a VC and consulting firm focused on DLT investments, as a partner. While continuing to take on these roles, he has contributed to stories on TheStreet.com and Big Think. He also co-founded <a href="https://yup.io/" target="_blank"> Yup</a>.'
+  thumbnailUrl: Nir.jpeg
+  rockstar: false
+ 
+  id: 50 
+  name: "Simrit" 
+  surname: "Dhinsa"
+  company: "Galaxy" 
+  title: "Mining Analyst" 
+  multiTitle: false 
+  bio: 'Simrit is an Analyst on Galaxy’s Mining team. He previously worked at Citigroup as an Analyst on the US Treasury trading desk and Agency CMBS trading desk where he priced and hedged various types of trades in both markets. Simrit graduated from Carnegie Mellon University with a major in Finance and minor in Computer Science.'
+  thumbnailUrl: Simrit.png
+  rockstar: false
+ 
+#
 #
 #  id: 13
 #  name: "Eran"

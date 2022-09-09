@@ -2,8 +2,8 @@
 <section id="partners" class="partners">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <!-- <h3>{{ site.organizersTitle }}</h3>
-            {% for organizer in site.data.organizers %}
+             <h3>{{ site.organizersTitle }}</h3>
+            {% for organizer in site.data.organizer %}
             <h5>{{ organizer.group }}</h5>
             <ul class="list-inline">
                 {% for element in organizer.elements %}
@@ -14,14 +14,15 @@
                 </li>
                 {% endfor %}
             </ul>
-            {% endfor %} -->
+            {% endfor %} 
             <h3>{{ site.partnersTitle }}</h3>
             {% for partner in site.data.partners %}
             <h5>{{ partner.group }}</h5>
             <ul class="list-inline">
                 {% for element in partner.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
-                    <a href="{{ element.link }}" target="_blank">
+                    <a href="{{ element.link }}" target="_blank"> {{ element.name }}</a>
+                    <a href="{{ element.link }}" target="_blank"> 
                         <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
                     </a>
                 </li>

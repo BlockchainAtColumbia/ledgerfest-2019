@@ -5,7 +5,11 @@
   service: true
  -
   id: 1
+<<<<<<< HEAD
   title: "Breakfast"
+=======
+  title: "Breakfeast" 
+>>>>>>> 3b58646b3ede45e139710e16bfad74b9833bc6e4
   place: "The North Gallery"
   service: true
   description: "Breakfeast will be provided for all the early risers!"
@@ -28,7 +32,7 @@
   id: 4
   title: "Crosschain"
   description: "What is Blockchain Interoperability? In its simplest terms, blockchain interoperability allows different blockchain protocols to actively communicate with each other. Therefore, different chains can interact and share data, which results in making it easier to use different blockchain networks."
-  speakers: [15,21]
+  speakers: [15,21,45]
   complexity: "Intermediate"
  -
   id: 5
@@ -41,13 +45,13 @@
   id: 6
   title: "Keynote"
   description: "To Be Announced"
-  speakers: [22]
+  speakers: [44]
   complexity: "Beginner to Intermediate"
  -
-  id: 7
+  id: 7 
   title: "Crypto X Regulations"
   description: ""
-  speakers: [24,25,2,17,33]
+  speakers: [24,25,17,33]
  -
   id: 8
   title: "DeFi vs CeFi"
@@ -61,7 +65,7 @@
   description: "Meal to be Anounced"
  -
   id: 10
-  title: "Keynote"
+  title: "Solo Talk"
   description: "To Be Announced"
   subtype: presentation
   speakers: [3]
@@ -70,12 +74,12 @@
   id: 11
   title: "NFTs"
   description: ""
-  speakers: [30,36,37]
+  speakers: [30,36,37,2,40]
  -
   id: 12
   title: "Trading/Markets"
   description: ""
-  speakers: [10]
+  speakers: [10,47]
  -
   id: 13
   title: "Targeted Workshop To Be Anounced"
@@ -115,7 +119,7 @@
   id: 20
   title: "Careers/Alumni"
   description: ""
-  speakers: [26,31]
+  speakers: [26,48,49]
  -
   id: 21
   title: "Targeted Workshop To Be Announced"
@@ -123,7 +127,7 @@
   speakers: [22]
  -
   id: 22
-  title: "Keynote"
+  title: "Solo Talk"
   description: "To Be Announced"
   subtype: presentation
   speakers: [12]
@@ -149,7 +153,7 @@
   speakers: [22]
  -
   id: 26
-  title: "Keynote"
+  title: "Solo Talk"
   description: ""
   subtype: presentation
   speakers: [13]
@@ -159,7 +163,7 @@
   id: 27
   title: "Why DAO's"
   description: "The best time to talk with speakers and attendees"
-  speakers: [23,29,33]
+  speakers: [23,29,46]
 
  -
   id: 28
@@ -175,7 +179,7 @@
   id: 30
   title: "Keynote"
   description: "To Be Announced"
-  speakers: [22]
+  speakers: [41]
   complexity: "Beginner to Intermediate"
  -
   id: 31

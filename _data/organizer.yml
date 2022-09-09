@@ -1,4 +1,4 @@
 -
-  group: "Main organizer"
+  group: ""
   elements:
     - {name: "Blockchain at Columbia", description: "Columbia University's organization for distributed ledger technology.", link: "https://blockchainatcolumbia.org/", imageUrl: "batc-logo.png"}

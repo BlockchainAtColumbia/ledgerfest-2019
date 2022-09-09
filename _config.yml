@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "LedgerFest 2022"
 email: "blockchain@columbia.edu"
-description: "LedgerFest is Blockchain@Columbia's annual crypto conference."
+description: "LedgerFest is B@C's annual crypto conference."
 baseurl: ""
 url: "https://ledgerfest.info"
 permalink: "/blog/:title"
@@ -27,7 +27,7 @@ organizerLink: "https://blockchainatcolumbia.org/"
 
 # Head
 metaKeywords: "blockchain, conference,LedgerFest,Web3,Crypto"
-twitterAccount: "@DevFest"
+twitterAccount: "@BlockchainatCU"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcTelegram: "/img/seo/sharing-telegram.png"
@@ -51,9 +51,9 @@ rightNavigationButtons:
  - {link: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537", text: "Register"}
 
 # Hero Block
-heroImage: "crypto_ny.jpg"
+heroImage: "Ledgerfest blue.jpeg"
 heroTitle: "LedgerFest <typeout>"
-eventDate: "September 23rd, 2022"
+eventDate: "September 23rd"
 typeoutTextValues: '"", "2022"'
 typeoutFallback: "2022"
 heroButtons:
@@ -108,7 +108,7 @@ tweetsFeedTitle: "What's Up?"
 twitterHashTag: "ledgerfest22"
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Organizer"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a Sponsor"
 buyButtonLink: "https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537"
