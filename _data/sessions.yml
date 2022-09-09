@@ -47,7 +47,7 @@
   id: 7
   title: "Crypto X Regulations"
   description: ""
-  speakers: [24,25,2,17,33]
+  speakers: [24,25,17,33]
  -
   id: 8
   title: "DeFi vs CeFi"
@@ -70,7 +70,7 @@
   id: 11
   title: "NFTs"
   description: ""
-  speakers: [30,36,37]
+  speakers: [30,36,37,2,40]
  -
   id: 12
   title: "Trading/Markets"
