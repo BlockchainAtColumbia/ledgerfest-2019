@@ -41,8 +41,8 @@
   id: 5
   name: "Marieke"
   surname: "Flament"
-  company: "CEO @ NEAR Foundation"
-  title: ""
+  company: "NEAR Foundation"
+  title: "CEO"
   multiTitle: true
   bio: "Marieke is a French-born computer engineer who has worked across the globe in a diverse range of companies from the luxury giant LVMH of Louis Vuitton fame to Boston Consulting Group and Expedia's Hotels.com and crypto giant Circle. At Hotels.com she was in charge of Europe, Middle East and Africa Region, a $2bn P&L. In her last role she was Managing Director of Europe and Global CMO for Circle, one of the largest crypto company. At Circle she pioneered the consumer application of blockchain taking to market several products, building from scratch a user base of over 2M users in less than 2 years. She also helped move the blockchain agenda forward working with key decision makers, including governments and financial policy makers across Europe."
   thumbnailUrl: marieke-flament-headshot.jpeg
@@ -79,7 +79,8 @@
   name: "Paul"
   surname: "Lei"
   company: "Gauntlet"
-  title: "Protocol Program Manager"
+  title: "Protocol Program Manager @"
+  multiTitle: true
   bio: "Before joining Gauntlet, Paul was an investment banker at Goldman Sachs where he was responsible for covering clients in the financial services sector. Paul graduated from Harvard with a degree in Statistics."
   thumbnailUrl: PaulLeiDrawing.jpeg
   rockstar: false
@@ -264,7 +265,8 @@
   name: "Raghu"
   surname: "Hariharan"
   company: "OpenSea"
-  title: "Head of Creator Marketing"
+  title: "Head of Creator Marketing @"
+  multiTitle: true
   bio: 'Raghu leads the Creator Marketing & Product Marketing teams at <a href="https://opensea.io/" target="_blank">OpenSea</a>. He is passionate about building monetization mechanisms that reward the people & teams creating content beloved by millions. Prior to OpenSea, he spent nearly 6 years at Meta building out product, marketing & strategy teams focused on Facebook, focused particularly on unlocking value for long tail & emerging creator talent. Raghu earned an MBA from the Wharton School of the University of Pennsylvania and a BA from Washington University in St. Louis. Raghu lives in NYC with his family & spends his free time running up and down the West Side Highway, learning Spanish & experimenting with new cookbooks.'
   thumbnailUrl: "RaghuHariharan.jpeg"
   rockstar: false
@@ -353,7 +355,7 @@
   surname: "Smith"
   company: "Lobus"
   title: "Director of Cultural Innovations Lab"
-  multiTitle: true
+  multiTitle: false
   bio: 'Shortly after earning a Fine Art degree from The Cooper Union, Lucien quickly rose to fame for his mostly abstract paintings which received international success and praise. The New York Times named him “the art world wunderkind”, Vanity Fair called him the “Art World Darling”, and Forbes featured Smith in their 30 Under 30 list two years in a row in 2013 and 2014. His work has been exhibited in galleries across the world and fetched six figure sums in auction houses such as Sothebys and Christies. Following the seemingly overnight success, Smith battled with some of the pitfalls of gaining notoriety at a young age. It was during this time that he launched Serving the People, a non-profit incubator whose mission is to provide young artists with opportunity and support. In 2021, Smith joined <a href="https://www.lobus.io/" target="_blank">Lobus</a> as the Director of NFTs and Cultural Innovation Lab. Lobus is an equity management firm currently handling over $9 billion worth of art assets. They aim to leverage blockchain technology into their asset management model in order to help clients collect automatic payments on the secondary market through NFT smart contracts and fractionalized ownership. Nowadays, Smith splits time between NYC and his secluded workshop/home in Montauk.'
   thumbnailUrl: "lucien.png"
   rockstar: false
@@ -445,6 +447,17 @@
   bio: 'Nir Kabessa has established himself as a leader in the blockchain community of New York City. Kabessa participated in initial coin offerings of projects such as iExec, Basic Attention Token, and Ontology. In the wake of this, he assembled two structures: Eden Block - a research and investment vehicle based in Tel Aviv focused on early stage startups and The Block - an international community and media publication designed to produce content and commentary. Eden Block is partnered with entities such as Neo Global Capital, Ontology, Polyswarm, and TomoChain. The Block has significant readership online. Its writers have been featured on Hacker Noon, Investopedia, and Furtherfield. In the beginning of 2018, Nir was elected as President of Blockchain at Columbia and continues to serve in this position. Shortly thereafter, Nir joined Taureon, a VC and consulting firm focused on DLT investments, as a partner. While continuing to take on these roles, he has contributed to stories on TheStreet.com and Big Think. He also co-founded <a href="https://yup.io/" target="_blank"> Yup</a>.'
   thumbnailUrl: Nir.jpeg
   rockstar: false
+ 
+ # id: 50 
+ # name: "Simrit" 
+ # surname: "Dhinsa"
+ # company: "Galaxy" 
+ # title: "Mining Analyst" 
+ # multiTitle: false 
+ # bio: 'Simrit is an Analyst on Galaxy’s Mining team. He previously worked at Citigroup as an Analyst on the US Treasury trading desk and Agency CMBS trading desk where he priced and hedged various types of trades in both markets. Simrit graduated from Carnegie Mellon University with a major in Finance and minor in Computer Science.'
+ # thumbnailUrl: 
+ # rockstar: false
+ 
 #
 #
 #  id: 13
