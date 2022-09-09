@@ -448,15 +448,15 @@
   thumbnailUrl: Nir.jpeg
   rockstar: false
  
- # id: 50 
- # name: "Simrit" 
- # surname: "Dhinsa"
- # company: "Galaxy" 
- # title: "Mining Analyst" 
- # multiTitle: false 
- # bio: 'Simrit is an Analyst on Galaxy’s Mining team. He previously worked at Citigroup as an Analyst on the US Treasury trading desk and Agency CMBS trading desk where he priced and hedged various types of trades in both markets. Simrit graduated from Carnegie Mellon University with a major in Finance and minor in Computer Science.'
- # thumbnailUrl: 
- # rockstar: false
+  id: 50 
+  name: "Simrit" 
+  surname: "Dhinsa"
+  company: "Galaxy" 
+  title: "Mining Analyst" 
+  multiTitle: false 
+  bio: 'Simrit is an Analyst on Galaxy’s Mining team. He previously worked at Citigroup as an Analyst on the US Treasury trading desk and Agency CMBS trading desk where he priced and hedged various types of trades in both markets. Simrit graduated from Carnegie Mellon University with a major in Finance and minor in Computer Science.'
+  thumbnailUrl: Simrit.png
+  rockstar: false
  
 #
 #
