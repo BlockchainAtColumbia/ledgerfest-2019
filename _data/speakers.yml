@@ -398,8 +398,8 @@
   name: "Sergey"
   surname: "Gorbunov"
   company: "Axelar"
-  title: "CEO and Co-Founder @"
-  multiTitle: true
+  title: "CEO and Co-Founder"
+  multiTitle: false
   bio: 'Sergey is the co-founder and CEO of <a href="https://axelar.network/" target="_blank">Axelar</a>, a decentralized blockchain interoperability network. He received a Ph.D. from MIT, where he was a Microsoft Ph.D. fellow. His Ph.D. dissertation was on designing cryptographic tools for the cloud using lattice-based cryptography for which he received the Sprowls Doctoral Thesis Award for best thesis in CS at MIT. Sergey is a co-author of many cryptographic protocols, standards, and systems. He is an Assistant Professor at the University of Waterloo and was on the founding team of Algorand, where he worked on the core platform design and development and led the cryptography group.'
   thumbnailUrl: "SergeyGorbunov.jpg"
   rockstar: false
@@ -408,8 +408,8 @@
   name: "Carl"
   surname: "Bergman"
   company: "Reverie"
-  title: "Governance @"
-  multiTitle: true
+  title: "Governance"
+  multiTitle: false
   bio: 'Carl Bergman helps run Governance at <a href="https://www.reverie.ooo/" target="_blank">Reverie</a>, he completed his undergradute studies at NYU, and prior to Reverie he spent his time at Genesis Trading'
   thumbnailUrl: CarlBergman.jpeg
   rockstar: false
@@ -418,8 +418,8 @@
   name: "Jae"
   surname: "Chung"
   company: "Mainfold"
-  title: "Co-Founder @"
-  multiTitle: true
+  title: "Co-Founder"
+  multiTitle: false
   bio: 'Jae is a crypto-native builder and angel investor with a strong traditional academic background. He won Silver in the Hong Kong National Math Olympiad and achieved a Top 10 ranking in the Southeast Asian Mathematics Competition. Jae started working with smart contracts pre-2017, and is a bug bounty recipient for AppLovin, Tinder and EOS, a multi-billion-dollar network. He ran validators across several chains and created a P2P cryptocurrency OTC desk, which was sold to a major exchange. He has built his own DeFi and NFT platforms, including Jenny DAO, which received investment from Animoca Brands, Paris Hilton, and Mr. Beast. He was an early investor in top Web 3 venture deals and funds, including Alien Worlds, Dynamic, and Multicoin Capital. Jae dropped out of the prestigious Jerome Fisher M&T program at the University of Pennslyvania’s Wharton School and SEAS (Dual-Degree) to start<a href="https://www.manifoldtrading.com/" target="_blank"> Manifold</a>. '
   thumbnailUrl: jaechung.jpeg
   rockstar: false
@@ -428,8 +428,8 @@
   name: "Sam"
   surname: "Hatem"
   company: "Slide"
-  title: "Co-Founder @"
-  multiTitle: true
+  title: "Co-Founder"
+  multiTitle: false
   bio: 'Sam Hatem is the co-founder and Chief Technology Officer (CTO) of <a href="https://www.slide.so" target="_blank"> Slide</a>. Slide builds products to make web3 as effortless as web2 and bring the space to the masses for the first time. They raised $12.5M from top crypto funds (Polychain (from Olaf himself), Coinbase, Circle, etc.) and angels ranging from Balaji Srinivasan to Stripe executives. Previous to Slide, Sam was a blockchain developer at Polymarket, built one of the first decentralized blogging platforms, worked as a tech lead at a venture backed NFT marketplace, and studied computer science at Columbia.'
   thumbnailUrl: SamHatem.jpg
   rockstar: false
@@ -438,8 +438,8 @@
   name: "Nir"
   surname: "Kabessa"
   company: "YUP"
-  title: "CEO and Co-Founder @"
-  multiTitle: true
+  title: "CEO and Co-Founder"
+  multiTitle: false
   bio: 'Nir Kabessa has established himself as a leader in the blockchain community of New York City. Kabessa participated in initial coin offerings of projects such as iExec, Basic Attention Token, and Ontology. In the wake of this, he assembled two structures: Eden Block - a research and investment vehicle based in Tel Aviv focused on early stage startups and The Block - an international community and media publication designed to produce content and commentary. Eden Block is partnered with entities such as Neo Global Capital, Ontology, Polyswarm, and TomoChain. The Block has significant readership online. Its writers have been featured on Hacker Noon, Investopedia, and Furtherfield. In the beginning of 2018, Nir was elected as President of Blockchain at Columbia and continues to serve in this position. Shortly thereafter, Nir joined Taureon, a VC and consulting firm focused on DLT investments, as a partner. While continuing to take on these roles, he has contributed to stories on TheStreet.com and Big Think. He also co-founded <a href="https://yup.io/" target="_blank"> Yup</a>.'
   thumbnailUrl: Nir.jpeg
   rockstar: false
