@@ -41,7 +41,7 @@
   id: 6
   title: "Keynote"
   description: "To Be Announced"
-  speakers: [22]
+  speakers: [41]
   complexity: "Beginner to Intermediate"
  -
   id: 7
@@ -61,7 +61,7 @@
   description: "Meal to be Anounced"
  -
   id: 10
-  title: "Keynote"
+  title: "Solo Talk"
   description: "To Be Announced"
   subtype: presentation
   speakers: [3]
@@ -123,7 +123,7 @@
   speakers: [22]
  -
   id: 22
-  title: "Keynote"
+  title: "Solo Talk"
   description: "To Be Announced"
   subtype: presentation
   speakers: [12]
@@ -149,7 +149,7 @@
   speakers: [22]
  -
   id: 26
-  title: "Keynote"
+  title: "Solo Talk"
   description: ""
   subtype: presentation
   speakers: [13]
@@ -175,7 +175,7 @@
   id: 30
   title: "Keynote"
   description: "To Be Announced"
-  speakers: [22]
+  speakers: [44]
   complexity: "Beginner to Intermediate"
  -
   id: 31
