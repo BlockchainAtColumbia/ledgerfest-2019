@@ -5,7 +5,7 @@
   service: true
  -
   id: 1
-  title: "Breakfeast"
+  title: "Breakfeast" 
   place: "The North Gallery"
   service: true
   description: "Breakfeast will be provided for all the early risers!"
