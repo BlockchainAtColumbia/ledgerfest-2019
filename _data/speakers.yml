@@ -390,6 +390,36 @@
   bio: ''
   thumbnailUrl: MihalioBjelic.jpg
   rockstar: true
+-
+  id: 45
+  name: "Sergey"
+  surname: "Gorbunov"
+  company: "Axelar"
+  title: "CEO and Co-Founder @"
+  multiTitle: true
+  bio: 'Sergey is the co-founder and CEO of <a href="https://axelar.network/" target="_blank">Axelar</a>, a decentralized blockchain interoperability network. He received a Ph.D. from MIT, where he was a Microsoft Ph.D. fellow. His Ph.D. dissertation was on designing cryptographic tools for the cloud using lattice-based cryptography for which he received the Sprowls Doctoral Thesis Award for best thesis in CS at MIT. Sergey is a co-author of many cryptographic protocols, standards, and systems. He is an Assistant Professor at the University of Waterloo and was on the founding team of Algorand, where he worked on the core platform design and development and led the cryptography group.'
+  thumbnailUrl: Sergey Gorbbunov.jpeg
+  rockstar: false
+-
+  id: 45
+  name: "Carl"
+  surname: "Bergman"
+  company: "Reverie"
+  title: "Governance @"
+  multiTitle: true
+  bio: 'Carl Bergman helps run Governance at <a href="https://www.reverie.ooo/" target="_blank">Reverie</a>, he completed his undergradute studies at NYU, and prior to Reverie he spent his time at Genesis Trading'
+  thumbnailUrl: CarlBergman.jpeg
+  rockstar: false
+-
+  id: 47
+  name: "Jae"
+  surname: "Chung"
+  company: "Mainfold"
+  title: "Co-Founder @"
+  multiTitle: true
+  bio: 'Jae is a crypto-native builder and angel investor with a strong traditional academic background. He won Silver in the Hong Kong National Math Olympiad and achieved a Top 10 ranking in the Southeast Asian Mathematics Competition. Jae started working with smart contracts pre-2017, and is a bug bounty recipient for AppLovin, Tinder and EOS, a multi-billion-dollar network. He ran validators across several chains and created a P2P cryptocurrency OTC desk, which was sold to a major exchange. He has built his own DeFi and NFT platforms, including Jenny DAO, which received investment from Animoca Brands, Paris Hilton, and Mr. Beast. He was an early investor in top Web 3 venture deals and funds, including Alien Worlds, Dynamic, and Multicoin Capital. Jae dropped out of the prestigious Jerome Fisher M&T program at the University of Pennslyvania’s Wharton School and SEAS (Dual-Degree) to start<a href="https://www.manifoldtrading.com/" target="_blank">Manifold</a>. '
+  thumbnailUrl: jaechung.jpeg
+  rockstar: false
 #
 #  id: 13
 #  name: "Eran"
