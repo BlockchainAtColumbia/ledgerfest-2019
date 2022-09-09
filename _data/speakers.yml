@@ -430,6 +430,17 @@
   bio: 'Sam Hatem is the co-founder and Chief Technology Officer (CTO) of <a href="https://www.slide.so" target="_blank"> Slide</a>. Slide builds products to make web3 as effortless as web2 and bring the space to the masses for the first time. They raised $12.5M from top crypto funds (Polychain (from Olaf himself), Coinbase, Circle, etc.) and angels ranging from Balaji Srinivasan to Stripe executives. Previous to Slide, Sam was a blockchain developer at Polymarket, built one of the first decentralized blogging platforms, worked as a tech lead at a venture backed NFT marketplace, and studied computer science at Columbia.'
   thumbnailUrl: SamHatem.jpg
   rockstar: false
+-
+  id: 49
+  name: "Nir"
+  surname: "Kabessa"
+  company: "YUP"
+  title: "CEO and Co-Founder @"
+  multiTitle: true
+  bio: 'Nir Kabessa has established himself as a leader in the blockchain community of New York City. Kabessa participated in initial coin offerings of projects such as iExec, Basic Attention Token, and Ontology. In the wake of this, he assembled two structures: Eden Block - a research and investment vehicle based in Tel Aviv focused on early stage startups and The Block - an international community and media publication designed to produce content and commentary. Eden Block is partnered with entities such as Neo Global Capital, Ontology, Polyswarm, and TomoChain. The Block has significant readership online. Its writers have been featured on Hacker Noon, Investopedia, and Furtherfield. In the beginning of 2018, Nir was elected as President of Blockchain at Columbia and continues to serve in this position. Shortly thereafter, Nir joined Taureon, a VC and consulting firm focused on DLT investments, as a partner. While continuing to take on these roles, he has contributed to stories on TheStreet.com and Big Think. He also co-founded <a href="https://yup.io/" target="_blank"> Yup</a>.'
+  thumbnailUrl: Nir.jpeg
+  rockstar: false
+#
 #
 #  id: 13
 #  name: "Eran"
