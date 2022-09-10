@@ -376,7 +376,7 @@
   surname: "Howarth"
   company: 'Jump Trading'
   title: "Research and Development"
-  bio: 'Joe Howarth contributes to R&D efforts at Jump Trading. He’s focused on cross-chain applications powered by the Wormhole Network - particularly solving generic relaying of contract invocations to and from Solana. Outside of crypto, Joe has a long-standing love of agent-based historical society simulation, pure functional programming and skiing.'
+  bio: 'Joe Howarth contributes to R&D efforts at <a href="https://www.jumptrading.com/" target="_blank">Jump Trading</a>. He’s focused on cross-chain applications powered by the Wormhole Network - particularly solving generic relaying of contract invocations to and from Solana. Outside of crypto, Joe has a long-standing love of agent-based historical society simulation, pure functional programming and skiing.'
   thumbnailUrl: "JoeHowarth.jpg"
   rockstar: false
 -
