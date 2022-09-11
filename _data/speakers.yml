@@ -467,6 +467,16 @@
   bio: 'Simrit is an Analyst on the <a href="https://www.galaxy.com/" target="_blank">Galaxy</a> Mining team. He previously worked at Citigroup as an Analyst on the US Treasury trading desk and Agency CMBS trading desk where he priced and hedged various types of trades in both markets. Simrit graduated from Carnegie Mellon University with a major in Finance and minor in Computer Science.'
   thumbnailUrl: Simrit.png
   rockstar: false
+-
+  id: 52
+  name: "Matthieu" 
+  surname: "Gavaudan"
+  company: "Lemma Finance" 
+  title: "Co-Founder" 
+  multiTitle: false 
+  bio: 'Matthieu graduated from SEAS in 2017 and is currently Co-Founder at <a href="MatthieuLemma.jpeg" target="_blank">Lemma Finance</a> '
+  thumbnailUrl: MatthieuLemma.jpeg
+  rockstar: false
  
 #
 #
