@@ -22,7 +22,6 @@ Anyone is welcome to attend! The event is open to students, alumni, and the broa
 #### What is the cost to attend?
 
 LedgerFest prices will vary depending on affiliation. More information can be found [Here.](https://www.eventbrite.com/e/ledgerfest22-tickets-401463968537) 
-All LedgerFest funds go towards Blockchain At Columbia's registered non-profit which allows us to continue offering premier events and eductional content.
 
 #### Do I need to attend the entire day?
 
