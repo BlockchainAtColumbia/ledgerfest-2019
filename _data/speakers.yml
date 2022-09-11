@@ -27,7 +27,7 @@
   bio: 'Sunny Aggarwal is a Co-Founder of <a href="https://messari.io/asset/osmosis/profile" target="_blank">Osmosis Labs</a>, a developer team building the Osmosis Zone AMM laboratory on the Cosmos SDK. Osmosis is an advanced Automated Market-Making (AMM) protocol focused on privacy, AMM design, and the rapidly expanding interchain. Privacy is a fundamental right, and to protect users from MEV (“Miner” Extractable Value), Osmosis is developing cutting-edge techniques to encrypt transactions in the mempool and assure fair execution without frontrunning. An OG of the industry, Sunny has been developing blockchain technologies since he was an engineering student at UC Berkeley, where he co-founded the world-renowned Blockchain at Berkeley student org.'
   thumbnailUrl: SunnyArggwal.jpg
   rockstar: false
--
+#-
  # id: 4
  # name: "Jeff"
  # surname: "Zirlin"
