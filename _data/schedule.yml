@@ -5,7 +5,7 @@
     - {title: "The Forum", color: "#90be4e"}
     - {title: "The East Hub", color: "#03a9f4"}
     - {title: "The West Hub", color: "#e91e63"}
-    - {title: "The North Boardroom", color: "#e91e63"}
+    - {title: "The North Boardroom", color: "#BF40BF"}
   timeslots:
     - {
         startTime: "8:am",
