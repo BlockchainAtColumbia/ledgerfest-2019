@@ -334,12 +334,21 @@
   rockstar: false
 -
   id: 38
-  name: "Uniswap"
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: "uniswap.png"
+  name: "Noah"
+  surname: "Zinsmeister"
+  company: "Uniswap"
+  title: "Engineering Lead"
+  bio:'<a href="https://noahzinsmeister.com/" target="_blank"> Noah Zinsemeister</a> graduated from Columbia with a B.A. in Economics-Mathematics in 2016. After a close call with a PhD he fell far, far down the cryptocurrency rabbit hole. He currently leads Engineering at <a href="https://uniswap.org/" target="_blank"> Uniswap</a> , a decentralized digital asset exchange built on Ethereum, and he also maintains web3-react, a framework he created for building blockchain applications. In his spare time he likes to ski, play games, and take photos!'
+  thumbnailUrl: NoahZ.jpeg
+  rockstar: false
+-
+  id: 51
+  name: "Matteo"
+  surname: "Leibowitz"
+  company: "UniswapLabsVC"
+  title: "Ventures Lead"
+  bio:'<a href="https://uniswap.org/" target="_blank"> Uniswap</a>'
+  thumbnailUrl: MatteoL.jpeg
   rockstar: false
 -
   id: 39
