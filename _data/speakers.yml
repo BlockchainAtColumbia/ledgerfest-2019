@@ -206,15 +206,15 @@
 #  bio: '0xbrainjar is the founder and CEO of <a href="https://www.composable.finance/" target="_blank">Composable Finance</a>. He is the anchor that ties together the complex thinking, deep understanding and technical expertise demanded of our ambitious goal to make DeFi readily accessible to all innovations and truly arrive at interoperability.'
 #  thumbnailUrl: 0xbrainjar.jpeg
 #  rockstar: false
-#-
-#  id: 23
-#  name: "Scott"
-#  surname: "Moore"
-#  company: "Gitcoin"
-#  title: "Co-Founder"
-#  bio: 'Scott is a co-founder at <a href="https://gitcoin.co/" target="_blank">Gitcoin</a>, an internet-native community for building and funding digital public goods. To date, they have facilitated over $50m in funding to open source software. Beyond Gitcoin, Scott has helped push forward a variety of related initiatives including Ethereum Foundation Grants, the Digital Public Goods Alliance, and SustainOSS.'
-#  thumbnailUrl: "ScottMoorepfp.jpeg"
-#  rockstar: false
+-
+  id: 23
+  name: "Azeem"
+  surname: "Khan"
+  company: "Gitcoin"
+  title: "Fundraisng & Partnerships lead"
+  bio: 'Azeem started his career in biotech and since then have moved on to gain experience in the media, tech, esports, gaming, entertainment, journalism, and cryptocurrency industries. He spent years wearing many hats in multiple projects through a consultancy he started, many of which have been featured in places from Tech Crunch and Forbes to small music publications. His specialties are understanding and executing on the intersection of the various industries he has worked in, as well as bringing together disparate contacts to create innovative approaches to success.'
+  thumbnailUrl: AzeemKhan.jpeg
+  rockstar: false
 -
   id: 28
   name: "Aditi"
