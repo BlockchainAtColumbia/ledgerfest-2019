@@ -131,6 +131,15 @@
   thumbnailUrl: JonWu.jpeg
   rockstar: false
 -
+  id: 53
+  name: "Alex"
+  surname: "Toberoff"
+  company: "Jump Crypto"
+  title: "Researcher"
+  bio: 'Alex Toberoff is currently a crypto researcher at <a href="https://jumpcrypto.com/" target="_blank">Jump Crypto</a>, and he was the former President Blockchain@Columbia.'
+  thumbnailUrl: AlexToberoff.jpg
+  rockstar: false
+-
   id: 15
   name: "Yorke"
   surname: "Rhodes"
