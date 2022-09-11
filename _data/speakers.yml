@@ -305,15 +305,15 @@
 #   company: "Coterie Capital/Reidar DAO"
 #   bio: ' '
 #   thumbnailUrl: "Abrahampfp.jpeg"
--
-  id: 35
-  name: "Polygon"
-  surname: ""
-  company: "Polygon"
-  title: ""
-  bio: ""
-  thumbnailUrl: "polygon.png"
-  rockstar: false
+#-
+#  id: 35
+#  name: "Polygon"
+#  surname: ""
+#  company: "Polygon"
+#  title: ""
+#  bio: ""
+#  thumbnailUrl: "polygon.png"
+#  rockstar: false
 -
   id: 36
   name: "Vinny"
