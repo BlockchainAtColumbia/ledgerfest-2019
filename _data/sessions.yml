@@ -52,7 +52,7 @@
   id: 8
   title: "DeFi vs CeFi"
   description: ""
-  speakers: [27,38,39]
+  speakers: [27,38,39,52]
  -
   id: 9
   title: "Lunch"
@@ -165,7 +165,7 @@
   id: 28
   title: "Venture Capital"
   description: ""
-  speakers: [18,8]
+  speakers: [18,8,51]
  -
   id: 29
   title: "Targeted Workshop To Be Announced"
