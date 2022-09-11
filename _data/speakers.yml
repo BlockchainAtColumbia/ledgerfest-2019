@@ -382,9 +382,9 @@
   id: 41
   name: "Maher"
   surname: "Latif"
-  company: 'Jump Crypto'
-  title: "Researcher"
-  multiTitle: true
+  company: 'Researcher @ Jump Crypto'
+  title: ""
+  multiTitle: false
   bio: 'Maher Latif researcher at <a href="https://www.jumptrading.com/" target="_blank">Jump Trading</a>.'
   thumbnailUrl: MaheerGrey.jpeg
   rockstar: True
