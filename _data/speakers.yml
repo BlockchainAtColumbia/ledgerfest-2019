@@ -188,15 +188,15 @@
   bio: 'Marcus Aurelius has been in the Web2 data world for almost a decade, but became fascinated by the opportunity to use smart contracts to revolutionize entire segments of the economy via novel coordination mechanisms. He is excited to leverage his skillsets to create an on-chain carbon credits market at <a href="https://www.klimadao.finance/" target="_blank">KlimaDAO</a>, fighting climate change with incentivized cooperation. His favorite part about working for a DAO is using his philosophical training to manage the treasury on the Policy Team, as well as formulate the strategic vision of KlimaDAO as a member of the Core Team.'
   thumbnailUrl: MarcusAur.jpeg
   rockstar: false
--
-  id: 21
-  name: "0xbrainjar"
-  surname: ""
-  company: "Composable Finance"
-  title: "Founder, CEO"
-  bio: '0xbrainjar is the founder and CEO of <a href="https://www.composable.finance/" target="_blank">Composable Finance</a>. He is the anchor that ties together the complex thinking, deep understanding and technical expertise demanded of our ambitious goal to make DeFi readily accessible to all innovations and truly arrive at interoperability.'
-  thumbnailUrl: 0xbrainjar.jpeg
-  rockstar: false
+#-
+#  id: 21
+#  name: "0xbrainjar"
+#  surname: ""
+#  company: "Composable Finance"
+#  title: "Founder, CEO"
+#  bio: '0xbrainjar is the founder and CEO of <a href="https://www.composable.finance/" target="_blank">Composable Finance</a>. He is the anchor that ties together the complex thinking, deep understanding and technical expertise demanded of our ambitious goal to make DeFi readily accessible to all innovations and truly arrive at interoperability.'
+#  thumbnailUrl: 0xbrainjar.jpeg
+#  rockstar: false
 #-
 #  id: 23
 #  name: "Scott"
