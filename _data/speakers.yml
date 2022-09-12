@@ -516,6 +516,26 @@
   bio: '<a href="https://twitter.com/nosleepjon" target="_blank">NoSleepJon</a>, is a well recgonized Anonymous Person well recgonized for his excellent reading lists on different sectors of the crypto industry. For more information, check out his <a href="https://nosleep.substack.com/" target="_blank">Substack</a>.'
   thumbnailUrl: NoSleepJon.jpeg
   rockstar: false
+-
+  id: 57
+  name: "Max" 
+  surname: "Song"
+  company: "Carbonbase" 
+  title: "Founder and CEO" 
+  multiTitle: false 
+  bio: 'Max Song is founder and CEO of <a href="https://www.carbonbase.co/" target="_blank">Carbonbase</a>, a climate tech startup leveraging data science and blockchain for enterprise solutions for measuring, managing and reducing carbon emissions. He is also cofounder of the world’s largest sustainability standard for Bitcoin: www.sustainablebtc.org/ to drive institutional adoption, and Project ARK - a leading "sustainable metaverse" studio that works with global NGOs, and brands to apply the use of NFTs in catalyzing sustainable and social development. Previously, he worked in investments for HK family offices, where he invested in TMT, AI, blockchain, and healthcare. He worked as a data scientist in Silicon Valley for Ayasdi, where he helped with data analysis applications for finance, biotech and healthcare. He received a Masters degree from Schwarzman College, Tsinghua University, and Bachelor of Science from Brown University, where he majored in Applied Math. He is passionate about mobilizing the capabilities of technology and finance to realize the promises of UN Sustainable Development Goals. He is a recipient of the 2021 Generation T Tatler List, and a 2021 Forbes 30U30 recipient.'
+  thumbnailUrl: MaxSong.jpg
+  rockstar: false
+-
+  id: 58
+  name: "Joe" 
+  surname: "Hao"
+  company: "Safi Protocol" 
+  title: "Founder and CEO" 
+  multiTitle: false 
+  bio: 'Joe is the founder and CEO of <a href="https://www.safi.eco/" target="_blank">Safi Protocol</a>, a climate fintech company focusing on renewable project financing in emerging market. Safi is bringing $300B of project financing to Africa, Southeast Asia, and other emerging markets. Flighting climate change needs participation from all the countries sharing our planet. Resolving the financing roadblock will unleash massive potential to renewable energy industry in those markets. Prior to Safi, Joe was the founder of PBCN Solar Tech, an AM tech SaaS company in China focusing on renewable energy. Joe was also the head of Asset Management for PPL Corp, in which position he oversees $1.5B of solar assets across North America. Joe also taught the course International Project and Infrastructure Finance at Columbia University from 2020-2021, and he holds a master’s degree from Columbia University in Energy and Environment with specialization in Data Analytics. Joe also has a keen interest in cultural diversity, having worked in Afghanistan and Sri Lanka as a United Nations volunteer during their civil wars.'
+  thumbnailUrl: JoeHao.jpg
+  rockstar: false
  
  
 #
