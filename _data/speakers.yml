@@ -25,25 +25,25 @@
   company: "Osmosis, Epicenter"
   title: "Co-Founder"
   bio: 'Sunny Aggarwal is a Co-Founder of <a href="https://messari.io/asset/osmosis/profile" target="_blank">Osmosis Labs</a>, a developer team building the Osmosis Zone AMM laboratory on the Cosmos SDK. Osmosis is an advanced Automated Market-Making (AMM) protocol focused on privacy, AMM design, and the rapidly expanding interchain. Privacy is a fundamental right, and to protect users from MEV (“Miner” Extractable Value), Osmosis is developing cutting-edge techniques to encrypt transactions in the mempool and assure fair execution without frontrunning. An OG of the industry, Sunny has been developing blockchain technologies since he was an engineering student at UC Berkeley, where he co-founded the world-renowned Blockchain at Berkeley student org.'
-  thumbnailUrl: SunnyArggwal.jpg
+  thumbnailUrl: SunnyGrey.jpeg 
   rockstar: false
--
-  id: 4
-  name: "Jeff"
-  surname: "Zirlin"
-  company: "Axie Infinity"
-  title: "Co-Founder and Growth Lead @"
-  multiTitle: true
-  bio: "Jeff AKA 'Jihoz' is responsible for growth and community development. He also spearheads token design and works closely with the product team. Jeff grew up collecting fossils and insects; he uses this experience when thinking about the collector side of NFTS. Jeff was a member of a top-ranked USA Horde guild in vanilla World of Warcraft; he spent much of his childhood/adolescence in raids. Academically, he studied military and economic history at Yale where he wrote his thesis on the ideological origins of Alexander Hamilton's debt restructuring plan."
-  thumbnailUrl: jiho-profile-pic-Albert-Takagi-e1654329484387-680x680.jpeg
-  rockstar: false
+#-
+ # id: 4
+ # name: "Jeff"
+ # surname: "Zirlin"
+ # company: "Axie Infinity"
+ # title: "Co-Founder and Growth Lead @"
+ # multiTitle: true
+ # bio: "Jeff AKA 'Jihoz' is responsible for growth and community development. He also spearheads token design and works closely with the product team. Jeff grew up collecting fossils and insects; he uses this experience when thinking about the collector side of NFTS. Jeff was a member of a top-ranked USA Horde guild in vanilla World of Warcraft; he spent much of his childhood/adolescence in raids. Academically, he studied military and economic history at Yale where he wrote his thesis on the ideological origins of Alexander Hamilton's debt restructuring plan."
+ # thumbnailUrl: jiho-profile-pic-Albert-Takagi-e1654329484387-680x680.jpeg
+ # rockstar: false
 -
   id: 5
   name: "Marieke"
   surname: "Flament"
-  company: "NEAR Foundation"
-  title: "CEO"
-  multiTitle: true
+  company: "CEO @ NEAR Foundation"
+  title: ""
+  multiTitle: false
   bio: "Marieke is a French-born computer engineer who has worked across the globe in a diverse range of companies from the luxury giant LVMH of Louis Vuitton fame to Boston Consulting Group and Expedia's Hotels.com and crypto giant Circle. At Hotels.com she was in charge of Europe, Middle East and Africa Region, a $2bn P&L. In her last role she was Managing Director of Europe and Global CMO for Circle, one of the largest crypto company. At Circle she pioneered the consumer application of blockchain taking to market several products, building from scratch a user base of over 2M users in less than 2 years. She also helped move the blockchain agenda forward working with key decision makers, including governments and financial policy makers across Europe."
   thumbnailUrl: marieke-flament-headshot.jpeg
   rockstar: true
@@ -67,10 +67,10 @@
   rockstar: false
 -
   id: 8
-  name: "Willam"
+  name: "William"
   surname: "Duplessie"
   company: "Pangea"
-  title: "Co-Founder/CEO"
+  title: "Co-Founder, CEO"
   bio: '<a href="https://www.pangeafund.com/" target="_blank">Pangea Blockchain Fund</a> (“Pangea”) is focused on commercial and industrial applications for underlying blockchain technology. The team includes thought leaders in blockchain tech, mentors with deep market and technical expertise, and world renowned strategic partners. Pangea intends to offer founders the intellectual and physical capital they need to build contemporary market defining technology companies.'
   thumbnailUrl: WilliamDuplessie.jpeg
   rockstar: false
@@ -131,6 +131,15 @@
   thumbnailUrl: JonWu.jpeg
   rockstar: false
 -
+  id: 53
+  name: "Alex"
+  surname: "Toberoff"
+  company: "Jump Crypto"
+  title: "Researcher"
+  bio: 'Alex Toberoff is currently a crypto researcher at <a href="https://jumpcrypto.com/" target="_blank">Jump Crypto</a>, and he was the former President Blockchain@Columbia.'
+  thumbnailUrl: AlexToberoff.jpg
+  rockstar: false
+-
   id: 15
   name: "Yorke"
   surname: "Rhodes"
@@ -148,7 +157,7 @@
   title: "Head of Business and Operations @"
   multiTitle: true
   bio: "George Beall is the Head of Business and Operations for Commonwealth. Commonwealth is a leading DAO tooling company with 60K+ users and 700+ DAOs. Beall previously co-founded Everipedia."
-  thumbnailUrl: GeorgeBeall.jpg
+  thumbnailUrl: IMG_3455.jpg 
   rockstar: false
 -
   id: 17
@@ -188,23 +197,23 @@
   bio: 'Marcus Aurelius has been in the Web2 data world for almost a decade, but became fascinated by the opportunity to use smart contracts to revolutionize entire segments of the economy via novel coordination mechanisms. He is excited to leverage his skillsets to create an on-chain carbon credits market at <a href="https://www.klimadao.finance/" target="_blank">KlimaDAO</a>, fighting climate change with incentivized cooperation. His favorite part about working for a DAO is using his philosophical training to manage the treasury on the Policy Team, as well as formulate the strategic vision of KlimaDAO as a member of the Core Team.'
   thumbnailUrl: MarcusAur.jpeg
   rockstar: false
--
-  id: 21
-  name: "0xbrainjar"
-  surname: ""
-  company: "Composable Finance"
-  title: "Founder, CEO"
-  bio: '0xbrainjar is the founder and CEO of <a href="https://www.composable.finance/" target="_blank">Composable Finance</a>. He is the anchor that ties together the complex thinking, deep understanding and technical expertise demanded of our ambitious goal to make DeFi readily accessible to all innovations and truly arrive at interoperability.'
-  thumbnailUrl: 0xbrainjar.jpeg
-  rockstar: false
+#-
+#  id: 21
+#  name: "0xbrainjar"
+#  surname: ""
+#  company: "Composable Finance"
+#  title: "Founder, CEO"
+#  bio: '0xbrainjar is the founder and CEO of <a href="https://www.composable.finance/" target="_blank">Composable Finance</a>. He is the anchor that ties together the complex thinking, deep understanding and technical expertise demanded of our ambitious goal to make DeFi readily accessible to all innovations and truly arrive at interoperability.'
+#  thumbnailUrl: 0xbrainjar.jpeg
+#  rockstar: false
 -
   id: 23
-  name: "Scott"
-  surname: "Moore"
+  name: "Azeem"
+  surname: "Khan"
   company: "Gitcoin"
-  title: "Co-Founder"
-  bio: 'Scott is a co-founder at <a href="https://gitcoin.co/" target="_blank">Gitcoin</a>, an internet-native community for building and funding digital public goods. To date, they have facilitated over $50m in funding to open source software. Beyond Gitcoin, Scott has helped push forward a variety of related initiatives including Ethereum Foundation Grants, the Digital Public Goods Alliance, and SustainOSS.'
-  thumbnailUrl: "ScottMoorepfp.jpeg"
+  title: "Fundraisng & Partnerships lead"
+  bio: 'Azeem started his career in biotech and since then have moved on to gain experience in the media, tech, esports, gaming, entertainment, journalism, and cryptocurrency industries. He spent years wearing many hats in multiple projects through a consultancy he started, many of which have been featured in places from Tech Crunch and Forbes to small music publications. His specialties are understanding and executing on the intersection of the various industries he has worked in, as well as bringing together disparate contacts to create innovative approaches to success.'
+  thumbnailUrl: AzeemKhan.jpeg
   rockstar: false
 -
   id: 28
@@ -305,41 +314,50 @@
 #   company: "Coterie Capital/Reidar DAO"
 #   bio: ' '
 #   thumbnailUrl: "Abrahampfp.jpeg"
--
-  id: 35
-  name: "Polygon"
-  surname: ""
-  company: "Polygon"
-  title: ""
-  bio: ""
-  thumbnailUrl: "polygon.png"
-  rockstar: false
+#-
+#  id: 35
+#  name: "Polygon"
+#  surname: ""
+#  company: "Polygon"
+#  title: ""
+#  bio: ""
+#  thumbnailUrl: "polygon.png"
+#  rockstar: false
 -
   id: 36
-  name: "SuperRare"
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: "superrare.png"
+  name: "Vinny"
+  surname: "Valenzuela"
+  company: "SuperRare Labs"
+  title: "Managing Editor"
+  bio: 'Virginia Valenzuela is the Managing Editor at <a href="https://superrare.com/magazine/" target="_blank">SuperRare Magazine</a>, where she writes and commissions pieces on NFT artists and topics related to Web3 and the metaverse. Based in New York, her writing has been published in Wired, The Independent, High Times, Right Click Save, and the Best American Poetry Blog. She received a dual MFA in Creative Writing from the New School, where she was Research Assistant to David Lehman. She was also recently awarded the 2022 Future Art Writers Award from MOZAIK Philanthropy, and invited as a juror for their next exhibition, “The Digital Awakening.” She is currently tokenizing her poetry and writing her debut novel.'
+  thumbnailUrl: "Vinny.jpg"
   rockstar: false
 -
   id: 37
-  name: "VeeFriends"
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: "veefriends.png"
+  name: "Andy"
+  surname: "Krainak"
+  company: "VeeFriends"
+  title: "President"
+  bio: "Andy Krainak serves as the President of <a href='https://veefriends.com/='_blank'>VeeFriends</a>', an NFT project created by Gary Vaynerchuk. VeeFriends is one of the top 5 global NFT projects and has amassed more than $100MM since its launch in May of 2021. In this capacity, he oversees operations for the VeeFriends intellectual property and community of NFT token holders for Vaynerchuk. Prior to joining VeeFriends, Andy served as Executive Vice President of Team GaryVee. For seven years, he was in charge of leading Team GaryVee — the team of 20+ people that make up the media and content engine behind Vaynerchuk’s personal brand.Andy started his career with Vaynerchuk as an intern for Gary to promote what would become his third NY Times Best Seller, ‘Jab, Jab, Jab, Right Hook,’ it all started with a tweet to Gary asking for a chance to work for free. Since that successful campaign, Andy has grown the brand team to include software developers, videographers, engineers, analysts, brand and community managers. Together, they have launched two more NY Times Bestselling books, ‘#AskGaryVee and ‘Crushing It,’ three KSwiss sneaker launches and in 2020 helped raise over 50 million dollars through the All in Challenge.Focused on digital and brand strategy, Andy specializes in social media content development and creation, influencer marketing, audience development, digital advertising, e-commerce and organic social marketing.A graduate of Virginia Tech University, Andy gives away all his best advice <ahref='https://twitter.com/krainak'target='_blank'>@Krainak.</a>"
+  thumbnailUrl: AndyKrainakVee.jpeg
   rockstar: false
 -
   id: 38
-  name: "Uniswap"
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: "uniswap.png"
+  name: "Noah"
+  surname: "Zinsmeister"
+  company: "Uniswap"
+  title: "Engineering Lead"
+  bio: '<a href="https://noahzinsmeister.com/" target="_blank"> Noah Zinsemeister</a> graduated from Columbia with a B.A. in Economics-Mathematics in 2016. After a close call with a PhD he fell far, far down the cryptocurrency rabbit hole. He currently leads Engineering at <a href="https://uniswap.org/" target="_blank"> Uniswap</a> , a decentralized digital asset exchange built on Ethereum, and he also maintains web3-react, a framework he created for building blockchain applications. In his spare time he likes to ski, play games, and take photos!'
+  thumbnailUrl: NoahZ.jpeg
+  rockstar: false
+-
+  id: 51
+  name: "Teo"
+  surname: "Leibowitz"
+  company: "UniswapLabs VC"
+  title: "Ventures Lead"
+  bio: 'Teo Leibowitz is Ventures Lead at <a href="https://uniswap.org/" target="_blank"> Uniswap Labs Ventures</a>. He graduated from Columbia College in 2017.<a href="https://uniswap.org/" target="_blank"> Uniswap Labs Ventures</a>'
+  thumbnailUrl: MatteoL.jpeg
   rockstar: false
 -
   id: 39
@@ -364,19 +382,19 @@
   id: 41
   name: "Maher"
   surname: "Latif"
-  company: 'Jump Crypto'
-  title: "Researcher"
+  company: 'Researcher @ Jump Crypto'
+  title: ""
   multiTitle: false
   bio: 'Maher Latif researcher at <a href="https://www.jumptrading.com/" target="_blank">Jump Trading</a>.'
-  thumbnailUrl: "MaheerLatif.jpg"
+  thumbnailUrl: MaheerGrey.jpeg
   rockstar: True
 -
   id: 42
   name: "Joe"
   surname: "Howarth"
   company: 'Jump Trading'
-  title: ""
-  bio: ''
+  title: "Research and Development"
+  bio: 'Joe Howarth contributes to R&D efforts at <a href="https://www.jumptrading.com/" target="_blank">Jump Trading</a>. He’s focused on cross-chain applications powered by the Wormhole Network - particularly solving generic relaying of contract invocations to and from Solana. Outside of crypto, Joe has a long-standing love of agent-based historical society simulation, pure functional programming and skiing.'
   thumbnailUrl: "JoeHowarth.jpg"
   rockstar: false
 -
@@ -392,8 +410,8 @@
   id: 44
   name: "Mihalio"
   surname: "Bjelic"
-  company: 'Polygon'
-  title: "Co-founder"
+  company: 'Co-founder @ Polygon'
+  title: ""
   multiTitle: false
   bio: ''
   thumbnailUrl: MihalioBjelic.jpg
@@ -403,7 +421,7 @@
   name: "Sergey"
   surname: "Gorbunov"
   company: "Axelar"
-  title: "CEO and Co-Founder"
+  title: "CEO and Co-founder"
   multiTitle: false
   bio: 'Sergey is the co-founder and CEO of <a href="https://axelar.network/" target="_blank">Axelar</a>, a decentralized blockchain interoperability network. He received a Ph.D. from MIT, where he was a Microsoft Ph.D. fellow. His Ph.D. dissertation was on designing cryptographic tools for the cloud using lattice-based cryptography for which he received the Sprowls Doctoral Thesis Award for best thesis in CS at MIT. Sergey is a co-author of many cryptographic protocols, standards, and systems. He is an Assistant Professor at the University of Waterloo and was on the founding team of Algorand, where he worked on the core platform design and development and led the cryptography group.'
   thumbnailUrl: "SergeyGorbunov.jpg"
@@ -446,18 +464,79 @@
   title: "CEO and Co-Founder"
   multiTitle: false
   bio: 'Nir Kabessa has established himself as a leader in the blockchain community of New York City. Kabessa participated in initial coin offerings of projects such as iExec, Basic Attention Token, and Ontology. In the wake of this, he assembled two structures: Eden Block - a research and investment vehicle based in Tel Aviv focused on early stage startups and The Block - an international community and media publication designed to produce content and commentary. Eden Block is partnered with entities such as Neo Global Capital, Ontology, Polyswarm, and TomoChain. The Block has significant readership online. Its writers have been featured on Hacker Noon, Investopedia, and Furtherfield. In the beginning of 2018, Nir was elected as President of Blockchain at Columbia and continues to serve in this position. Shortly thereafter, Nir joined Taureon, a VC and consulting firm focused on DLT investments, as a partner. While continuing to take on these roles, he has contributed to stories on TheStreet.com and Big Think. He also co-founded <a href="https://yup.io/" target="_blank"> Yup</a>.'
-  thumbnailUrl: Nir.jpeg
+  thumbnailUrl: NirBlack.jpeg 
   rockstar: false
- 
+-
   id: 50 
   name: "Simrit" 
   surname: "Dhinsa"
   company: "Galaxy" 
   title: "Mining Analyst" 
   multiTitle: false 
-  bio: 'Simrit is an Analyst on Galaxy’s Mining team. He previously worked at Citigroup as an Analyst on the US Treasury trading desk and Agency CMBS trading desk where he priced and hedged various types of trades in both markets. Simrit graduated from Carnegie Mellon University with a major in Finance and minor in Computer Science.'
+  bio: 'Simrit is an Analyst on the <a href="https://www.galaxy.com/" target="_blank">Galaxy</a> Mining team. He previously worked at Citigroup as an Analyst on the US Treasury trading desk and Agency CMBS trading desk where he priced and hedged various types of trades in both markets. Simrit graduated from Carnegie Mellon University with a major in Finance and minor in Computer Science.'
   thumbnailUrl: Simrit.png
   rockstar: false
+-
+  id: 52
+  name: "Matthieu" 
+  surname: "Gavaudan"
+  company: "Lemma Finance" 
+  title: "Co-Founder" 
+  multiTitle: false 
+  bio: 'Matthieu graduated from SEAS in 2017 and is currently Co-Founder at <a href="https://www.lemma.finance/" target="_blank">Lemma Finance</a> '
+  thumbnailUrl: MatthieuLemma.jpeg
+  rockstar: false
+-
+  id: 54
+  name: "Maghnus" 
+  surname: ""
+  company: "Skip Protocol" 
+  title: "Co-Founder" 
+  multiTitle: false 
+  bio: 'Maghnus started building in Crypto in 2016, and co-founded an early NFT marketplace (Cent.co, the team behind the $2.8m first tweet sold as an NFT). He graduated with two degrees in CS and Economics from Penn. Previously at Bridgewater investment engineering arm and Atlassian. More recently, built a crypto development DAO with Barry to introduce Web2 builders to Web3. Currently Maghuns is working on <a href="https://skip.money/" target="_blank">Skip Protocol</a>'
+  thumbnailUrl: MaghnusSkip.jpg
+  rockstar: false
+#-
+#  id: 55
+#  name: "Avi" 
+#  surname: "Felman"
+#  company: "Head of Digital Assets Trading @ GoldenTree Asset Management" 
+#  title: "General Partner @ GoldenChain" 
+#  multiTitle: true 
+#  bio: 'Avi Felman is head of <a href="https://www.goldentree.com/" target="_blank">Golden Tree Asset Management</a> a global asset management firm with almost $47 billion in assets under management. Mr. Felman will also be a General Partner of GoldenChain, a subsidiary business owned by GoldenTree, which manages GoldenTree’s funds that focus on digital assets. Prior to GoldenTree, Avi has held several prominent digital assets trading positions. He recently served as Co-Portfolio Manager and Head of Trading for BlockTower Capital. Prior to joining BlockTower, Felman held roles at Wave Financial, CryptoAM and Ledger Capital.'
+#  thumbnailUrl: GoldenTreeAvi.jpeg
+#  rockstar: false
+-
+  id: 56
+  name: "NoSleep" 
+  surname: "Jon"
+  company: "" 
+  title: "Collector of good reads" 
+  multiTitle: false 
+  bio: '<a href="https://twitter.com/nosleepjon" target="_blank">NoSleepJon</a>, is a well recgonized Anonymous Person well recgonized for his excellent reading lists on different sectors of the crypto industry. For more information, check out his <a href="https://nosleep.substack.com/" target="_blank">Substack</a>.'
+  thumbnailUrl: NoSleepJon.jpeg
+  rockstar: false
+-
+  id: 57
+  name: "Max" 
+  surname: "Song"
+  company: "Carbonbase" 
+  title: "Founder and CEO" 
+  multiTitle: false 
+  bio: 'Max Song is founder and CEO of <a href="https://www.carbonbase.co/" target="_blank">Carbonbase</a>, a climate tech startup leveraging data science and blockchain for enterprise solutions for measuring, managing and reducing carbon emissions. He is also cofounder of the world’s largest sustainability standard for Bitcoin: www.sustainablebtc.org/ to drive institutional adoption, and Project ARK - a leading "sustainable metaverse" studio that works with global NGOs, and brands to apply the use of NFTs in catalyzing sustainable and social development. Previously, he worked in investments for HK family offices, where he invested in TMT, AI, blockchain, and healthcare. He worked as a data scientist in Silicon Valley for Ayasdi, where he helped with data analysis applications for finance, biotech and healthcare. He received a Masters degree from Schwarzman College, Tsinghua University, and Bachelor of Science from Brown University, where he majored in Applied Math. He is passionate about mobilizing the capabilities of technology and finance to realize the promises of UN Sustainable Development Goals. He is a recipient of the 2021 Generation T Tatler List, and a 2021 Forbes 30U30 recipient.'
+  thumbnailUrl: MaxSong.jpg
+  rockstar: false
+-
+  id: 58
+  name: "Joe" 
+  surname: "Hao"
+  company: "Safi Protocol" 
+  title: "Founder and CEO" 
+  multiTitle: false 
+  bio: 'Joe is the founder and CEO of <a href="https://www.safi.eco/" target="_blank">Safi Protocol</a>, a climate fintech company focusing on renewable project financing in emerging market. Safi is bringing $300B of project financing to Africa, Southeast Asia, and other emerging markets. Flighting climate change needs participation from all the countries sharing our planet. Resolving the financing roadblock will unleash massive potential to renewable energy industry in those markets. Prior to Safi, Joe was the founder of PBCN Solar Tech, an AM tech SaaS company in China focusing on renewable energy. Joe was also the head of Asset Management for PPL Corp, in which position he oversees $1.5B of solar assets across North America. Joe also taught the course International Project and Infrastructure Finance at Columbia University from 2020-2021, and he holds a master’s degree from Columbia University in Energy and Environment with specialization in Data Analytics. Joe also has a keen interest in cultural diversity, having worked in Afghanistan and Sri Lanka as a United Nations volunteer during their civil wars.'
+  thumbnailUrl: JoeHao.jpg
+  rockstar: false
+ 
  
 #
 #

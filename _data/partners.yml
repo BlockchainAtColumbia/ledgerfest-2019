@@ -12,6 +12,7 @@
    group: "Silver Sponsors"
    elements:
      - {name: "Lido", description: "Lido", link: "https://lido.fi/", imageUrl: "Lido.jpeg"}
+     - {name: "Okx", description: "Okx", link: "https://www.okx.com/web3", imageUrl: "Okx.jpg"}
  -
   group: "Bronze Sponsors"
   elements:
@@ -21,3 +22,6 @@
     - {name: "Commonwealth", description: "Commonwealth", link: "https://commonwealth.im/", imageUrl: "Commonwealth_Logo.jpeg"}
     - {name: "Galaxy", description: "Galaxy", link: "https://www.galaxy.com/", imageUrl: "Galaxy.jpeg"}
     - {name: "Manta Network", description: "Manta Network", link: "https://www.manta.network/", imageUrl: "Manta_Logo.jpeg"}
+    - {name: "Metasil", description: "Metasil", link: "https://metasill.io/", imageUrl: "Metasill.jpg"}
+    - {name: "Pangea Digital Asset Group", description: "Pangea Digital Asset Group", link: "https://www.pangeafund.com/", imageUrl: "PangeaWhite.jpg"}
+
