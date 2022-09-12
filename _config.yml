@@ -71,7 +71,7 @@ statisticBlock:
  - {count: "25", specialCharacter: "+", info: "speakers", detail: ""}
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "background.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar Speakers"
 rockstarSpeakersButtonText: "See all speakers"
