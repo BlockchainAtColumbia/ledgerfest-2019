@@ -21,5 +21,6 @@
     - {name: "Commonwealth", description: "Commonwealth", link: "https://commonwealth.im/", imageUrl: "Commonwealth_Logo.jpeg"}
     - {name: "Galaxy", description: "Galaxy", link: "https://www.galaxy.com/", imageUrl: "Galaxy.jpeg"}
     - {name: "Manta Network", description: "Manta Network", link: "https://www.manta.network/", imageUrl: "Manta_Logo.jpeg"}
+    - {name: "Metasil", description: "Metasil", link: "https://metasill.io/", imageUrl: "Metasill.jpg"}
     - {name: "Pangea Digital Asset Group", description: "Pangea Digital Asset Group", link: "https://www.pangeafund.com/", imageUrl: "PangeaWhite.jpg"}
 
