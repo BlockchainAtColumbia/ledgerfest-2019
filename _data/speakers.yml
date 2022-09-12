@@ -352,11 +352,11 @@
   rockstar: false
 -
   id: 51
-  name: "Matteo"
+  name: "Teo"
   surname: "Leibowitz"
   company: "UniswapLabs VC"
   title: "Ventures Lead"
-  bio: '<a href="https://uniswap.org/" target="_blank"> Uniswap</a>'
+  bio: 'Teo Leibowitz is Ventures Lead at <a href="https://uniswap.org/" target="_blank"> Uniswap Labs Ventures</a>. He graduated from Columbia College in 2017.<a href="https://uniswap.org/" target="_blank"> Uniswap Labs Ventures</a>'
   thumbnailUrl: MatteoL.jpeg
   rockstar: false
 -
