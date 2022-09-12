@@ -17,7 +17,7 @@
   elements:
     - {name: "Algorand", description: "Algorand", link: "https://www.algorand.com/", imageUrl: "Algorand_logo.jpeg"}
     - {name: "Degen Events", description: "Degen Events", link: "https://www.degen.events/?city=New+York&country=United+States", imageUrl: "de-logo-black.png"}
-    - {name: "Eigenlayr", description: "Manta Network", link: "https://www.layrlabs.com/", imageUrl: "Y1shRlDs_400x400.jpeg"}
+    - {name: "EigenLayer", description: "Manta Network", link: "https://www.layrlabs.com/", imageUrl: "Y1shRlDs_400x400.jpeg"}
     - {name: "Commonwealth", description: "Commonwealth", link: "https://commonwealth.im/", imageUrl: "Commonwealth_Logo.jpeg"}
     - {name: "Galaxy", description: "Galaxy", link: "https://www.galaxy.com/", imageUrl: "Galaxy.jpeg"}
     - {name: "Manta Network", description: "Manta Network", link: "https://www.manta.network/", imageUrl: "Manta_Logo.jpeg"}
