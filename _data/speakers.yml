@@ -501,6 +501,16 @@
   bio: 'Kyle is an early cryptocurrency enthusiast. He got started by studying Silk Road and the darknet marketplace ecosystem in late 2013 during his PhD at Carnegie Mellon University and since then has been working on applications and privacy of decentralized ledger technologies in a Postdoc at UIUC. More recently, he has focused his attention on cryptocurrency finance, both centralized (BitMEX, Binance, etc) and decentralized with particular interest on the economics and incentives of DeFi primitives such as staking, farming, play2earn, algo stablecoins and more.'
   thumbnailUrl: kylesoska.jpg
   rockstar: false
+-
+  id: 56
+  name: "Tarun" 
+  surname: "Chitra"
+  company: "Gauntlet" 
+  title: "Founder and CEO" 
+  multiTitle: false 
+  bio: 'Tarun Chitra is Founder and CEO of <a href="https://gauntlet.network/ target="_blank">Gauntlet</a>, a simulation platform for crypto networks to help developers understand how decisions about security, governance, and consensus mechanisms are likely to affect network activity and asset value. His research in DeFi includes the first peer-reviewed papers proving the economic security properties of Uniswap and Compound. Previously, he worked in high frequency trading for Vatic Labs and was a scientific programmer at D. E. Shaw Research.'
+  thumbnailUrl: Chitra-Tarun.jpeg
+  rockstar: false
 #-
 #  id: 55
 #  name: "Avi" 
