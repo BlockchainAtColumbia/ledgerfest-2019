@@ -23,12 +23,12 @@
   speakers: [1]
   complexity: "Beginner to Intermediate"
   presentation: ""
-  video: "//www.youtube.com/embed/KNJGPI0fuFA"
+  video: "//www.youtube.com/embed/KNJGPI0fuFA" 
  -
   id: 4
   title: "Crosschain"
   description: "What is Blockchain Interoperability? In its simplest terms, blockchain interoperability allows different blockchain protocols to actively communicate with each other. Therefore, different chains can interact and share data, which results in making it easier to use different blockchain networks."
-  speakers: [15,21,45]
+  speakers: [15,21,45,42]
   complexity: "Intermediate" 
  -
   id: 5
@@ -52,7 +52,7 @@
   id: 8
   title: "DeFi vs CeFi"
   description: ""
-  speakers: [27,38,39,52]
+  speakers: [27,38,39,52,41]
  -
   id: 9
   title: "Lunch"
@@ -118,9 +118,9 @@
   speakers: [26,48,49,53]
  -
   id: 21
-  title: "Targeted Workshop To Be Announced"
-  description: ""
-  speakers: [22]
+  title: "How to build a Cross-Chain application from 0 to 1"
+  description: 'Please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKuG7pxHe0bqf6d4fx5VC18sArLFQG2_fGqedv8UsvPQN1Ww/viewform" target="_blank">link</a> for consideration'
+  speakers: [61]
  -
   id: 22
   title: "Solo Talk"
@@ -175,7 +175,7 @@
   id: 30
   title: "Keynote"
   description: "To Be Announced"
-  speakers: [41]
+  speakers: [43]
   complexity: "Beginner to Intermediate"
  -
   id: 31

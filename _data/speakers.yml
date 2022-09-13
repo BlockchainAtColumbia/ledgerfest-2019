@@ -380,7 +380,7 @@
   company: 'Researcher @ Jump Crypto'
   title: ""
   multiTitle: false
-  bio: 'Maher Latif researcher at <a href="https://www.jumptrading.com/" target="_blank">Jump Trading</a>.'
+  bio: 'Maher Latif is a Researcher at <a href="https://jumpcrypto.com/" target="_blank">Jump Crypto</a> working on optimal mechanism design, game theory, and tokenomics. He was previously at the Federal Reserve in DC and is a Schwarzman Scholar.'
   thumbnailUrl: MaheerGrey.jpeg
   rockstar: True
 -
@@ -389,16 +389,16 @@
   surname: "Howarth"
   company: 'Jump Trading'
   title: "Research and Development"
-  bio: 'Joe Howarth contributes to R&D efforts at <a href="https://www.jumptrading.com/" target="_blank">Jump Trading</a>. He’s focused on cross-chain applications powered by the Wormhole Network - particularly solving generic relaying of contract invocations to and from Solana. Outside of crypto, Joe has a long-standing love of agent-based historical society simulation, pure functional programming and skiing.'
+  bio: 'Joe Howarth contributes to R&D efforts at <a href="https://jumpcrypto.com/" target="_blank">Jump Crypto</a>. He’s focused on cross-chain applications powered by the Wormhole Network - particularly solving generic relaying of contract invocations to and from Solana. Outside of crypto, Joe has a long-standing love of agent-based historical society simulation, pure functional programming and skiing.'
   thumbnailUrl: "JoeHowarth.jpg"
   rockstar: false
 -
   id: 43
   name: "Rahul"
   surname: "Maganti"
-  company: 'Jump Trading'
-  title: ""
-  bio: ''
+  company: 'Jump Crypto'
+  title: "Venture Vice President and Leader of applied ZK"
+  bio: 'Rahul is Vice President at Jump Crypto Venture and a leader on the applied ZK team. His primary focus is on cross-chain interoperability and streamlining transactional verification proofs across blockchains.'
   thumbnailUrl: "RahulMaganti.jpg"
   rockstar: false
 -
@@ -561,7 +561,16 @@
   bio: ''
   thumbnailUrl: Okx.jpg
   rockstar: false
- 
+-
+  id: 61
+  name: "Jump Crypto" 
+  surname: ""
+  company: "" 
+  title: "" 
+  multiTitle: false 
+  bio: ''
+  thumbnailUrl: Color@2x.png
+  rockstar: false
  
 #
 #
