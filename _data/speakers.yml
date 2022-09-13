@@ -546,6 +546,16 @@
   bio: 'Joshia Seam is a cofounder of Zesty, a Metaverse data aggregation platform which helps creators monetize their creations and build better experiences through analytics.'
   thumbnailUrl: jseam.jpg
   rockstar: false
+-
+  id: 59
+  name: "Okx" 
+  surname: ""
+  company: "" 
+  title: "" 
+  multiTitle: false 
+  bio: ''
+  thumbnailUrl: Okx.jpeg
+  rockstar: false
  
  
 #
