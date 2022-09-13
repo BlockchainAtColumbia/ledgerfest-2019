@@ -561,7 +561,16 @@
   bio: ''
   thumbnailUrl: Okx.jpg
   rockstar: false
- 
+-
+  id: 61
+  name: "Jump Crypto" 
+  surname: ""
+  company: "" 
+  title: "" 
+  multiTitle: false 
+  bio: ''
+  thumbnailUrl: Color@2x.png
+  rockstar: false
  
 #
 #
