@@ -522,9 +522,9 @@
 #  thumbnailUrl: GoldenTreeAvi.jpeg
 #  rockstar: false
 -
-  id: 56
-  name: "NoSleep" 
-  surname: "Jon"
+  id: 62
+  name: "NoSleepJon" 
+  surname: ""
   company: "" 
   title: "Collector of good reads" 
   multiTitle: false 
