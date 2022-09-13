@@ -1,6 +1,6 @@
  -
   id: 0
-  title: ""
+  title: "" 
   description: ""
   service: true
  -
@@ -68,7 +68,7 @@
   complexity: "Beginner to Intermediate"
  -
   id: 11
-  title: "NFTs"
+  title: "Artists, Anons, and Attorneys: Beyond the JPEG"
   description: ""
   speakers: [30,36,37,2,40]
  -
@@ -168,9 +168,9 @@
   speakers: [18,8,51]
  -
   id: 29
-  title: "Targeted Workshop To Be Announced"
-  description: ""
-  speakers: [22]
+  title: "OKX Demo Day Presentation"
+  description: 'Please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKuG7pxHe0bqf6d4fx5VC18sArLFQG2_fGqedv8UsvPQN1Ww/viewform" target="_blank">link</a> for consideration'
+  speakers: [60]
  -
   id: 30
   title: "Keynote"

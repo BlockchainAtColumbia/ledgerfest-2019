@@ -3,7 +3,7 @@
   name: "Tim"
   surname: "Roughgarden"
   company: "Head of Research @ a16z"
-  title: "Professor @ Columbia University"
+  title: "Professor @ Columbia University" 
   multiTitle: true
   bio: "For twenty years, as a researcher and computer science professor at Stanford and Columbia, Tim has led the development of Algorithmic Game Theory, a field that brings together ideas from Computer Science and Economics to solve real-world computing problems. He wrote the definitive textbooks and courses on the field. "
   thumbnailUrl: TimRoughgarden.jpg
@@ -79,8 +79,7 @@
   name: "Paul"
   surname: "Lei"
   company: "Gauntlet"
-  title: "Protocol Program Manager @"
-  multiTitle: true
+  title: "Protocol Program Manager "
   bio: "Before joining Gauntlet, Paul was an investment banker at Goldman Sachs where he was responsible for covering clients in the financial services sector. Paul graduated from Harvard with a degree in Statistics."
   thumbnailUrl: PaulLeiDrawing.jpeg
   rockstar: false
@@ -144,8 +143,7 @@
   name: "Yorke"
   surname: "Rhodes"
   company: "Abacus Network"
-  title: "Smart Contract Engineer @"
-  multiTitle: true
+  title: "Smart Contract Engineer"
   bio: 'Yorke is a Smart Contract Enginner focused on distributed systems, cryptography, and economics to build a trustless future. Before Abacus, Yorke held positions at <a href="https://gauntlet.network/" target="_blank">Gauntlet</a>, <a href="https://celo.org/" target="_blank">Celo</a>, and <a href="https://consensys.net/" target="_blank">Consensys</a>. He graduated from Rice University with a BSE in Computer Science.'
   thumbnailUrl: YorkeRhodes.jpeg
   rockstar: false
@@ -164,8 +162,7 @@
   name: "Alexander C."
   surname: "Drylewski"
   company: "Skadden"
-  title: "Partner, Co-Chair, Web3 and Digital Assets @"
-  multiTitle: true
+  title: "Partner, Co-Chair, Web3 and Digital Assets"
   bio: 'Alex Drylewski is co-chair of the <a href="https://www.skadden.com/capabilities/practices/web3-and-digital-assets" target="_blank">Skadden Web3 and Digital Assets Group</a>. His practice focuses on high-stakes complex commercial litigation around the world, and he has represented companies and individuals across nearly every type of industry and dispute, including high-profile commercial litigation involving emerging technologies, government investigations, securities class actions, trials and appeals.'
   thumbnailUrl: drylewski_alex.jpeg
   rockstar: false
@@ -220,8 +217,7 @@
   name: "Aditi"
   surname: "Sriram"
   company: "Celestia <> Bain Crypto"
-  title: "Product Manger, Scout @"
-  multiTitle: true
+  title: "Product Manger and Scout"
   bio: "Former product manager at The Graph and ConsenSys, with a background in developer growth"
   thumbnailUrl: "Aditi.jpg"
   rockstar: false
@@ -275,8 +271,7 @@
   name: "Raghu"
   surname: "Hariharan"
   company: "OpenSea"
-  title: "Head of Creator Marketing @"
-  multiTitle: true
+  title: "Head of Creator Marketing"
   bio: 'Raghu leads the Creator Marketing & Product Marketing teams at <a href="https://opensea.io/" target="_blank">OpenSea</a>. He is passionate about building monetization mechanisms that reward the people & teams creating content beloved by millions. Prior to OpenSea, he spent nearly 6 years at Meta building out product, marketing & strategy teams focused on Facebook, focused particularly on unlocking value for long tail & emerging creator talent. Raghu earned an MBA from the Wharton School of the University of Pennsylvania and a BA from Washington University in St. Louis. Raghu lives in NYC with his family & spends his free time running up and down the West Side Highway, learning Spanish & experimenting with new cookbooks.'
   thumbnailUrl: "RaghuHariharan.jpeg"
   rockstar: false
@@ -555,6 +550,16 @@
   multiTitle: false 
   bio: 'Joshia Seam is a cofounder of Zesty, a Metaverse data aggregation platform which helps creators monetize their creations and build better experiences through analytics.'
   thumbnailUrl: jseam.jpg
+  rockstar: false
+-
+  id: 60
+  name: "Okx" 
+  surname: ""
+  company: "" 
+  title: "" 
+  multiTitle: false 
+  bio: ''
+  thumbnailUrl: Okx.jpg
   rockstar: false
  
  
