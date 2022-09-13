@@ -495,8 +495,8 @@
   id: 55
   name: "Kyle" 
   surname: "Soska"
-  company: "" 
-  title: "Researcher" 
+  company: "Ramiel Capital" 
+  title: "Head of Research" 
   multiTitle: false 
   bio: 'Kyle is an early cryptocurrency enthusiast. He got started by studying Silk Road and the darknet marketplace ecosystem in late 2013 during his PhD at Carnegie Mellon University and since then has been working on applications and privacy of decentralized ledger technologies in a Postdoc at UIUC. More recently, he has focused his attention on cryptocurrency finance, both centralized (BitMEX, Binance, etc) and decentralized with particular interest on the economics and incentives of DeFi primitives such as staking, farming, play2earn, algo stablecoins and more.'
   thumbnailUrl: kylesoska.jpg
