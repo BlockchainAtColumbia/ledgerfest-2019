@@ -133,7 +133,7 @@
   title: "Zk"
   description: "Zero Knowledge Protocol (or Zero Knowledge Password Proof, ZKP) is a way of doing authentication where no passwords are exchanged, which means they cannot be stolen. This is cool because it makes your communication so secure and protected that nobody else can find out what you’re communicating about or what files you are sharing with each other."
   subtype: presentation
-  speakers: [14,11]
+  speakers: [14,11,43]
   complexity: "Beginner to Intermediate"
   presentation: ""
   video: "//www.youtube.com/embed/fOGdb1CTu5c"
