@@ -3,7 +3,7 @@
   name: "Tim"
   surname: "Roughgarden"
   company: "Head of Research @ a16z"
-  title: "Professor @ Columbia University"
+  title: "Professor @ Columbia University" 
   multiTitle: true
   bio: "For twenty years, as a researcher and computer science professor at Stanford and Columbia, Tim has led the development of Algorithmic Game Theory, a field that brings together ideas from Computer Science and Economics to solve real-world computing problems. He wrote the definitive textbooks and courses on the field. "
   thumbnailUrl: TimRoughgarden.jpg
