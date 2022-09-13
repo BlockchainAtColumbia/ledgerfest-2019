@@ -493,8 +493,18 @@
   company: "Skip Protocol" 
   title: "Co-Founder" 
   multiTitle: false 
-  bio: 'Maghnus started building in Crypto in 2016, and co-founded an early NFT marketplace (Cent.co, the team behind the $2.8m first tweet sold as an NFT). He graduated with two degrees in CS and Economics from Penn. Previously at Bridgewater investment engineering arm and Atlassian. More recently, built a crypto development DAO with Barry to introduce Web2 builders to Web3. Currently Maghuns is working on <a href="https://skip.money/" target="_blank">Skip Protocol</a>'
+  bio: 'Maghnus started building in Crypto in 2016, and co-founded an early NFT marketplace (<a href="https://Cent.co" target="_blank">, the team behind the $2.8m first tweet sold as an NFT). He graduated with two degrees in CS and Economics from Penn. Previously at Bridgewater investment engineering arm and Atlassian. More recently, built a crypto development DAO with Barry to introduce Web2 builders to Web3. Currently Maghuns is working on <a href="https://skip.money/" target="_blank">Skip Protocol</a>'
   thumbnailUrl: MaghnusSkip.jpg
+  rockstar: false
+-
+  id: 55
+  name: "Kyle" 
+  surname: "Soska"
+  company: "" 
+  title: "Researcher" 
+  multiTitle: false 
+  bio: 'Kyle is an early cryptocurrency enthusiast. He got started by studying Silk Road and the darknet marketplace ecosystem in late 2013 during his PhD at Carnegie Mellon University and since then has been working on applications and privacy of decentralized ledger technologies in a Postdoc at UIUC. More recently, he has focused his attention on cryptocurrency finance, both centralized (BitMEX, Binance, etc) and decentralized with particular interest on the economics and incentives of DeFi primitives such as staking, farming, play2earn, algo stablecoins and more.'
+  thumbnailUrl: kylesoska.jpg
   rockstar: false
 #-
 #  id: 55
