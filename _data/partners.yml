@@ -13,7 +13,7 @@
    elements:
      - {name: "Lido", description: "Lido", link: "https://lido.fi/", imageUrl: "Lido.jpeg"}
      - {name: "Okx", description: "Okx", link: "https://www.okx.com/web3", imageUrl: "Okx.jpg"}
-     - {name: "SuperRare", description: "Pangea Digital Asset Group", link: "https://superrare.com/", imageUrl: "SR_Full.png"}
+     - {name: "SuperRare", description: "SuperRare", link: "https://superrare.com/", imageUrl: "SR_Full.png"}
  -
   group: "Bronze Sponsors"
   elements:
