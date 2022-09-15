@@ -70,7 +70,7 @@
   name: "William"
   surname: "Duplessie"
   company: "Pangea"
-  title: "Co-Founder, CEO"
+  title: "Co-Founder and CEO"
   bio: '<a href="https://www.pangeafund.com/" target="_blank">Pangea Blockchain Fund</a> (“Pangea”) is focused on commercial and industrial applications for underlying blockchain technology. The team includes thought leaders in blockchain tech, mentors with deep market and technical expertise, and world renowned strategic partners. Pangea intends to offer founders the intellectual and physical capital they need to build contemporary market defining technology companies.'
   thumbnailUrl: WilliamDuplessie.jpeg
   rockstar: false
@@ -97,7 +97,7 @@
   name: "Shumo"
   surname: "Chu"
   company: "Manta Network"
-  title: "Founder, CEO"
+  title: "Founder and CEO"
   bio: 'Shumo co-founded <a href="https://www.manta.network/" target="_blank">Manta Network</a> with a goal of building the next generation of privacy preserving blockchain systems. Prior to Web3, Shumo graudated as a PhD from University of Washington Computer Science and Engineering, where he was advised by the great Dan Suciu.'
   thumbnailUrl: Shumo.jpg
   rockstar: false
@@ -173,7 +173,7 @@
   company: "General Partner @ The Fund"
   title: "Professor @ Columbia University"
   multiTitle: true
-  bio: "Jenny Fielding is a pre-seed investor and startup coach to hundreds of founders around the world. She's a 2x entrepreneur and knows the challenges it takes to build a great company. Some of her portofolio companies include: Latch (LTCH), Chainalysis, Tempo Automation, Alloy, Headway, Supergreat, Contra, Particle Health, Bloomscape, Simple Health, Pair Eyewear, Solo Funds, Halp, Minded, Talent Hack, Rupa Health, Morty, Wagmo, Smarthop, Solid, Remesh, Cube, Dash, OnePipe, Union Crate, Parsley and many more! Fielding is currently an Adjunct Professor at Columbia University."
+  bio: "Jenny Fielding is a pre-seed investor and startup coach to hundreds of Founders around the world. She's a 2x entrepreneur and knows the challenges it takes to build a great company. Some of her portofolio companies include: Latch (LTCH), Chainalysis, Tempo Automation, Alloy, Headway, Supergreat, Contra, Particle Health, Bloomscape, Simple Health, Pair Eyewear, Solo Funds, Halp, Minded, Talent Hack, Rupa Health, Morty, Wagmo, Smarthop, Solid, Remesh, Cube, Dash, OnePipe, Union Crate, Parsley and many more! Fielding is currently an Adjunct Professor at Columbia University."
   thumbnailUrl: JennyFielding.jpeg
   rockstar: false
 -
@@ -254,7 +254,7 @@
   surname: "Nelle"
   company: "Empiric Network"
   title: "Co-Founder"
-  bio: 'Jonas is one of the founders of <a href="https://empiric.network/" target="_blank">Empiric Network</a>, the first live oracle on <a href="https://starkware.co/starknet/" target="_blank">StarkNet</a>, and the leading provider of robust data feeds to the ecosystem today. The network is powered by data partners that include Alameda Research, Jane Street, Gemini, Flow Traders and CMT. By leveraging StarkNet on-chain computation, Empiric is also pioneering computational data feeds and will enable the next generation of DeFi protocols to go beyond what is possible today. Previously Jonas invested in companies at a Silicon Valley VC with >1 on BN AUM, wrote software at Palantir, and was head of product at a YC and Index Ventures-backed machine learning startup.'
+  bio: 'Jonas is one of the Founders of <a href="https://empiric.network/" target="_blank">Empiric Network</a>, the first live oracle on <a href="https://starkware.co/starknet/" target="_blank">StarkNet</a>, and the leading provider of robust data feeds to the ecosystem today. The network is powered by data partners that include Alameda Research, Jane Street, Gemini, Flow Traders and CMT. By leveraging StarkNet on-chain computation, Empiric is also pioneering computational data feeds and will enable the next generation of DeFi protocols to go beyond what is possible today. Previously Jonas invested in companies at a Silicon Valley VC with >1 on BN AUM, wrote software at Palantir, and was head of product at a YC and Index Ventures-backed machine learning startup.'
   thumbnailUrl: "1626872097115.jpeg"
   rockstar: false
 -
@@ -281,7 +281,7 @@
   surname: "Mukherjee"
   company: "Chainforest"
   title: "Founder"
-  bio: 'Amit Mukherjee is the founder of <a href="https://mobile.twitter.com/chainforestxyz" target="_blank">Chainforest</a>, a community-native VC fund supported by a group of 400 exceptional, curated web3 natives. Amit also is the Treasury Co-Lead at Friends With Benefits. Before going all-in on web3, Amit Mukherjee was the youngest Partner at the multi-billion dollar VC firm NEA, where he was named to the Forbes 30under30 list and invested in companies such as Duolingo, Masterclass, Uber, Snap and Bytedance.'
+  bio: 'Amit Mukherjee is the Founder of <a href="https://mobile.twitter.com/chainforestxyz" target="_blank">Chainforest</a>, a community-native VC fund supported by a group of 400 exceptional, curated web3 natives. Amit also is the Treasury Co-Lead at Friends With Benefits. Before going all-in on web3, Amit Mukherjee was the youngest Partner at the multi-billion dollar VC firm NEA, where he was named to the Forbes 30under30 list and invested in companies such as Duolingo, Masterclass, Uber, Snap and Bytedance.'
   thumbnailUrl: "AmitMukherjee.jpeg"
   rockstar: false
 # -
@@ -387,7 +387,7 @@
   id: 42
   name: "Joe"
   surname: "Howarth"
-  company: 'Jump Trading'
+  company: 'Jump Crypto'
   title: "Research and Development"
   bio: 'Joe Howarth contributes to R&D efforts at <a href="https://jumpcrypto.com/" target="_blank">Jump Crypto</a>. He’s focused on cross-chain applications powered by the Wormhole Network - particularly solving generic relaying of contract invocations to and from Solana. Outside of crypto, Joe has a long-standing love of agent-based historical society simulation, pure functional programming and skiing.'
   thumbnailUrl: "JoeHowarth.jpg"
@@ -397,7 +397,7 @@
   name: "Rahul"
   surname: "Maganti"
   company: 'Jump Crypto'
-  title: "Venture Vice President and Leader of applied ZK "
+  title: "Venture Vice President and Leader of Applied ZK "
   bio: 'Rahul is Vice President at Jump Crypto Venture and a leader on the applied ZK team. His primary focus is on cross-chain interoperability and streamlining transactional verification proofs across blockchains.'
   thumbnailUrl: "RahulMaganti.jpg"
   rockstar: True
@@ -405,7 +405,7 @@
   id: 44
   name: "Mihailo"
   surname: "Bjelic"
-  company: 'Co-founder @ Polygon'
+  company: 'Co-Founder @ Polygon'
   title: ""
   multiTitle: false
   bio: ''
@@ -416,9 +416,9 @@
   name: "Sergey"
   surname: "Gorbunov"
   company: "Axelar"
-  title: "CEO and Co-founder"
+  title: "CEO and Co-Founder"
   multiTitle: false
-  bio: 'Sergey is the co-founder and CEO of <a href="https://axelar.network/" target="_blank">Axelar</a>, a decentralized blockchain interoperability network. He received a Ph.D. from MIT, where he was a Microsoft Ph.D. fellow. His Ph.D. dissertation was on designing cryptographic tools for the cloud using lattice-based cryptography for which he received the Sprowls Doctoral Thesis Award for best thesis in CS at MIT. Sergey is a co-author of many cryptographic protocols, standards, and systems. He is an Assistant Professor at the University of Waterloo and was on the founding team of Algorand, where he worked on the core platform design and development and led the cryptography group.'
+  bio: 'Sergey is the co-Founder and CEO of <a href="https://axelar.network/" target="_blank">Axelar</a>, a decentralized blockchain interoperability network. He received a Ph.D. from MIT, where he was a Microsoft Ph.D. fellow. His Ph.D. dissertation was on designing cryptographic tools for the cloud using lattice-based cryptography for which he received the Sprowls Doctoral Thesis Award for best thesis in CS at MIT. Sergey is a co-author of many cryptographic protocols, standards, and systems. He is an Assistant Professor at the University of Waterloo and was on the founding team of Algorand, where he worked on the core platform design and development and led the cryptography group.'
   thumbnailUrl: "SergeyGorbunov.jpg"
   rockstar: false
 -
@@ -448,7 +448,7 @@
   company: "Slide"
   title: "Co-Founder"
   multiTitle: false
-  bio: 'Sam Hatem is the co-founder and Chief Technology Officer (CTO) of <a href="https://www.slide.so" target="_blank"> Slide</a>. Slide builds products to make web3 as effortless as web2 and bring the space to the masses for the first time. They raised $12.5M from top crypto funds (Polychain (from Olaf himself), Coinbase, Circle, etc.) and angels ranging from Balaji Srinivasan to Stripe executives. Previous to Slide, Sam was a blockchain developer at Polymarket, built one of the first decentralized blogging platforms, worked as a tech lead at a venture backed NFT marketplace, and studied computer science at Columbia.'
+  bio: 'Sam Hatem is the Co-Founder and Chief Technology Officer (CTO) of <a href="https://www.slide.so" target="_blank"> Slide</a>. Slide builds products to make web3 as effortless as web2 and bring the space to the masses for the first time. They raised $12.5M from top crypto funds (Polychain (from Olaf himself), Coinbase, Circle, etc.) and angels ranging from Balaji Srinivasan to Stripe executives. Previous to Slide, Sam was a blockchain developer at Polymarket, built one of the first decentralized blogging platforms, worked as a tech lead at a venture backed NFT marketplace, and studied computer science at Columbia.'
   thumbnailUrl: SamHatem.jpg
   rockstar: false
 -
@@ -538,7 +538,7 @@
   company: "Carbonbase" 
   title: "Founder and CEO" 
   multiTitle: false 
-  bio: 'Max Song is founder and CEO of <a href="https://www.carbonbase.co/" target="_blank">Carbonbase</a>, a climate tech startup leveraging data science and blockchain for enterprise solutions for measuring, managing and reducing carbon emissions. He is also cofounder of the world’s largest sustainability standard for Bitcoin: www.sustainablebtc.org/ to drive institutional adoption, and Project ARK - a leading "sustainable metaverse" studio that works with global NGOs, and brands to apply the use of NFTs in catalyzing sustainable and social development. Previously, he worked in investments for HK family offices, where he invested in TMT, AI, blockchain, and healthcare. He worked as a data scientist in Silicon Valley for Ayasdi, where he helped with data analysis applications for finance, biotech and healthcare. He received a Masters degree from Schwarzman College, Tsinghua University, and Bachelor of Science from Brown University, where he majored in Applied Math. He is passionate about mobilizing the capabilities of technology and finance to realize the promises of UN Sustainable Development Goals. He is a recipient of the 2021 Generation T Tatler List, and a 2021 Forbes 30U30 recipient.'
+  bio: 'Max Song is Founder and CEO of <a href="https://www.carbonbase.co/" target="_blank">Carbonbase</a>, a climate tech startup leveraging data science and blockchain for enterprise solutions for measuring, managing and reducing carbon emissions. He is also cofounder of the world’s largest sustainability standard for Bitcoin: www.sustainablebtc.org/ to drive institutional adoption, and Project ARK - a leading "sustainable metaverse" studio that works with global NGOs, and brands to apply the use of NFTs in catalyzing sustainable and social development. Previously, he worked in investments for HK family offices, where he invested in TMT, AI, blockchain, and healthcare. He worked as a data scientist in Silicon Valley for Ayasdi, where he helped with data analysis applications for finance, biotech and healthcare. He received a Masters degree from Schwarzman College, Tsinghua University, and Bachelor of Science from Brown University, where he majored in Applied Math. He is passionate about mobilizing the capabilities of technology and finance to realize the promises of UN Sustainable Development Goals. He is a recipient of the 2021 Generation T Tatler List, and a 2021 Forbes 30U30 recipient.'
   thumbnailUrl: MaxSong.jpg
   rockstar: false
 -
@@ -548,7 +548,7 @@
   company: "Safi Protocol" 
   title: "Founder and CEO" 
   multiTitle: false 
-  bio: 'Joe is the founder and CEO of <a href="https://www.safi.eco/" target="_blank">Safi Protocol</a>, a climate fintech company focusing on renewable project financing in emerging market. Safi is bringing $300B of project financing to Africa, Southeast Asia, and other emerging markets. Flighting climate change needs participation from all the countries sharing our planet. Resolving the financing roadblock will unleash massive potential to renewable energy industry in those markets. Prior to Safi, Joe was the founder of PBCN Solar Tech, an AM tech SaaS company in China focusing on renewable energy. Joe was also the head of Asset Management for PPL Corp, in which position he oversees $1.5B of solar assets across North America. Joe also taught the course International Project and Infrastructure Finance at Columbia University from 2020-2021, and he holds a master’s degree from Columbia University in Energy and Environment with specialization in Data Analytics. Joe also has a keen interest in cultural diversity, having worked in Afghanistan and Sri Lanka as a United Nations volunteer during their civil wars.'
+  bio: 'Joe is the Founder and CEO of <a href="https://www.safi.eco/" target="_blank">Safi Protocol</a>, a climate fintech company focusing on renewable project financing in emerging market. Safi is bringing $300B of project financing to Africa, Southeast Asia, and other emerging markets. Flighting climate change needs participation from all the countries sharing our planet. Resolving the financing roadblock will unleash massive potential to renewable energy industry in those markets. Prior to Safi, Joe was the founder of PBCN Solar Tech, an AM tech SaaS company in China focusing on renewable energy. Joe was also the head of Asset Management for PPL Corp, in which position he oversees $1.5B of solar assets across North America. Joe also taught the course International Project and Infrastructure Finance at Columbia University from 2020-2021, and he holds a master’s degree from Columbia University in Energy and Environment with specialization in Data Analytics. Joe also has a keen interest in cultural diversity, having worked in Afghanistan and Sri Lanka as a United Nations volunteer during their civil wars.'
   thumbnailUrl: JoeHao.jpg
   rockstar: false
 -
@@ -556,9 +556,9 @@
   name: "Joshia" 
   surname: "Seam"
   company: "Zesty" 
-  title: "Cofounder" 
+  title: "Co-Founder" 
   multiTitle: false 
-  bio: 'Joshia Seam is a cofounder of Zesty, a Metaverse data aggregation platform which helps creators monetize their creations and build better experiences through analytics.'
+  bio: 'Joshia Seam is a Co-Founder of Zesty, a Metaverse data aggregation platform which helps creators monetize their creations and build better experiences through analytics.'
   thumbnailUrl: jseam.jpg
   rockstar: false
 -
