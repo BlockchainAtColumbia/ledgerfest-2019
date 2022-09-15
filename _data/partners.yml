@@ -1,20 +1,20 @@
 -
-   group: "Platinum Sponsors"
-   elements:
-     - {name: "Near", description: "Near", link: "https://near.org/", imageUrl: "Near.jpeg"}
-     - {name: "Jane Street", description: "Jane Street", link: "https://www.janestreet.com/", imageUrl: "janestreet.jpeg"}
-     - {name: "Jump Crypto", description: "Jump Crypto", link: "https://jumpcrypto.com/", imageUrl: "Color@2x.png"}
- -
-   group: "Gold Sponsors"
-   elements:
-     - {name: "Polygon", description: "Polygon", link: "https://polygon.technology/", imageUrl: "Polygon.jpeg"}
- -
-   group: "Silver Sponsors"
-   elements:
-     - {name: "Lido", description: "Lido", link: "https://lido.fi/", imageUrl: "Lido.jpeg"}
-     - {name: "Okx", description: "Okx", link: "https://www.okx.com/web3", imageUrl: "Okx.jpg"}
-     - {name: "SuperRare", description: "SuperRare", link: "https://superrare.com/", imageUrl: "SR_Full.png"}
- -
+  group: "Platinum Sponsors"
+  elements:
+    - {name: "Near", description: "Near", link: "https://near.org/", imageUrl: "Near.jpeg"}
+    - {name: "Jane Street", description: "Jane Street", link: "https://www.janestreet.com/", imageUrl: "janestreet.jpeg"}
+    - {name: "Jump Crypto", description: "Jump Crypto", link: "https://jumpcrypto.com/", imageUrl: "Color@2x.png"}
+-
+  group: "Gold Sponsors"
+  elements:
+    - {name: "Polygon", description: "Polygon", link: "https://polygon.technology/", imageUrl: "Polygon.jpeg"}
+-
+  group: "Silver Sponsors"
+  elements:
+    - {name: "Lido", description: "Lido", link: "https://lido.fi/", imageUrl: "Lido.jpeg"}
+    - {name: "Okx", description: "Okx", link: "https://www.okx.com/web3", imageUrl: "Okx.jpg"}
+    - {name: "SuperRare", description: "SuperRare", link: "https://superrare.com/", imageUrl: "SR_Full.png"}
+-
   group: "Bronze Sponsors"
   elements:
     - {name: "Algorand", description: "Algorand", link: "https://www.algorand.com/", imageUrl: "Algorand_logo.jpeg"}
