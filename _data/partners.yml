@@ -7,13 +7,14 @@
  -
    group: "Gold Sponsors"
    elements:
-     - {name: "Polygon", description: "Polygon", link: "https://polygon.technology/", imageUrl: "Polygon.jpeg"}
+     
  -
    group: "Silver Sponsors"
    elements:
      - {name: "Lido", description: "Lido", link: "https://lido.fi/", imageUrl: "Lido.jpeg"}
      - {name: "Okx", description: "Okx", link: "https://www.okx.com/web3", imageUrl: "Okx.jpg"}
      - {name: "SuperRare", description: "SuperRare", link: "https://superrare.com/", imageUrl: "SR_Full.png"}
+     - {name: "Polygon", description: "Polygon", link: "https://polygon.technology/", imageUrl: "Polygon.jpeg"}
  -
   group: "Bronze Sponsors"
   elements:
