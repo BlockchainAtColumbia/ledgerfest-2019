@@ -45,12 +45,12 @@
   complexity: "Beginner to Intermediate"
  -
   id: 7 
-  title: "Crypto X Regulations"
+  title: "Regulating The Crypto Ecosystem"
   description: ""
   speakers: [24,25,17,33]
  -
   id: 8
-  title: "DeFi vs CeFi"
+  title: "Leaders In DeFi"
   description: ""
   speakers: [27,38,39,52,41,56]
  -
@@ -113,7 +113,7 @@
   speakers: [7,59]
  -
   id: 20
-  title: "Careers/Alumni"
+  title: "Lions in Crypto"
   description: ""
   speakers: [26,48,49,53]
  -
@@ -139,9 +139,9 @@
   video: "//www.youtube.com/embed/fOGdb1CTu5c"
  -
   id: 24
-  title: "Anon Culture in Crypto"
+  title: "Liquid Staking After the Merge"
   description: ""
-  speakers: [62]
+  speakers: [69]
  -
   id: 25
   title: "Targeted Workshop To Be Announced"
@@ -163,7 +163,7 @@
 
  -
   id: 28
-  title: "Venture Capital"
+  title: "Investing In The Future of Crypto"
   description: ""
   speakers: [18,8,51]
  -
