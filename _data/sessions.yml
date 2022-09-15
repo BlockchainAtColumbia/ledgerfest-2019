@@ -39,26 +39,26 @@
   video: "//www.youtube.com/embed/mAmm51VHoL4"
  -
   id: 6
-  title: "Keynote"
+  title: "Onboarding the Next Billion Users into Web3"
   description: "To Be Announced"
   speakers: [5]
   complexity: "Beginner to Intermediate"
  -
   id: 7 
-  title: "Crypto X Regulations"
+  title: "Regulating The Crypto Ecosystem"
   description: ""
   speakers: [24,25,17,33]
  -
   id: 8
-  title: "DeFi vs CeFi"
+  title: "Leaders In DeFi"
   description: ""
-  speakers: [27,38,39,52,41,56]
+  speakers: [27,38,52,41,56]
  -
   id: 9
   title: "Lunch"
   place: "The North Gallery"
   service: true
-  description: "Meal to be Anounced"
+  description: "" 
  -
   id: 10
   title: "Solo Talk"
@@ -88,7 +88,7 @@
   speakers: [11]
  -
   id: 15
-  title: "Scaling Solutions and What's Next"
+  title: "Scaling Solutions"
   description: ""
   speakers: [28,13,3,19]
  -
@@ -113,13 +113,13 @@
   speakers: [7,59]
  -
   id: 20
-  title: "Careers/Alumni"
+  title: "Lions in Crypto"
   description: ""
   speakers: [26,48,49,53]
  -
   id: 21
   title: "How to build a Cross-Chain application from 0 to 1"
-  description: 'Please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKuG7pxHe0bqf6d4fx5VC18sArLFQG2_fGqedv8UsvPQN1Ww/viewform" target="_blank">link</a> for consideration'
+  description: 'Please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKuG7pxHe0bqf6d4fx5VC18sArLFQG2_fGqedv8UsvPQN1Ww/viewform" target="_blank">link</a> for consideration.'
   speakers: [61]
  -
   id: 22
@@ -130,18 +130,18 @@
   complexity: "Beginner to Intermediate"
  -
   id: 23
-  title: "Zk"
+  title: "ZKP Technology"
   description: "Zero Knowledge Protocol (or Zero Knowledge Password Proof, ZKP) is a way of doing authentication where no passwords are exchanged, which means they cannot be stolen. This is cool because it makes your communication so secure and protected that nobody else can find out what you’re communicating about or what files you are sharing with each other."
   subtype: presentation
-  speakers: [14,11]
+  speakers: [14,11,43]
   complexity: "Beginner to Intermediate"
   presentation: ""
   video: "//www.youtube.com/embed/fOGdb1CTu5c"
  -
   id: 24
-  title: "Anon Culture in Crypto"
+  title: "Liquid Staking After the Merge"
   description: ""
-  speakers: [56]
+  speakers: [39] 
  -
   id: 25
   title: "Targeted Workshop To Be Announced"
@@ -159,11 +159,10 @@
   id: 27
   title: "Why DAO's"
   description: "The best time to talk with speakers and attendees"
-  speakers: [23,29,46,9]
-
+  speakers: [23,29,46,9,16]
  -
   id: 28
-  title: "Venture Capital"
+  title: "Investing In The Future of Crypto"
   description: ""
   speakers: [18,8,51]
  -

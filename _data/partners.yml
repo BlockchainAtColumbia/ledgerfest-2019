@@ -1,4 +1,4 @@
- -
+-
    group: "Platinum Sponsors"
    elements:
      - {name: "Near", description: "Near", link: "https://near.org/", imageUrl: "Near.jpeg"}
@@ -13,6 +13,7 @@
    elements:
      - {name: "Lido", description: "Lido", link: "https://lido.fi/", imageUrl: "Lido.jpeg"}
      - {name: "Okx", description: "Okx", link: "https://www.okx.com/web3", imageUrl: "Okx.jpg"}
+     - {name: "SuperRare", description: "SuperRare", link: "https://superrare.com/", imageUrl: "SR_Full.png"}
  -
   group: "Bronze Sponsors"
   elements:
@@ -23,7 +24,7 @@
     - {name: "Galaxy", description: "Galaxy", link: "https://www.galaxy.com/", imageUrl: "Galaxy.jpeg"}
     - {name: "Manta Network", description: "Manta Network", link: "https://www.manta.network/", imageUrl: "Manta_Logo.jpeg"}
     - {name: "Metasil", description: "Metasil", link: "https://metasill.io/", imageUrl: "metasill.jpeg"}
-    - {name: "Pangea Digital Asset Group", description: "Pangea Digital Asset Group", link: "https://www.pangeafund.com/", imageUrl: "pangea.jpeg"}
-    - {name: "SuperRare", description: "Pangea Digital Asset Group", link: "https://superrare.com/", imageUrl: "SR_Full.png"}
+    - {name: "Pangea Digital Asset Group", description: "Pangea Digital Asset Group", link: "https://www.pangeafund.com/", imageUrl: "Pangeaupdated.jpg"}
+    
 
 
