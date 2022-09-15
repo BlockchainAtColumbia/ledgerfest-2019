@@ -6,7 +6,7 @@
      - {name: "Jump Crypto", description: "Jump Crypto", link: "https://jumpcrypto.com/", imageUrl: "Color@2x.png"}
  -
    group: "Gold Sponsors"
-   elements:
+   elements: " "
      
  -
    group: "Silver Sponsors"
