@@ -396,10 +396,10 @@
   id: 43
   name: "Rahul"
   surname: "Maganti"
-  company: 'Venture Vice President @ Jump Crypto'
-  title: "Leader of Applied ZK @ Jump Crypto"
+  company: 'Leader of Applied ZK @ Jump Crypto'
+  title: "Venture Vice President @ Jump Crypto"
   multiTitle: true
-  bio: 'Rahul is Vice President at Jump Crypto Venture and a leader on the applied ZK team. His primary focus is on cross-chain interoperability and streamlining transactional verification proofs across blockchains.'
+  bio: 'Rahul is Vice President at Jump Crypto Venture and a leader on the Applied ZK team. His primary focus is on cross-chain interoperability and streamlining transactional verification proofs across blockchains.'
   thumbnailUrl: "RahulMaganti.jpg"
   rockstar: True
 -
