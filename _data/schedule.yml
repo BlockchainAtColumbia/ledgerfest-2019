@@ -25,12 +25,17 @@
     - {
         startTime: "11:am",
         endTime: "12:pm",
-        sessionIds: [6,7,8,0]
+        sessionIds: [6,8,7,0]
     }
     - {
         startTime: "12:pm",
         endTime: "1:pm",
         sessionIds: [9]
+    }
+    - {
+        startTime: "12:pm",
+        endTime: "1:pm",
+        sessionIds: [29]
     }
     - {
         startTime: "1:pm",
@@ -40,12 +45,12 @@
     - {
         startTime: "1:45pm",
         endTime: "2:30pm",
-        sessionIds: [14,15,16,17]
+        sessionIds: [16,15,14,17]
     }
     - {
         startTime: "2:30pm",
         endTime: "3:15pm",
-        sessionIds: [18,19,20,21]
+        sessionIds: [20,18,19,21]
     }
     - {
         startTime: "3:15pm",
@@ -55,7 +60,7 @@
     - {
         startTime: "4:pm",
         endTime: "4:45pm",
-        sessionIds: [26,27,28,29]
+        sessionIds: [27,28,26]
     }
     - {
         startTime: "5:pm",
