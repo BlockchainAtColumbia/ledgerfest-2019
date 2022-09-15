@@ -162,7 +162,7 @@
   name: "Alexander C."
   surname: "Drylewski"
   company: "Skadden"
-  title: "Partner, Co-Chair, Web3 and Digital Assets"
+  title: "Partner and Co-Chair, Web3 and Digital Assets"
   bio: 'Alex Drylewski is co-chair of the <a href="https://www.skadden.com/capabilities/practices/web3-and-digital-assets" target="_blank">Skadden Web3 and Digital Assets Group</a>. His practice focuses on high-stakes complex commercial litigation around the world, and he has represented companies and individuals across nearly every type of industry and dispute, including high-profile commercial litigation involving emerging technologies, government investigations, securities class actions, trials and appeals.'
   thumbnailUrl: drylewski_alex.jpeg
   rockstar: false
@@ -396,8 +396,8 @@
   id: 43
   name: "Rahul"
   surname: "Maganti"
-  company: 'Jump Crypto'
-  title: "Venture Vice President and Leader of Applied ZK"
+  company: 'Venture Vice President and Leader of Applied ZK @ Jump Crypto'
+  title: ""
   bio: 'Rahul is Vice President at Jump Crypto Venture and a leader on the applied ZK team. His primary focus is on cross-chain interoperability and streamlining transactional verification proofs across blockchains.'
   thumbnailUrl: "RahulMaganti.jpg"
   rockstar: True
