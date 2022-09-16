@@ -582,6 +582,16 @@
   bio: ''
   thumbnailUrl: Color@2x.png
   rockstar: false
+-
+  id: 62
+  name: "Jane Street"
+  surname: ""
+  company: ""
+  title: ""
+  multiTitle: false
+  bio: ''
+  thumbnailUrl: janestreet.jpeg
+  rockstar: false
  
 #
 #
