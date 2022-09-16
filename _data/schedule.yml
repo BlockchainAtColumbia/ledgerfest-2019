@@ -24,11 +24,11 @@
     }
     - {
         startTime: "11:am",
-        endTime: "12:am",
+        endTime: "12:pm",
         sessionIds: [6,8,7,0]
     }
     - {
-        startTime: "12:am",
+        startTime: "12:pm",
         endTime: "1:pm",
         sessionIds: [9]
     }
@@ -55,7 +55,7 @@
     - {
         startTime: "4:pm",
         endTime: "4:45pm",
-        sessionIds: [26,27,28]
+        sessionIds: [27,28,26,0]
     }
     - {
         startTime: "5:pm",
