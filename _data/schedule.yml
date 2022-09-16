@@ -33,6 +33,11 @@
         sessionIds: [9]
     }
     - {
+        startTime: "12:pm",
+        endTime: "1:pm",
+        sessionIds: [29]
+    }
+    - {
         startTime: "1:pm",
         endTime: "1:45pm",
         sessionIds: [11,10,12,13]
