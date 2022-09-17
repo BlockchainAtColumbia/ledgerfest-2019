@@ -356,12 +356,12 @@
   rockstar: false
 -
   id: 39
-  name: "Lido"
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: "lido.jpeg"
+  name: "Valerie"
+  surname: "Tetu"
+  company: "Lido"
+  title: "GTM strategy Lead"
+  bio: 'Valerie is responsible for GTM strategy at Lido Finance. Lido is the leading liquid staking platform, and is recognized among the top DeFi protocols by TVL. Lido makes staking on Proof-of-Stake blockchains more simple, secure, and profitable. By staking with Lido, users receive a liquid version of their staked assets on a 1:1 basis that they can use across a broad ecosystem of DeFi applications to earn additional yield. Lido has acquired the largest market share of staked Ethereum, and its liquid staking derivative token stETH is currently the most liquid and integrated liquid staking asset on the market. Valerie obtained her degree from Babson College, Stanford University, and London School of Economics, and previously held roles leading technology partnerships at a public AI SaaS company and in M&A.'
+  thumbnailUrl: "Valerie.jpg"
   rockstar: false
 -
   id: 40
