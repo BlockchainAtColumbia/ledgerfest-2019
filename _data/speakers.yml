@@ -284,6 +284,14 @@
   bio: 'Amit Mukherjee is the Founder of <a href="https://mobile.twitter.com/chainforestxyz" target="_blank">Chainforest</a>, a community-native VC fund supported by a group of 400 exceptional, curated web3 natives. Amit also is the Treasury Co-Lead at Friends With Benefits. Before going all-in on web3, Amit Mukherjee was the youngest Partner at the multi-billion dollar VC firm NEA, where he was named to the Forbes 30under30 list and invested in companies such as Duolingo, Masterclass, Uber, Snap and Bytedance.'
   thumbnailUrl: "AmitMukherjee.jpeg"
   rockstar: false
+-
+  id: 28
+  name: "Nick"
+  surname: "White
+  company: 'Celestia Labs'
+  title: "COO"
+  bio: 'Co-founder of Harmony, BS & MS from Stanford,currently at <a href="https://celestia.org/" target="_blank">Celestia Labs</a>'
+  thumbnailUrl: "NickWhite.jpg"
 # -
 #   id: 31
 #   name: "Noel"
