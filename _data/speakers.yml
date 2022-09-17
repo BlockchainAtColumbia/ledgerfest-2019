@@ -592,7 +592,16 @@
   bio: ''
   thumbnailUrl: janestreet.jpeg
   rockstar: false
- 
+-
+  id: 64
+  name: "Cameron"
+  surname: "Dennis"
+  company: "Banyan Collective"
+  title: "CEO"
+  multiTitle: false
+  bio: ''
+  thumbnailUrl: cameron.jpeg
+  rockstar: false
 #
 #
 #  id: 13
