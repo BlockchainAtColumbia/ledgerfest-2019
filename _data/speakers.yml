@@ -309,15 +309,15 @@
 #   company: "Coterie Capital/Reidar DAO"
 #   bio: ' '
 #   thumbnailUrl: "Abrahampfp.jpeg"
-#-
-#  id: 35
-#  name: "Polygon"
-#  surname: ""
-#  company: "Polygon"
-#  title: ""
-#  bio: ""
-#  thumbnailUrl: "polygon.png"
-#  rockstar: false
+-
+  id: 35
+  name: "Nick"
+  surname: "White"
+  company: "Celestia"
+  title: "COO"
+  bio: 'Co-founder of Harmony, BS & MS from Stanford, currently at <a href="https://celestia.org/" target="_blank">Celestia Labs</a>.'
+  thumbnailUrl: "NickWhite.jpg"
+  rockstar: false
 -
   id: 36
   name: "Vinny"
