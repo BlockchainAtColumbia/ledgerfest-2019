@@ -50,7 +50,7 @@
   speakers: [24,25,17,33]
  -
   id: 8
-  title: "Leaders In DeFi"
+  title: "Defi: Present Future"
   description: ""
   speakers: [27,38,52,41,56]
  -
@@ -90,7 +90,7 @@
   id: 15
   title: "Scaling Solutions"
   description: ""
-  speakers: [28,13,3,19]
+  speakers: [35,13,3,19]
  -
   id: 16
   title: "Energy, Climate, Mining"
@@ -98,9 +98,9 @@
   speakers: [20,50,57,58]
  -
   id: 17
-  title: "Targeted Workshop To Be Anounced"
-  description: ""
-  speakers: [22]
+  title: "NEAR’s Roadmap to a Billion Users"
+  description: 'Please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKuG7pxHe0bqf6d4fx5VC18sArLFQG2_fGqedv8UsvPQN1Ww/viewform" target="_blank">link</a> for consideration.'
+  speakers: [64]
  -
   id: 18
   title: "Solo Talk"

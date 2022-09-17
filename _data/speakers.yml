@@ -145,7 +145,7 @@
   company: "Hyperlane"
   title: "Smart Contract Engineer"
   bio: 'Yorke is a Smart Contract Enginner focused on distributed systems, cryptography, and economics to build a trustless future. Before Abacus, Yorke held positions at <a href="https://gauntlet.network/" target="_blank">Gauntlet</a>, <a href="https://celo.org/" target="_blank">Celo</a>, and <a href="https://consensys.net/" target="_blank">Consensys</a>. He graduated from Rice University with a BSE in Computer Science.'
-  thumbnailUrl: YorkeRhodes.jpeg
+  thumbnailUrl: YorkeRhodes.jpeg 
   rockstar: false
 -
   id: 16
@@ -309,15 +309,15 @@
 #   company: "Coterie Capital/Reidar DAO"
 #   bio: ' '
 #   thumbnailUrl: "Abrahampfp.jpeg"
-#-
-#  id: 35
-#  name: "Polygon"
-#  surname: ""
-#  company: "Polygon"
-#  title: ""
-#  bio: ""
-#  thumbnailUrl: "polygon.png"
-#  rockstar: false
+-
+  id: 35
+  name: "Nick"
+  surname: "White"
+  company: "Celestia"
+  title: "COO"
+  bio: 'Co-founder of Harmony, BS & MS from Stanford, currently at <a href="https://celestia.org/" target="_blank">Celestia Labs</a>.'
+  thumbnailUrl: "NickWhite.jpg"
+  rockstar: false
 -
   id: 36
   name: "Vinny"
@@ -356,12 +356,12 @@
   rockstar: false
 -
   id: 39
-  name: "Lido"
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: "lido.jpeg"
+  name: "Valerie"
+  surname: "Tetu"
+  company: "Lido"
+  title: "GTM Strategy Lead"
+  bio: 'Valerie is responsible for GTM strategy at Lido Finance. Lido is the leading liquid staking platform, and is recognized among the top DeFi protocols by TVL. Lido makes staking on Proof-of-Stake blockchains more simple, secure, and profitable. By staking with Lido, users receive a liquid version of their staked assets on a 1:1 basis that they can use across a broad ecosystem of DeFi applications to earn additional yield. Lido has acquired the largest market share of staked Ethereum, and its liquid staking derivative token stETH is currently the most liquid and integrated liquid staking asset on the market. Valerie obtained her degree from Babson College, Stanford University, and London School of Economics, and previously held roles leading technology partnerships at a public AI SaaS company and in M&A.'
+  thumbnailUrl: "Valerie.jpg"
   rockstar: false
 -
   id: 40
@@ -479,7 +479,7 @@
   company: "Lemma Finance" 
   title: "Co-Founder" 
   multiTitle: false 
-  bio: 'Matthieu graduated from SEAS in 2017 and is currently Co-Founder at <a href="https://www.lemma.finance/" target="_blank">Lemma Finance</a> '
+  bio: 'Matthieu Gavaudan graduated from Columbia with a B.S. in Computer Science in 2017. He is a Co-Founder at <a href="https://www.lemma.finance/" target="_blank">Lemma Finance</a>, a decentralized spot exchange built on perpetual futures markets. He previously worked as a product manager for fintech startups and as a quant before that. He mined his first Bitcoin in 2014 as a freshman at Columbia.'
   thumbnailUrl: MatthieuLemma.jpeg
   rockstar: false
 -
