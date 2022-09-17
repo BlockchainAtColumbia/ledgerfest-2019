@@ -212,15 +212,15 @@
   bio: 'Azeem started his career in biotech and since then have moved on to gain experience in the media, tech, esports, gaming, entertainment, journalism, and cryptocurrency industries. He spent years wearing many hats in multiple projects through a consultancy he started, many of which have been featured in places from Tech Crunch and Forbes to small music publications. His specialties are understanding and executing on the intersection of the various industries he has worked in, as well as bringing together disparate contacts to create innovative approaches to success.'
   thumbnailUrl: AzeemKhan.jpeg
   rockstar: false
-#-
-#  id: 28
-#  name: "Aditi"
-#  surname: "Sriram"
-#  company: "Celestia <> Bain Crypto"
-#  title: "Product Manger and Scout"
-#  bio: "Former product manager at The Graph and ConsenSys, with a background in developer growth"
-#  thumbnailUrl: "Aditi.jpg"
-#  rockstar: false
+-
+  id: 28
+  name: "Nick"
+  surname: "White
+  company: "<a href="https://www.whitecase.com/law/practices/mergers-acquisitions" target="_blank">Celestia Labs</a>"
+  title: "COO"
+  bio: "Co-founder of Harmony, BS & MS from Stanford"
+  thumbnailUrl: "Aditi.jpg"
+  rockstar: false
 -
   id: 24
   name: "Prat"
