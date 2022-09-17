@@ -67,7 +67,8 @@
   team: true
   ribbon: 
     - {abbr: "CS", title: "Information Science"}
-  social: 
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/wendy-00-du/"}
 - 
   id: 106
   name: "Scott"
