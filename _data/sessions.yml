@@ -50,7 +50,7 @@
   speakers: [24,25,17,33]
  -
   id: 8
-  title: "Leaders In DeFi"
+  title: "Defi: Present Future"
   description: ""
   speakers: [27,38,52,41,56]
  -
@@ -98,9 +98,9 @@
   speakers: [20,50,57,58]
  -
   id: 17
-  title: "Targeted Workshop To Be Anounced"
+  title: "NEAR’s Roadmap to a Billion Users"
   description: ""
-  speakers: [22]
+  speakers: [64]
  -
   id: 18
   title: "Solo Talk"
