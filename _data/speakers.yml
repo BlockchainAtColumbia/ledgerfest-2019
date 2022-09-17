@@ -216,7 +216,7 @@
   id: 28
   name: "Nick"
   surname: "White
-  company: '<a href="https://www.whitecase.com/law/practices/mergers-acquisitions" target="_blank">Celestia Labs</a>'
+  company: '<a href="https://celestia.org/" target="_blank">Celestia Labs</a>'
   title: "COO"
   bio: "Co-founder of Harmony, BS & MS from Stanford"
   thumbnailUrl: "NickWhite.jpg"
