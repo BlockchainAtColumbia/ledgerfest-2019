@@ -98,3 +98,14 @@
   ribbon: 
     - {abbr: "CS", title: "Information Science"}
   social:
+- 
+  id: 109
+  name: "Edison"
+  surname: "Leung"
+  title: "Defi Governance and Branding"
+  thumbnailUrl: EdisonLeung.jpg
+  team: true
+  ribbon: 
+    - {abbr: "CS", title: "Information Science"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/zerotoongame"} 
