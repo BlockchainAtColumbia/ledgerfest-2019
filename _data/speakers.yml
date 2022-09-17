@@ -139,6 +139,15 @@
   thumbnailUrl: AlexToberoff.jpg
   rockstar: false
 -
+  id: 64
+  name: "Nick"
+  surname: "White
+  company: '<a href="https://celestia.org/" target="_blank">Celestia Labs</a>'
+  title: "COO"
+  bio: "Co-founder of Harmony, BS & MS from Stanford"
+  thumbnailUrl: "NickWhite.jpg"
+  rockstar: false
+-
   id: 15
   name: "Yorke"
   surname: "Rhodes"
