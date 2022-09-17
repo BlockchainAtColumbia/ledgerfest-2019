@@ -212,15 +212,15 @@
   bio: 'Azeem started his career in biotech and since then have moved on to gain experience in the media, tech, esports, gaming, entertainment, journalism, and cryptocurrency industries. He spent years wearing many hats in multiple projects through a consultancy he started, many of which have been featured in places from Tech Crunch and Forbes to small music publications. His specialties are understanding and executing on the intersection of the various industries he has worked in, as well as bringing together disparate contacts to create innovative approaches to success.'
   thumbnailUrl: AzeemKhan.jpeg
   rockstar: false
--
-  id: 28
-  name: "Nick"
-  surname: "White
-  company: '<a href="https://celestia.org/" target="_blank">Celestia Labs</a>'
-  title: "COO"
-  bio: "Co-founder of Harmony, BS & MS from Stanford"
-  thumbnailUrl: "NickWhite.jpg"
-  rockstar: false
+#-
+#  id: 28
+#  name: "Aditi"
+#  surname: "Sriram"
+#  company: "Celestia <> Bain Crypto"
+#  title: "Product Manger and Scout"
+#  bio: "Former product manager at The Graph and ConsenSys, with a background in developer growth"
+#  thumbnailUrl: "Aditi.jpg"
+#  rockstar: false
 -
   id: 24
   name: "Prat"
@@ -479,7 +479,7 @@
   company: "Lemma Finance" 
   title: "Co-Founder" 
   multiTitle: false 
-  bio: 'Matthieu Gavaudan graduated from Columbia with a B.S. in Computer Science in 2017. He is a Co-Founder at <a href="https://www.lemma.finance/" target="_blank">Lemma Finance</a>, a decentralized spot exchange built on perpetual futures markets. He previously worked as a product manager for fintech startups and as a quant before that. He mined his first Bitcoin in 2014 as a freshman at Columbia.'
+  bio: 'Matthieu Gavaudan graduated from Columbia with a B.S. in Computer Science in 2017. He is a Co-Founder at <a href="https://www.lemma.finance/" target="_blank">Lemma Finance</a>, a decentralized spot exchange built on perpetual futures markets. He previously worked as a product manager for fintech startups and as a quant before that. He mined his first Bitcoin in 2014 as a freshman at Columbia.'
   thumbnailUrl: MatthieuLemma.jpeg
   rockstar: false
 -
