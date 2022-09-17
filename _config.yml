@@ -93,13 +93,13 @@ mapCenterCoordinates: "40.809984, -73.961386"
 mapMobileCenterCoordinates: "40.809984, -73.961386"
 
 # Venue Block
-venueBlockTitle: "Venue "
+venueBlockTitle: "Venue"
 venueBigImage: "One-Liberty-Plaza-Breakout.jpeg"
 venueSmallImage1: "One-Liberty-Plaza-2nd-Floor-North-Boardroom.jpeg"
 venueSmallImage2: "One-Liberty-Plaza-Gallery.jpeg"
 venueSmallImage3: "Convene-New-York-City-One-Liberty-Plaza-2nd-Floor-Forum__3_.jpeg"
-venueTitle: "Convene One Liberty Plaza "
-venueFeatures: ["All Rooms", '<a href="https://www.google.com/maps/place/Convene/@40.7097922,-74.012662,17z/data=!3m2!4b1!5s0x89c25a40d1d8cffd:0x1b2be545314073bc!4m5!3m4!1s0x89c25b11ecd74629:0x1e46d18843e5070f!8m2!3d40.7097922!4d-74.0104733" target="_blank">1 Liberty St, New York, NY 10006</a>'] 
+venueTitle: "Convene One Liberty Plaza"
+venueFeatures: ["All Rooms", "<a href='https://www.google.com/maps/place/Convene/@40.7097922,-74.012662,17z/data=!3m2!4b1!5s0x89c25a40d1d8cffd:0x1b2be545314073bc!4m5!3m4!1s0x89c25b11ecd74629:0x1e46d18843e5070f!8m2!3d40.7097922!4d-74.0104733' target='_blank'>1 Liberty St, New York, NY 10006</a>"] 
 
 
 
