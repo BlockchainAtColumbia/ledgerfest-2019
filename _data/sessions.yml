@@ -123,18 +123,19 @@
   speakers: [61]
  -
   id: 22
-  title: "Solo Talk"
+  title: "An Introduction to Proof of Work and Proof of Stake"
   description: "To Be Announced"
-  subtype: presentation
+  #subtype: presentation
   speakers: [12]
-  complexity: "Beginner to Intermediate"
+  complexity: "Beginner "
+  video: "//www.youtube.com/embed/migKc4p8UfA"
  -
   id: 23
   title: "ZKP Technology"
   description: "Zero Knowledge Protocol (or Zero Knowledge Password Proof, ZKP) is a way of doing authentication where no passwords are exchanged, which means they cannot be stolen. This is cool because it makes your communication so secure and protected that nobody else can find out what you’re communicating about or what files you are sharing with each other."
   subtype: presentation
   speakers: [14,11,43]
-  complexity: "Beginner to Intermediate"
+  complexity: "Advanced"
   presentation: ""
   video: "//www.youtube.com/embed/fOGdb1CTu5c"
  -
@@ -145,7 +146,7 @@
  -
   id: 25
   title: "Jane Street Workshop"
-  description: " "
+  description: ""
   speakers: [63]
  -
   id: 26
