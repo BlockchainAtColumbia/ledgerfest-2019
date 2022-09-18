@@ -128,7 +128,7 @@
   #subtype: presentation
   speakers: [12]
   complexity: "Beginner "
-  video: "://www.youtube.com/embed/migKc4p8UfA"
+  video: "//www.youtube.com/embed/migKc4p8UfA"
  -
   id: 23
   title: "ZKP Technology"
