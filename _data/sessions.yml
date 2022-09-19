@@ -70,7 +70,7 @@
   id: 11
   title: "Artists, Anons, and Attorneys: Beyond the JPEG"
   description: ""
-  speakers: [30,36,37,2,40]
+  speakers: [30,36,37,2,40,71]
  -
   id: 12
   title: "Trading/Markets"
@@ -193,6 +193,6 @@
   speakers: [22]
  -
   id: 34
-  title: "Web3 infrastructure - the next generation of cloud"
+  title: "Web3 Infrastructure - the next generation of cloud"
   description: ""
   speakers: [70]
