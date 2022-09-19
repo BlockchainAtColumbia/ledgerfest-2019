@@ -8,7 +8,7 @@
   title: "Breakfast" 
   place: "The North Gallery"
   service: true
-  description: ""
+  description: '<a href="https://drive.google.com/file/d/1y9QRBr854pRl5BTDTRYavLYcJGDYM2S5/view?usp=sharing" target="_blank">Breakfast Menu</a>'
  -
   id: 2
   title: "Keynote"
@@ -58,7 +58,7 @@
   title: "Lunch"
   place: "The North Gallery"
   service: true
-  description: "<a href="https://drive.google.com/file/d/1y9QRBr854pRl5BTDTRYavLYcJGDYM2S5/view?usp=sharing" target="_blank">Breakfast Menu</a>, <a href="https://drive.google.com/file/d/15i-zEAAw1R8k_SpJCLf8Tvra7i_ey6xu/view?usp=sharing" target="_blank">Lunch Menu</a>"
+  description: '<a href="https://drive.google.com/file/d/15i-zEAAw1R8k_SpJCLf8Tvra7i_ey6xu/view?usp=sharing" target="_blank">Lunch Menu</a>'
  -
   id: 10
   title: "Solo Talk"
@@ -134,7 +134,7 @@
   title: "ZKP Technology"
   description: "Zero Knowledge Protocol (or Zero Knowledge Password Proof, ZKP) is a way of doing authentication where no passwords are exchanged, which means they cannot be stolen. This is cool because it makes your communication so secure and protected that nobody else can find out what you’re communicating about or what files you are sharing with each other."
   subtype: presentation
-  speakers: [14,11,43]
+  speakers: [14,11,43,69]
   complexity: "Advanced"
   presentation: ""
   video: "//www.youtube.com/embed/fOGdb1CTu5c"
