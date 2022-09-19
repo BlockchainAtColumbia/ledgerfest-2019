@@ -642,6 +642,16 @@
   bio: ''
   thumbnailUrl: brian.jpg
   rockstar: false
+-
+  id: 70
+  name: "Max"
+  surname: "Chong"
+  company: "Computecoin Network"
+  title: "Founder and CEO"
+  multiTitle: false
+  bio: 'Dr. Max (Chong) Li is a faculty member in the department of electrical engineering at Columbia University (in the City of New York), the founder & CEO of Computecoin Network, co-founder of Nakamoto & Turing Labs Inc. (a New York-based research & consulting firm), partner of Aves Lair (a New York-based VC). He had been working with Qualcomm Research on 4G LTE and 5G systems design. He is an IEEE Senior member, and also the president of Science & Technology Economic Committee at China-US Chamber of Commerce.'
+  thumbnailUrl: maxchong.jpg
+  rockstar: false
 # -
 #   id: 67
 #   name: "Caleb"
