@@ -602,6 +602,16 @@
   bio: ''
   thumbnailUrl: cameron.png
   rockstar: false
+-
+  id: 66
+  name: "Vera"
+  surname: "Wang"
+  company: "Sweetgum Labs"
+  title: "Cofounder"
+  multiTitle: false
+  bio: ''
+  thumbnailUrl: verawang.jpg
+  rockstar: false
 
 #
 #
