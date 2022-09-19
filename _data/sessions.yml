@@ -28,7 +28,7 @@
   id: 4
   title: "Crosschain"
   description: "What is Blockchain Interoperability? In its simplest terms, blockchain interoperability allows different blockchain protocols to actively communicate with each other. Therefore, different chains can interact and share data, which results in making it easier to use different blockchain networks."
-  speakers: [15,21,45,42]
+  speakers: [15,21,45,42,62]
   complexity: "Intermediate" 
  -
   id: 5
@@ -58,7 +58,7 @@
   title: "Lunch"
   place: "The North Gallery"
   service: true
-  description: "" 
+  description: "<a href="https://drive.google.com/file/d/1y9QRBr854pRl5BTDTRYavLYcJGDYM2S5/view?usp=sharing" target="_blank">Breakfast Menu</a>, <a href="https://drive.google.com/file/d/15i-zEAAw1R8k_SpJCLf8Tvra7i_ey6xu/view?usp=sharing" target="_blank">Lunch Menu</a>"
  -
   id: 10
   title: "Solo Talk"

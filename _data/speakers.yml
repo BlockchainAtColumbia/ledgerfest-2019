@@ -633,6 +633,16 @@
   thumbnailUrl: davidgan.png
   rockstar: false
 # -
+#   id: 69
+#   name: "Brian"
+#   surname: "Fakhoury"
+#   company: "Mechanism Capital"
+#   title: "Founder and General Partner"
+#   multiTitle: false
+#   bio: 'David Gan is the Founder and General Partner of <a href="https://www.opcrypto.vc/" target="_blank">OP Crypto</a>, the parent company of OP Venture Fund and OP Fund of Funds. David is the only former tier-1 centralized exchange executive to launch a crypto venture capital fund, with native ties to both the western and Asia markets.'
+#   thumbnailUrl: davidgan.png
+#   rockstar: false
+# -
 #   id: 67
 #   name: "Caleb"
 #   surname: "Kauppinen"
