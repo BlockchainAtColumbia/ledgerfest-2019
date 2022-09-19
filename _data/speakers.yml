@@ -284,31 +284,31 @@
   bio: 'Amit Mukherjee is the Founder of <a href="https://mobile.twitter.com/chainforestxyz" target="_blank">Chainforest</a>, a community-native VC fund supported by a group of 400 exceptional, curated web3 natives. Amit also is the Treasury Co-Lead at Friends With Benefits. Before going all-in on web3, Amit Mukherjee was the youngest Partner at the multi-billion dollar VC firm NEA, where he was named to the Forbes 30under30 list and invested in companies such as Duolingo, Masterclass, Uber, Snap and Bytedance.'
   thumbnailUrl: "AmitMukherjee.jpeg"
   rockstar: false
-# -
-#   id: 31
-#   name: "Noel"
-#   surname: "Turlington"
-#   company: "Student"
-#   title: "Club President and Defi Governance Lead"
-#   bio: ''
-#   thumbnailUrl: "1646197814496.jpeg"
-#   rockstar: false
-# -
-#   id: 32
-#   name: "Quintus"
-#   surname: "Kilbourn"
-#   title: "Alumni Relations/Researcher"
-#   company: "Flashbots"
-#   bio: ''
-#   thumbnailUrl: "Quintuspfp.jpeg"
-# -
-#   id: 33
-#   name: "Abraham"
-#   surname: "Logan"
-#   title: "LionDAO and Events"
-#   company: "Coterie Capital/Reidar DAO"
-#   bio: ' '
-#   thumbnailUrl: "Abrahampfp.jpeg"
+-
+  id: 31
+  name: "Noel"
+  surname: "Turlington"
+  company: "Student"
+  title: "Club President and Defi Governance Lead"
+  bio: ''
+  thumbnailUrl: "1646197814496.jpeg"
+  rockstar: false
+-
+  id: 32
+  name: "Quintus"
+  surname: "Kilbourn"
+  title: "Alumni Relations/Researcher"
+  company: "Flashbots"
+  bio: ''
+  thumbnailUrl: "Quintuspfp.jpeg"
+-
+  id: 33
+  name: "Abraham"
+  surname: "Logan"
+  title: "LionDAO and Events"
+  company: "Coterie Capital/Reidar DAO"
+  bio: ' '
+  thumbnailUrl: "Abrahampfp.jpeg"
 -
   id: 35
   name: "Nick"
@@ -612,6 +612,34 @@
   bio: ''
   thumbnailUrl: verawang.jpg
   rockstar: false
+-
+  id: 67
+  name: "Brett"
+  surname: "Palatiello"
+  company: "Interplay"
+  title: "Partner"
+  multiTitle: false
+  bio: 'Brett Palatiello's background lies at the intersection of economics, finance, and technology. Prior to joining <a href="https://www.interplay.vc/" target="_blank">Interplay</a>, he was the Head of Systematic Macro & Equities at Ridgewood Analytica where he provided research and various consulting services to hedge funds, wealth managers, and family offices. Before that, he was a partner and portfolio manager at Spring Valley Asset Management where he launched and managed a systematic global macro product. He began my career as a quantitative researcher and portfolio manager at Naqvi-Van Ness Asset Management where he traded long/short equity systems and built out the research and production technology. Along the way, he helped build token models, published an academic paper, and was a Fellow at the Economic Club of New York.'
+  thumbnailUrl: brett.jpg
+  rockstar: false
+-
+  id: 68
+  name: "David"
+  surname: "Gan"
+  company: "OP Crypto"
+  title: "Founder and General Partner"
+  multiTitle: false
+  bio: 'David Gan is the Founder and General Partner of <a href="https://www.opcrypto.vc/" target="_blank">OP Crypto</a>, the parent company of OP Venture Fund and OP Fund of Funds. David is the only former tier-1 centralized exchange executive to launch a crypto venture capital fund, with native ties to both the western and Asia markets.'
+  thumbnailUrl: davidgan.png
+  rockstar: false
+# -
+#   id: 67
+#   name: "Caleb"
+#   surname: "Kauppinen"
+#   title: "LionDAO and Events"
+#   company: "Coterie Capital/Reidar DAO"
+#   bio: ' '
+#   thumbnailUrl: "Abrahampfp.jpeg"
 
 #
 #

@@ -115,7 +115,7 @@
   id: 20
   title: "Lions in Crypto"
   description: ""
-  speakers: [26,48,49,53]
+  speakers: [26,48,49,53,31]
  -
   id: 21
   title: "How to build a Cross-Chain application from 0 to 1"
@@ -165,7 +165,7 @@
   id: 28
   title: "Investing In The Future of Crypto"
   description: ""
-  speakers: [18,8,51]
+  speakers: [18,8,51,67,68]
  -
   id: 29
   title: "OKX Demo Day Presentation"
