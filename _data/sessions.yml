@@ -98,7 +98,7 @@
   speakers: [20,50,57,58,66]
  -
   id: 17
-  title: "NEAR’s Roadmap to a Billion Users"
+  title: "Workshop: NEAR’s Roadmap to a Billion Users"
   description: 'Please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKuG7pxHe0bqf6d4fx5VC18sArLFQG2_fGqedv8UsvPQN1Ww/viewform" target="_blank">link</a> for consideration.'
   speakers: [65]
  -
@@ -118,7 +118,7 @@
   speakers: [26,48,49,53,31]
  -
   id: 21
-  title: "How to build a Cross-Chain application from 0 to 1"
+  title: "Workshop: How to build a Cross-Chain application from 0 to 1"
   description: 'Please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKuG7pxHe0bqf6d4fx5VC18sArLFQG2_fGqedv8UsvPQN1Ww/viewform" target="_blank">link</a> for consideration.'
   speakers: [61]
  -
@@ -145,7 +145,7 @@
   speakers: [39] 
  -
   id: 25
-  title: "Topics in On-Chain Trading"
+  title: "Workshop: Topics in On-Chain Trading"
   description: "Join Charles Guo, and Zane Grube from Jane Street for a deep dive into on-chain market structure and potential future equilibria! Please fill out this <a href='https://docs.google.com/forms/d/e/1FAIpQLSfKuG7pxHe0bqf6d4fx5VC18sArLFQG2_fGqedv8UsvPQN1Ww/viewform' target='_blank'>link</a> for consideration."
   speakers: [63]
  -
@@ -193,6 +193,6 @@
   speakers: [22]
  -
   id: 34
-  title: "Web3 Infrastructure - the next generation of cloud"
+  title: "Workshop: Web3 Infrastructure - the next generation of cloud"
   description: ""
   speakers: [70]
