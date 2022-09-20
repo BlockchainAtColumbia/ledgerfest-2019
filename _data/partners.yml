@@ -19,6 +19,7 @@
   group: "Bronze Sponsors"
   elements:
     - {name: "Algorand", description: "Algorand", link: "https://www.algorand.com/", imageUrl: "Algorand_logo.jpeg"}
+    - {name: "Alpha DAO", description: "", link: "https://www.meetalpha.org/", imageUrl: "alphaDAO.jpeg"}
     - {name: "Degen Events", description: "Degen Events", link: "https://www.degen.events/?city=New+York&country=United+States", imageUrl: "de-logo-black.png"}
     - {name: "EigenLayer", description: "Manta Network", link: "https://www.layrlabs.com/", imageUrl: "Y1shRlDs_400x400.jpeg"}
     - {name: "Commonwealth", description: "Commonwealth", link: "https://commonwealth.im/", imageUrl: "Commonwealth_Logo.jpeg"}
