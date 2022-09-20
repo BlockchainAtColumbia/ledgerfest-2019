@@ -40,12 +40,12 @@
     - {
         startTime: "1:pm",
         endTime: "2:pm",
-        sessionIds: [25]
+        sessionIds: [0,0,0,25]
     }
     - {
         startTime: "2:pm",
         endTime: "3:pm",
-        sessionIds: [17]
+        sessionIds: [0,0,0,17]
     }
     - {
         startTime: "1:45pm",
@@ -55,7 +55,7 @@
     - {
         startTime: "3:pm",
         endTime: "4:pm",
-        sessionIds: [21]
+        sessionIds: [0,0,0,21]
     }
     - {
         startTime: "2:30pm",
@@ -70,7 +70,7 @@
      - {
         startTime: "4:pm",
         endTime: "5:pm",
-        sessionIds: [34]
+        sessionIds: [0,0,0,34]
     }
     - {
         startTime: "4:pm",
