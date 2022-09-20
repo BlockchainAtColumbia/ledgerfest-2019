@@ -39,13 +39,13 @@
  # rockstar: false
 -
   id: 5
-  name: "Marieke"
-  surname: "Flament"
-  company: "CEO @ NEAR Foundation"
+  name: "Illia"
+  surname: "Polosukhin"
+  company: "Co-Founder of NEAR Protocol"
   title: ""
   multiTitle: false
-  bio: "Marieke is a French-born computer engineer who has worked across the globe in a diverse range of companies from the luxury giant LVMH of Louis Vuitton fame to Boston Consulting Group and Expedia's Hotels.com and crypto giant Circle. At Hotels.com she was in charge of Europe, Middle East and Africa Region, a $2bn P&L. In her last role she was Managing Director of Europe and Global CMO for Circle, one of the largest crypto company. At Circle she pioneered the consumer application of blockchain taking to market several products, building from scratch a user base of over 2M users in less than 2 years. She also helped move the blockchain agenda forward working with key decision makers, including governments and financial policy makers across Europe."
-  thumbnailUrl: marieke-flament-headshot.jpeg
+  bio: "Illia Polosukhin is Co-Founder of NEAR Protocol, a decentralized developer platform powered by a sharded smart contract blockchain. NEAR’s vision of a scalable, robust, and highly usable blockchain began in 2018 when they couldn't find a protocol that met the needs of builders. NEAR Protocol launched its mainnet in 2020 and is focused on scaling to global mainstream adoption. Illia has more than 10 years of industry experience, including 3 years at Google where he was a major TensorFlow contributor and managed the team building question-answering capabilities for the core Google search, as well as an author of several notable research papers. Illia has appeared in the Wall Street Journal, CNBC, Bloomberg, TIME, Wired, New York Magazine, Forbes, and TechCrunch."
+  thumbnailUrl: illiaPolosukhin.png
   rockstar: true
 -
   id: 6
