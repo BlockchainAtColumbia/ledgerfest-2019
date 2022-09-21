@@ -662,6 +662,25 @@
   bio: 'Amanda is the Founder & CEO of Serotonin, the leading web3 marketing agency and product studio. Amanda is also co-founder & President of Mojito, the first venture to spin out of Serotonin. Mojito is an NFT commerce suite that is the top choice by Sothebys, CAA, and major brands for engaging in d-commerce on web3. Amanda is a notable web3 product builder and master marketer who has helped bring some of the leading blockchain companies to market and advised global institutions on how to adopt NFTs and crypto. From 2016 to 2019, Amanda brought Ethereum to market as the CMO of ConsenSys, supporting its growth to become the largest and most robust blockchain ecosystem. Prior to joining ConsenSys, Amanda co-founded media startup Slant, which she launched after working under Arianna Huffington at The Huffington Post where she learned about the challenges for creators in web2 that she would spend her subsequent career addressing.'
   thumbnailUrl: amanda.jpg
   rockstar: false
+-
+  id: 72
+  name: "Maria"
+  surname: "Chak"
+  company: "Serotonin"
+  title: "Founder and CEO"
+  multiTitle: false
+  bio: 'Maria is the Gaming & Metaverse Lead at Republic Crypto. She has been a critical component in guiding portfolio companies from seed to liquidity which includes tokenomics, tokenization, fundraising, business development and marketing. She manages the partnership in NG+, an investment consortium and a Y-Combinator-like program to support gaming studios and developers entering web3. She closely partners with founders to provide resources and support on tokenomics, tokenization, fundraising and strategic partnerships. She joined Republic in October 2021 after her time at Onyx (first blockchain-based platform for wholesale payments transactions) by J.P. Morgan as part of the founding strategy team. At Onyx, she contributed to setting and driving the vision of the product by defining “north stars”, go-to-market strategy, and commercial models.'
+  thumbnailUrl: mariachak.jpg
+  rockstar: false
+-
+  id: 73
+  name: "Omid"
+  surname: "Malekan"
+  company: "Citi Ventures"
+  title: "Blockchain Innovation Expert"
+  bio: 'Adjunct professor at Columbia Business School and author of <a href="https://www.amazon.com/Re-Architecting-Trust-History-Markets-Platforms/dp/1732027323" target="_blank">Re-Architecting Trust: the Curse of History and the Crypto Cure for Money, Markets, and Platforms</a>.'
+  thumbnailUrl: omid.jpg
+  rockstar: false
 
 # -
 #   id: 67
