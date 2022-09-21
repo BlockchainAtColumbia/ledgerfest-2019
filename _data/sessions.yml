@@ -23,12 +23,12 @@
   speakers: [1]
   complexity: "Beginner to Intermediate"
   presentation: ""
-  video: "//www.youtube.com/embed/KNJGPI0fuFA" 
+  video: "//www.youtube.com/embed/KNJGPI0fuFA"
  -
   id: 4
   title: "Crosschain"
   description: "What is Blockchain Interoperability? In its simplest terms, blockchain interoperability allows different blockchain protocols to actively communicate with each other. Therefore, different chains can interact and share data, which results in making it easier to use different blockchain networks."
-  speakers: [15,21,45,42,62,73]
+  speakers: [15,21,45,42,62]
   complexity: "Intermediate" 
  -
   id: 5
@@ -75,7 +75,7 @@
   id: 12
   title: "Trading/Markets"
   description: ""
-  speakers: [10,47,55]
+  speakers: [10,47,55,73]
  -
   id: 13
   title: "Targeted Workshop To Be Anounced"
@@ -160,7 +160,7 @@
   id: 27
   title: "Why DAO's"
   description: "The best time to talk with speakers and attendees"
-  speakers: [23,29,46,9,16]
+  speakers: [23,29,46,9,16,74]
  -
   id: 28
   title: "Investing In The Future of Crypto"

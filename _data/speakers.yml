@@ -682,14 +682,15 @@
   thumbnailUrl: omid.jpg
   rockstar: false
 
-# -
-#   id: 67
-#   name: "Caleb"
-#   surname: "Kauppinen"
-#   title: "LionDAO and Events"
-#   company: "Coterie Capital/Reidar DAO"
-#   bio: ' '
-#   thumbnailUrl: "Abrahampfp.jpeg"
+-
+  id: 74
+  name: "Caleb"
+  surname: "Kauppinen"
+  title: "Digital Asset Analyst"
+  company: "B@C Events/Governance & R360 Global"
+  bio: ''
+  thumbnailUrl: "calebk.jpg"
+  rockstar: false
 
 #
 #
