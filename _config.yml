@@ -41,7 +41,7 @@ c4sponsorsUrl: "https://docs.google.com/forms/d/e/1FAIpQLSc-r8W_dozgM3taer0Vq_dw
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
- #- {permalink: "/pitches/", text: "LedgerFest VC Pitch Sign-Up"}
+ #- {permalink: "/pitches/", text: "VC Pitches"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/faq/", text: "FAQ"}
  - {permalink: "/team/", text: "Organizing Team"}
