@@ -734,7 +734,7 @@
   company: "Metagame"
   bio: 'Building infrastructure for <a href="https://www.metagame.xyz" target="_blank">The Metagame</a>. The next phase of NFTs are earned, not just purchased.'
   thumbnailUrl: Brenner.jpeg
-  rockstar: true
+  rockstar: false
 
 #
 #
