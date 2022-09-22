@@ -4,6 +4,8 @@ title:  "LedgerFest VC Pitch Sign-Up"
 permalink: /pitches/  
 isStaticPost: true
 ---
+#### Please submit your application [here](https://docs.google.com/forms/d/e/1FAIpQLSeChU8Sd_sbDjN9SY00A0AIjTLyyWepu1shG93U67d_kwp9iQ/viewform).
+
 If you're interested in having your elevator pitch heard by one of our VC professionals, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeChU8Sd_sbDjN9SY00A0AIjTLyyWepu1shG93U67d_kwp9iQ/viewform).
 
 Each pitch will be 6-10min long with 4-5min at the end for a short Q&A
@@ -11,7 +13,7 @@ There will be a white-board provided in the room if needed
 Please upload any presentation material that you have prepared beforehand
 
 
-#### Please submit your application [here](https://docs.google.com/forms/d/e/1FAIpQLSeChU8Sd_sbDjN9SY00A0AIjTLyyWepu1shG93U67d_kwp9iQ/viewform).
+
 __Deadline__ is September 23, 2022 at 8:00am.
 
 __Please note:__ There is no guarantee that you will be selected to give the pitch!
