@@ -110,3 +110,14 @@
     - {abbr: "CS", title: "Information Science"}
   social:
     - {name: "twitter", link: "https://twitter.com/zerotoonegame"} 
+- 
+  id: 110
+  name: "Sarah"
+  surname: "Sheng"
+  title: "Defi Governance and Branding"
+  thumbnailUrl: SarahSheng.webp
+  team: true
+  ribbon: 
+    - {abbr: "CS", title: "Information Science"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/zerotoonegame"} 
