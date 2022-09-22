@@ -257,15 +257,15 @@
   bio: 'Jonas is one of the Founders of <a href="https://empiric.network/" target="_blank">Empiric Network</a>, the first live oracle on <a href="https://starkware.co/starknet/" target="_blank">StarkNet</a>, and the leading provider of robust data feeds to the ecosystem today. The network is powered by data partners that include Alameda Research, Jane Street, Gemini, Flow Traders and CMT. By leveraging StarkNet on-chain computation, Empiric is also pioneering computational data feeds and will enable the next generation of DeFi protocols to go beyond what is possible today. Previously Jonas invested in companies at a Silicon Valley VC with >1 on BN AUM, wrote software at Palantir, and was head of product at a YC and Index Ventures-backed machine learning startup.'
   thumbnailUrl: "1626872097115.jpeg"
   rockstar: false
--
-  id: 22
-  name: "Speaker TBD"
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: "LionEmoji.jpeg"
-  rockstar: false
+#-
+#  id: 22
+#  name: "Speaker TBD"
+#  surname: ""
+#  company: ""
+#  title: ""
+#  bio: ""
+#  thumbnailUrl: "LionEmoji.jpeg"
+#  rockstar: false
 -
   id: 30
   name: "Raghu"
@@ -683,15 +683,6 @@
   rockstar: false
 -
   id: 74
-  name: "Caleb"
-  surname: "Kauppinen"
-  title: "Digital Asset Analyst"
-  company: "B@C Events/Governance & R360 Global"
-  bio: ''
-  thumbnailUrl: "calebk.jpg"
-  rockstar: false
--
-  id: 75
   name: "Caleb"
   surname: "Kauppinen"
   title: "Digital Asset Analyst"
