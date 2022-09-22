@@ -144,7 +144,7 @@
   surname: "Rhodes"
   company: "Hyperlane"
   title: "Smart Contract Engineer"
-  bio: 'Yorke is a Smart Contract Enginner focused on distributed systems, cryptography, and economics to build a trustless future. Before Abacus, Yorke held positions at <a href="https://gauntlet.network/" target="_blank">Gauntlet</a>, <a href="https://celo.org/" target="_blank">Celo</a>, and <a href="https://consensys.net/" target="_blank">Consensys</a>. He graduated from Rice University with a BSE in Computer Science.'
+  bio: 'Yorke is a Smart Contract Enginner focused on distributed systems, cryptography, and economics to build a trustless future. Before Hyperlane, Yorke held positions at <a href="https://gauntlet.network/" target="_blank">Gauntlet</a>, <a href="https://celo.org/" target="_blank">Celo</a>, and <a href="https://consensys.net/" target="_blank">Consensys</a>. He graduated from Rice University with a BSE in Computer Science.'
   thumbnailUrl: YorkeRhodes.jpeg 
   rockstar: false
 -
