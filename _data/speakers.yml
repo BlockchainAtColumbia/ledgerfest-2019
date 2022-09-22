@@ -257,15 +257,15 @@
   bio: 'Jonas is one of the Founders of <a href="https://empiric.network/" target="_blank">Empiric Network</a>, the first live oracle on <a href="https://starkware.co/starknet/" target="_blank">StarkNet</a>, and the leading provider of robust data feeds to the ecosystem today. The network is powered by data partners that include Alameda Research, Jane Street, Gemini, Flow Traders and CMT. By leveraging StarkNet on-chain computation, Empiric is also pioneering computational data feeds and will enable the next generation of DeFi protocols to go beyond what is possible today. Previously Jonas invested in companies at a Silicon Valley VC with >1 on BN AUM, wrote software at Palantir, and was head of product at a YC and Index Ventures-backed machine learning startup.'
   thumbnailUrl: "1626872097115.jpeg"
   rockstar: false
--
-  id: 22
-  name: "Speaker TBD"
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: "LionEmoji.jpeg"
-  rockstar: false
+#-
+#  id: 22
+#  name: "Speaker TBD"
+#  surname: ""
+#  company: ""
+#  title: ""
+#  bio: ""
+#  thumbnailUrl: "LionEmoji.jpeg"
+#  rockstar: false
 -
   id: 30
   name: "Raghu"
@@ -691,15 +691,6 @@
   thumbnailUrl: "calebk.jpg"
   rockstar: false
 -
-  id: 75
-  name: "Caleb"
-  surname: "Kauppinen"
-  title: "Digital Asset Analyst"
-  company: "B@C Events/Governance & R360 Global"
-  bio: ''
-  thumbnailUrl: "calebk.jpg"
-  rockstar: false
--
   id: 76
   name: "Bryan"
   surname: ""
@@ -707,6 +698,33 @@
   company: "LayerZero Labs"
   bio: 'Bryan is Co-Founder and CEO at LayerZero Labs, the leading omnichain interoperability protocol. Crypto native since 2013, he has spent a lifetime in game theory, AI, and complex systems. Prior to founding LayerZero, Bryan was a repeat founder with multiple exits, created ML models for professional sports teams, and published academic research with Noam Brown and Facebook AI Research.'
   thumbnailUrl: "bryan.jpg"
+  rockstar: false
+-
+  id: 77
+  name: "Alex"
+  surname: "Cheng"
+  title: "Sr. Product Owner"
+  company: "Composable Finance"
+  bio: 'Alex is the Sr. Product Owner for the bridging team at Composable Finance. Before that, he has been a cosmonaut since 2020, working across infra, backend, frontend, bizdev, and VC.'
+  thumbnailUrl: AlexCheng.jpg
+  rockstar: false
+-
+  id: 78
+  name: "Kaveh"
+  surname: "Aasaraai"
+  title: ""
+  company: "Hardware Engineer @ Jump Trading"
+  bio: 'Kaveh works at the Research Department for Jump with a Ph.D. in computer engineering from the University of Toronto. Kaveh’s research interests include computer architecture, soft processors, low-power designs and now the utility of hardware for crypto.'
+  thumbnailUrl: KavehAasaraai.jpg
+  rockstar: true
+-
+  id: 79
+  name: "Brenner"
+  surname: "Spear"
+  title: "Founder"
+  company: "Metagame"
+  bio: 'Building infrastructure for <a href="https://www.themetagame.xyz" target="_blank">The Metagame</a>. The next phase of NFTs are earned, not just purchased.'
+  thumbnailUrl: Brenner.jpeg
   rockstar: false
 
 #

@@ -28,7 +28,7 @@
   id: 4
   title: "Crosschain"
   description: "What is Blockchain Interoperability? In its simplest terms, blockchain interoperability allows different blockchain protocols to actively communicate with each other. Therefore, different chains can interact and share data, which results in making it easier to use different blockchain networks."
-  speakers: [15,21,45,42,62,76]
+  speakers: [15,21,45,42,62,76,77]
   complexity: "Intermediate" 
  -
   id: 5
@@ -110,7 +110,7 @@
   id: 19
   title: "What will the Metaverse look like in 2030?"
   description: ""
-  speakers: [7,59,72]
+  speakers: [7,59,72,79]
  -
   id: 20
   title: "Lions in Crypto"
@@ -173,9 +173,9 @@
   speakers: [60]
  -
   id: 30
-  title: "Keynote"
-  description: "To Be Announced"
-  speakers: [43]
+  title: "ZK’s and Hardware Optimizations"
+  description: 'Kaveh & Rahul have found a synergistic link in working together through combining their respective strengths. An off-chance meet up at a crypto conference has set them on a path to utilize Kaveh’s breadth of hardware knowledge with Rahul’s groundbreaking work on ZKs. they will discuss how these two fields complement each other and the potential for future utility. The team over at <a href="https://jumpcrypto.com/" target="_blank">Jump Crypto</a> is on a mission to bring the ecosystem together through cross-chain interoperability and streamlining transactional verification proofs across blockchains. Kaveh has an extensive history working with hardware components - this is proving to be a key part to Rahul’s ZK mission; as custom optimized hardware provides computational power needed to generate realtime proofs on the blockchain.'
+  speakers: [43,78]
   complexity: "Beginner to Intermediate"
  -
   id: 31
