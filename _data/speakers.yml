@@ -721,8 +721,8 @@
   id: 78
   name: "Kaveh"
   surname: "Aasaraai"
-  title: "Researcher"
-  company: "Jump Crypto"
+  title: ""
+  company: "Researcher @ Jump Crypto"
   bio: 'Kaveh works at the Research Department for Jump with a Ph.D. in computer engineering from the University of Toronto. Kaveh’s research interests include computer architecture, soft processors, low-power designs and now the utility of hardware for crypto.'
   thumbnailUrl: KavehAasaraai.jpg
   rockstar: true
