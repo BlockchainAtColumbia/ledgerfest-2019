@@ -35,7 +35,8 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/davidcarr3ra"}
     - {name: "telegram", link: "https://t.me/davidcarr3ra"}
-- 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/davidcarrera99/"}
+-
   id: 103
   name: "Abraham"
   surname: "Logan"
@@ -47,17 +48,22 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/Abraham_L_L"}
     - {name: "telegram", link: "https://t.me/Abraham_L_L"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/abraham-litwin-logan-6b29b214b/"}
+    
 - 
   id: 104
-  name: "Remus"
-  surname: "of Mars"
+  name: "Caleb"
+  surname: "Kauppinen"
   title: "Head of Events and Compound Governance Lead"
-  thumbnailUrl: Remuspfp.jpeg
+  thumbnailUrl: calebk.jpg
   team: true
   ribbon: 
     - {abbr: "CS", title: "Information Science"}
   social: 
-      - {name: "twitter", link: "https://twitter.com/remusofmars"} 
+      #- {name: "twitter", link: "https://twitter.com/remusofmars"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/calebkauppinen/"}
+      
+      
 - 
   id: 105
   name: "Wendy"
@@ -78,7 +84,10 @@
   team: true
   ribbon: 
     - {abbr: "CS", title: "Information Science"}
-  social: 
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/scott-qu-a3933314a/"}
+  
+
 - 
   id: 107
   name: "Adrian"
@@ -89,6 +98,8 @@
   ribbon: 
     - {abbr: "CS", title: "Information Science"}
   social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/adrian-koegl/"}
+
 - 
   id: 108
   name: "Reece"
@@ -99,6 +110,7 @@
   ribbon: 
     - {abbr: "CS", title: "Information Science"}
   social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/reece-knupp-649b081bb/"}
 - 
   id: 109
   name: "Edison"
@@ -109,15 +121,17 @@
   ribbon: 
     - {abbr: "CS", title: "Information Science"}
   social:
-    - {name: "twitter", link: "https://twitter.com/zerotoonegame"} 
+    - {name: "twitter", link: "https://twitter.com/zerotoonegame"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/edison-leung-961736194/"}
 - 
   id: 110
   name: "Sarah"
   surname: "Sheng"
-  title: "Defi Governance and Branding"
-  thumbnailUrl: SarahSheng.webp
+  title: "Head of Marketing"
+  thumbnailUrl: SarahSheng.jpeg
   team: true
   ribbon: 
     - {abbr: "CS", title: "Information Science"}
   social:
     - {name: "twitter", link: "https://twitter.com/zerotoonegame"} 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sarah-sheng/"}
