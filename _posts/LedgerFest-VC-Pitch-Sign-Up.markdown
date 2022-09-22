@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "LedgerFest VC Pitch Sign-Up"
-date:   
+permalink: /pitches/  
 isStaticPost: false
 ---
 If you're interested in having your elevator pitch heard by one of our VC professionals, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeChU8Sd_sbDjN9SY00A0AIjTLyyWepu1shG93U67d_kwp9iQ/viewform).
